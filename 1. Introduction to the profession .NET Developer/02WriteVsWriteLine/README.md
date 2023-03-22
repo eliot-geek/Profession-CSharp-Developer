@@ -9,7 +9,7 @@ Write a C# console application that demonstrates the difference between the Cons
 
 2. Use the Console.WriteLine method to display the same message "Hello World!!!" on the console screen.
 
-A3. dd a Console.ReadLine statement to prevent the console window from closing after the program executes.
+3. Add a Console.ReadLine statement to prevent the console window from closing after the program executes.
 
 Note: To close the application, the user needs to press the Enter key.
 
