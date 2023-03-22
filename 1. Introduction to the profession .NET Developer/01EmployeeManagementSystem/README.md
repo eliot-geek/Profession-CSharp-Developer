@@ -12,10 +12,10 @@ The Repository class also has methods for adding new employees to the database, 
 HOMEWORK
 
 Difficulty Level: Simple
-1. Modify the program to ensure that the number of employees in the department does not exceed 20 before the first round of layoffs.
+  1. Modify the program to ensure that the number of employees in the department does not exceed 20 before the first round of layoffs.
 
 Difficulty Level: Intermediate
-2. Create a department with 40 employees and perform multiple rounds of layoffs until no more than 30 employees are left in the department.
+  2. Create a department with 40 employees and perform multiple rounds of layoffs until no more than 30 employees are left in the department.
 
 Difficulty Level: Advanced
-3. Create a department with 50 employees and implement a filter to identify and dismiss all employees with a salary greater than $30,000.
+  3. Create a department with 50 employees and implement a filter to identify and dismiss all employees with a salary greater than $30,000.
