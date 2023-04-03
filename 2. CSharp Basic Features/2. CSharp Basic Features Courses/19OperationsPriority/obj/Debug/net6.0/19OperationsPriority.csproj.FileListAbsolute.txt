@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\19OperationsPriority\bin\Debug\net6.0\19OperationsPriority.exe
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\19OperationsPriority\bin\Debug\net6.0\19OperationsPriority.deps.json
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\19OperationsPriority\bin\Debug\net6.0\19OperationsPriority.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\19OperationsPriority\bin\Debug\net6.0\19OperationsPriority.dll
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\19OperationsPriority\bin\Debug\net6.0\19OperationsPriority.pdb
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\19OperationsPriority\obj\Debug\net6.0\19OperationsPriority.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\19OperationsPriority\obj\Debug\net6.0\19OperationsPriority.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\19OperationsPriority\obj\Debug\net6.0\19OperationsPriority.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\19OperationsPriority\obj\Debug\net6.0\19OperationsPriority.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\19OperationsPriority\obj\Debug\net6.0\19OperationsPriority.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\19OperationsPriority\obj\Debug\net6.0\19OperationsPriority.dll
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\19OperationsPriority\obj\Debug\net6.0\refint\19OperationsPriority.dll
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\19OperationsPriority\obj\Debug\net6.0\19OperationsPriority.pdb
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\19OperationsPriority\obj\Debug\net6.0\19OperationsPriority.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\19OperationsPriority\obj\Debug\net6.0\ref\19OperationsPriority.dll

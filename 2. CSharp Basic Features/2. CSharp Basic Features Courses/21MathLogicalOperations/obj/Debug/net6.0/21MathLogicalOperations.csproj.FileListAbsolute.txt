@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\21MathLogicalOperations\bin\Debug\net6.0\21MathLogicalOperations.exe
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\21MathLogicalOperations\bin\Debug\net6.0\21MathLogicalOperations.deps.json
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\21MathLogicalOperations\bin\Debug\net6.0\21MathLogicalOperations.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\21MathLogicalOperations\bin\Debug\net6.0\21MathLogicalOperations.dll
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\21MathLogicalOperations\bin\Debug\net6.0\21MathLogicalOperations.pdb
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\21MathLogicalOperations\obj\Debug\net6.0\21MathLogicalOperations.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\21MathLogicalOperations\obj\Debug\net6.0\21MathLogicalOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\21MathLogicalOperations\obj\Debug\net6.0\21MathLogicalOperations.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\21MathLogicalOperations\obj\Debug\net6.0\21MathLogicalOperations.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\21MathLogicalOperations\obj\Debug\net6.0\21MathLogicalOperations.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\21MathLogicalOperations\obj\Debug\net6.0\21MathLogicalOperations.dll
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\21MathLogicalOperations\obj\Debug\net6.0\refint\21MathLogicalOperations.dll
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\21MathLogicalOperations\obj\Debug\net6.0\21MathLogicalOperations.pdb
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\21MathLogicalOperations\obj\Debug\net6.0\21MathLogicalOperations.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\21MathLogicalOperations\obj\Debug\net6.0\ref\21MathLogicalOperations.dll
