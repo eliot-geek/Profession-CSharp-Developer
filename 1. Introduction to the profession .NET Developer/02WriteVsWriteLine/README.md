@@ -12,5 +12,3 @@ Write a C# console application that demonstrates the difference between the Cons
 3. Add a Console.ReadLine statement to prevent the console window from closing after the program executes.
 
 Note: To close the application, the user needs to press the Enter key.
-
-Evaluation Criteria: The program should display the message specified in the task using both the Console.Write and Console.WriteLine methods. The application should not close until the user presses the Enter key.
