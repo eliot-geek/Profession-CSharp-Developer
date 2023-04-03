@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\06BoolTypes\bin\Debug\net6.0\06BoolTypes.exe
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\06BoolTypes\bin\Debug\net6.0\06BoolTypes.deps.json
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\06BoolTypes\bin\Debug\net6.0\06BoolTypes.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\06BoolTypes\bin\Debug\net6.0\06BoolTypes.dll
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\06BoolTypes\bin\Debug\net6.0\06BoolTypes.pdb
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\06BoolTypes\obj\Debug\net6.0\06BoolTypes.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\06BoolTypes\obj\Debug\net6.0\06BoolTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\06BoolTypes\obj\Debug\net6.0\06BoolTypes.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\06BoolTypes\obj\Debug\net6.0\06BoolTypes.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\06BoolTypes\obj\Debug\net6.0\06BoolTypes.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\06BoolTypes\obj\Debug\net6.0\06BoolTypes.dll
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\06BoolTypes\obj\Debug\net6.0\refint\06BoolTypes.dll
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\06BoolTypes\obj\Debug\net6.0\06BoolTypes.pdb
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\06BoolTypes\obj\Debug\net6.0\06BoolTypes.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\06BoolTypes\obj\Debug\net6.0\ref\06BoolTypes.dll
