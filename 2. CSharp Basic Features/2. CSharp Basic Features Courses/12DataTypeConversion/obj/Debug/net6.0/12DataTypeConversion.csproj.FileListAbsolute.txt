@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\12DataTypeConversion\bin\Debug\net6.0\12DataTypeConversion.exe
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\12DataTypeConversion\bin\Debug\net6.0\12DataTypeConversion.deps.json
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\12DataTypeConversion\bin\Debug\net6.0\12DataTypeConversion.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\12DataTypeConversion\bin\Debug\net6.0\12DataTypeConversion.dll
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\12DataTypeConversion\bin\Debug\net6.0\12DataTypeConversion.pdb
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\12DataTypeConversion\obj\Debug\net6.0\12DataTypeConversion.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\12DataTypeConversion\obj\Debug\net6.0\12DataTypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\12DataTypeConversion\obj\Debug\net6.0\12DataTypeConversion.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\12DataTypeConversion\obj\Debug\net6.0\12DataTypeConversion.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\12DataTypeConversion\obj\Debug\net6.0\12DataTypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\12DataTypeConversion\obj\Debug\net6.0\12DataTypeConversion.dll
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\12DataTypeConversion\obj\Debug\net6.0\refint\12DataTypeConversion.dll
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\12DataTypeConversion\obj\Debug\net6.0\12DataTypeConversion.pdb
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\12DataTypeConversion\obj\Debug\net6.0\12DataTypeConversion.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\12DataTypeConversion\obj\Debug\net6.0\ref\12DataTypeConversion.dll
