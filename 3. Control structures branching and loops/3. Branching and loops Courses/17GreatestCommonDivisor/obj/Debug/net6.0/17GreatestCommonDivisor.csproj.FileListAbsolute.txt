@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\17GreatestCommonDivisor\bin\Debug\net6.0\17GreatestCommonDivisor.exe
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\17GreatestCommonDivisor\bin\Debug\net6.0\17GreatestCommonDivisor.deps.json
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\17GreatestCommonDivisor\bin\Debug\net6.0\17GreatestCommonDivisor.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\17GreatestCommonDivisor\bin\Debug\net6.0\17GreatestCommonDivisor.dll
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\17GreatestCommonDivisor\bin\Debug\net6.0\17GreatestCommonDivisor.pdb
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\17GreatestCommonDivisor\obj\Debug\net6.0\17GreatestCommonDivisor.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\17GreatestCommonDivisor\obj\Debug\net6.0\17GreatestCommonDivisor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\17GreatestCommonDivisor\obj\Debug\net6.0\17GreatestCommonDivisor.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\17GreatestCommonDivisor\obj\Debug\net6.0\17GreatestCommonDivisor.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\17GreatestCommonDivisor\obj\Debug\net6.0\17GreatestCommonDivisor.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\17GreatestCommonDivisor\obj\Debug\net6.0\17GreatestCommonDivisor.dll
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\17GreatestCommonDivisor\obj\Debug\net6.0\refint\17GreatestCommonDivisor.dll
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\17GreatestCommonDivisor\obj\Debug\net6.0\17GreatestCommonDivisor.pdb
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\17GreatestCommonDivisor\obj\Debug\net6.0\17GreatestCommonDivisor.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\17GreatestCommonDivisor\obj\Debug\net6.0\ref\17GreatestCommonDivisor.dll
