@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Projects\SmallestElementFinder\SmallestElementFinder\bin\Debug\net6.0\SmallestElementFinder.exe
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Projects\SmallestElementFinder\SmallestElementFinder\bin\Debug\net6.0\SmallestElementFinder.deps.json
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Projects\SmallestElementFinder\SmallestElementFinder\bin\Debug\net6.0\SmallestElementFinder.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Projects\SmallestElementFinder\SmallestElementFinder\bin\Debug\net6.0\SmallestElementFinder.dll
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Projects\SmallestElementFinder\SmallestElementFinder\bin\Debug\net6.0\SmallestElementFinder.pdb
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Projects\SmallestElementFinder\SmallestElementFinder\obj\Debug\net6.0\SmallestElementFinder.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Projects\SmallestElementFinder\SmallestElementFinder\obj\Debug\net6.0\SmallestElementFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Projects\SmallestElementFinder\SmallestElementFinder\obj\Debug\net6.0\SmallestElementFinder.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Projects\SmallestElementFinder\SmallestElementFinder\obj\Debug\net6.0\SmallestElementFinder.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Projects\SmallestElementFinder\SmallestElementFinder\obj\Debug\net6.0\SmallestElementFinder.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Projects\SmallestElementFinder\SmallestElementFinder\obj\Debug\net6.0\SmallestElementFinder.dll
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Projects\SmallestElementFinder\SmallestElementFinder\obj\Debug\net6.0\refint\SmallestElementFinder.dll
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Projects\SmallestElementFinder\SmallestElementFinder\obj\Debug\net6.0\SmallestElementFinder.pdb
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Projects\SmallestElementFinder\SmallestElementFinder\obj\Debug\net6.0\SmallestElementFinder.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Projects\SmallestElementFinder\SmallestElementFinder\obj\Debug\net6.0\ref\SmallestElementFinder.dll
