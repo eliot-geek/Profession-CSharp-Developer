@@ -1,0 +1,22 @@
+$AV_ASW
+$GetCurrent
+$Recycle.Bin
+$Windows.~WS
+$WinREAgent
+Config.Msi
+Documents and Settings
+ESD
+HP
+Intel
+LEOSARAH
+MobiMoverBackup
+OneDriveTemp
+PerfLogs
+Program Files
+Program Files (x86)
+ProgramData
+Recovery
+System Volume Information
+temp
+Users
+Windows
