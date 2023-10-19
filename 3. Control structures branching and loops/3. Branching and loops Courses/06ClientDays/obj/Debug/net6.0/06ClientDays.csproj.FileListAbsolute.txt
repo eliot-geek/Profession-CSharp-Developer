@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\06ClientDays\bin\Debug\net6.0\06ClientDays.exe
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\06ClientDays\bin\Debug\net6.0\06ClientDays.deps.json
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\06ClientDays\bin\Debug\net6.0\06ClientDays.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\06ClientDays\bin\Debug\net6.0\06ClientDays.dll
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\06ClientDays\bin\Debug\net6.0\06ClientDays.pdb
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\06ClientDays\obj\Debug\net6.0\06ClientDays.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\06ClientDays\obj\Debug\net6.0\06ClientDays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\06ClientDays\obj\Debug\net6.0\06ClientDays.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\06ClientDays\obj\Debug\net6.0\06ClientDays.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\06ClientDays\obj\Debug\net6.0\06ClientDays.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\06ClientDays\obj\Debug\net6.0\06ClientDays.dll
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\06ClientDays\obj\Debug\net6.0\refint\06ClientDays.dll
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\06ClientDays\obj\Debug\net6.0\06ClientDays.pdb
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\06ClientDays\obj\Debug\net6.0\06ClientDays.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\06ClientDays\obj\Debug\net6.0\ref\06ClientDays.dll

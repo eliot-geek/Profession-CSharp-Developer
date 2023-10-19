@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\12SwitchImpossibleRange\bin\Debug\net6.0\12SwitchImpossibleRange.exe
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\12SwitchImpossibleRange\bin\Debug\net6.0\12SwitchImpossibleRange.deps.json
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\12SwitchImpossibleRange\bin\Debug\net6.0\12SwitchImpossibleRange.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\12SwitchImpossibleRange\bin\Debug\net6.0\12SwitchImpossibleRange.dll
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\12SwitchImpossibleRange\bin\Debug\net6.0\12SwitchImpossibleRange.pdb
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\12SwitchImpossibleRange\obj\Debug\net6.0\12SwitchImpossibleRange.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\12SwitchImpossibleRange\obj\Debug\net6.0\12SwitchImpossibleRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\12SwitchImpossibleRange\obj\Debug\net6.0\12SwitchImpossibleRange.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\12SwitchImpossibleRange\obj\Debug\net6.0\12SwitchImpossibleRange.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\12SwitchImpossibleRange\obj\Debug\net6.0\12SwitchImpossibleRange.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\12SwitchImpossibleRange\obj\Debug\net6.0\12SwitchImpossibleRange.dll
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\12SwitchImpossibleRange\obj\Debug\net6.0\refint\12SwitchImpossibleRange.dll
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\12SwitchImpossibleRange\obj\Debug\net6.0\12SwitchImpossibleRange.pdb
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\12SwitchImpossibleRange\obj\Debug\net6.0\12SwitchImpossibleRange.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\12SwitchImpossibleRange\obj\Debug\net6.0\ref\12SwitchImpossibleRange.dll
