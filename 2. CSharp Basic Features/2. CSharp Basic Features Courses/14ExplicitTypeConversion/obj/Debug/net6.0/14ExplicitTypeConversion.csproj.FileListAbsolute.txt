@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\14ExplicitTypeConversion\bin\Debug\net6.0\14ExplicitTypeConversion.exe
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\14ExplicitTypeConversion\bin\Debug\net6.0\14ExplicitTypeConversion.deps.json
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\14ExplicitTypeConversion\bin\Debug\net6.0\14ExplicitTypeConversion.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\14ExplicitTypeConversion\bin\Debug\net6.0\14ExplicitTypeConversion.dll
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\14ExplicitTypeConversion\bin\Debug\net6.0\14ExplicitTypeConversion.pdb
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\14ExplicitTypeConversion\obj\Debug\net6.0\14ExplicitTypeConversion.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\14ExplicitTypeConversion\obj\Debug\net6.0\14ExplicitTypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\14ExplicitTypeConversion\obj\Debug\net6.0\14ExplicitTypeConversion.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\14ExplicitTypeConversion\obj\Debug\net6.0\14ExplicitTypeConversion.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\14ExplicitTypeConversion\obj\Debug\net6.0\14ExplicitTypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\14ExplicitTypeConversion\obj\Debug\net6.0\14ExplicitTypeConversion.dll
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\14ExplicitTypeConversion\obj\Debug\net6.0\refint\14ExplicitTypeConversion.dll
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\14ExplicitTypeConversion\obj\Debug\net6.0\14ExplicitTypeConversion.pdb
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\14ExplicitTypeConversion\obj\Debug\net6.0\14ExplicitTypeConversion.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\14ExplicitTypeConversion\obj\Debug\net6.0\ref\14ExplicitTypeConversion.dll

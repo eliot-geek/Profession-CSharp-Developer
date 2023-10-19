@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\11NumbersAfterPoint\bin\Debug\net6.0\11NumbersAfterPoint.exe
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\11NumbersAfterPoint\bin\Debug\net6.0\11NumbersAfterPoint.deps.json
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\11NumbersAfterPoint\bin\Debug\net6.0\11NumbersAfterPoint.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\11NumbersAfterPoint\bin\Debug\net6.0\11NumbersAfterPoint.dll
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\11NumbersAfterPoint\bin\Debug\net6.0\11NumbersAfterPoint.pdb
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\11NumbersAfterPoint\obj\Debug\net6.0\11NumbersAfterPoint.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\11NumbersAfterPoint\obj\Debug\net6.0\11NumbersAfterPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\11NumbersAfterPoint\obj\Debug\net6.0\11NumbersAfterPoint.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\11NumbersAfterPoint\obj\Debug\net6.0\11NumbersAfterPoint.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\11NumbersAfterPoint\obj\Debug\net6.0\11NumbersAfterPoint.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\11NumbersAfterPoint\obj\Debug\net6.0\11NumbersAfterPoint.dll
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\11NumbersAfterPoint\obj\Debug\net6.0\refint\11NumbersAfterPoint.dll
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\11NumbersAfterPoint\obj\Debug\net6.0\11NumbersAfterPoint.pdb
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\11NumbersAfterPoint\obj\Debug\net6.0\11NumbersAfterPoint.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\11NumbersAfterPoint\obj\Debug\net6.0\ref\11NumbersAfterPoint.dll
