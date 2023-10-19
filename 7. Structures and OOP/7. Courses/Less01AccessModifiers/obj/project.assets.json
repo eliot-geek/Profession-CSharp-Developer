@@ -1,0 +1,96 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Less00IntroToStructures/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Less00IntroToStructures.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Less00IntroToStructures.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Less00IntroToStructures/1.0.0": {
+      "type": "project",
+      "path": "../Less00IntroToStructures/Less00IntroToStructures.csproj",
+      "msbuildProject": "../Less00IntroToStructures/Less00IntroToStructures.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Less00IntroToStructures >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\leosa\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\leosa\\Downloads\\PushHub\\7. Structures and Introduction to OOP\\7. Courses\\StructuresAndOOP\\Less01AccessModifiers\\Less01AccessModifiers.csproj",
+      "projectName": "Less01AccessModifiers",
+      "projectPath": "C:\\Users\\leosa\\Downloads\\PushHub\\7. Structures and Introduction to OOP\\7. Courses\\StructuresAndOOP\\Less01AccessModifiers\\Less01AccessModifiers.csproj",
+      "packagesPath": "C:\\Users\\leosa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\leosa\\Downloads\\PushHub\\7. Structures and Introduction to OOP\\7. Courses\\StructuresAndOOP\\Less01AccessModifiers\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\leosa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\leosa\\Downloads\\PushHub\\7. Structures and Introduction to OOP\\7. Courses\\StructuresAndOOP\\Less00IntroToStructures\\Less00IntroToStructures.csproj": {
+              "projectPath": "C:\\Users\\leosa\\Downloads\\PushHub\\7. Structures and Introduction to OOP\\7. Courses\\StructuresAndOOP\\Less00IntroToStructures\\Less00IntroToStructures.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

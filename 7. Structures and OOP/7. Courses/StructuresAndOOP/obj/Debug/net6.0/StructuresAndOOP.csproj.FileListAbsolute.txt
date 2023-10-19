@@ -1,0 +1,14 @@
+C:\Users\leosa\Downloads\PushHub\7. Structures and Introduction to OOP\7. Courses\StructuresAndOOP\StructuresAndOOP\bin\Debug\net6.0\StructuresAndOOP.exe
+C:\Users\leosa\Downloads\PushHub\7. Structures and Introduction to OOP\7. Courses\StructuresAndOOP\StructuresAndOOP\bin\Debug\net6.0\StructuresAndOOP.deps.json
+C:\Users\leosa\Downloads\PushHub\7. Structures and Introduction to OOP\7. Courses\StructuresAndOOP\StructuresAndOOP\bin\Debug\net6.0\StructuresAndOOP.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\7. Structures and Introduction to OOP\7. Courses\StructuresAndOOP\StructuresAndOOP\bin\Debug\net6.0\StructuresAndOOP.dll
+C:\Users\leosa\Downloads\PushHub\7. Structures and Introduction to OOP\7. Courses\StructuresAndOOP\StructuresAndOOP\bin\Debug\net6.0\StructuresAndOOP.pdb
+C:\Users\leosa\Downloads\PushHub\7. Structures and Introduction to OOP\7. Courses\StructuresAndOOP\StructuresAndOOP\obj\Debug\net6.0\StructuresAndOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\7. Structures and Introduction to OOP\7. Courses\StructuresAndOOP\StructuresAndOOP\obj\Debug\net6.0\StructuresAndOOP.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\7. Structures and Introduction to OOP\7. Courses\StructuresAndOOP\StructuresAndOOP\obj\Debug\net6.0\StructuresAndOOP.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\7. Structures and Introduction to OOP\7. Courses\StructuresAndOOP\StructuresAndOOP\obj\Debug\net6.0\StructuresAndOOP.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\7. Structures and Introduction to OOP\7. Courses\StructuresAndOOP\StructuresAndOOP\obj\Debug\net6.0\StructuresAndOOP.dll
+C:\Users\leosa\Downloads\PushHub\7. Structures and Introduction to OOP\7. Courses\StructuresAndOOP\StructuresAndOOP\obj\Debug\net6.0\refint\StructuresAndOOP.dll
+C:\Users\leosa\Downloads\PushHub\7. Structures and Introduction to OOP\7. Courses\StructuresAndOOP\StructuresAndOOP\obj\Debug\net6.0\StructuresAndOOP.pdb
+C:\Users\leosa\Downloads\PushHub\7. Structures and Introduction to OOP\7. Courses\StructuresAndOOP\StructuresAndOOP\obj\Debug\net6.0\StructuresAndOOP.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\7. Structures and Introduction to OOP\7. Courses\StructuresAndOOP\StructuresAndOOP\obj\Debug\net6.0\ref\StructuresAndOOP.dll

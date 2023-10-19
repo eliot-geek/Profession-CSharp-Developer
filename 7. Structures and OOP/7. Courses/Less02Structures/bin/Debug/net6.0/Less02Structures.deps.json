@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Less02Structures/1.0.0": {
+        "runtime": {
+          "Less02Structures.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Less02Structures/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

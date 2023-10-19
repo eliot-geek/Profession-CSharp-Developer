@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Less01AccessModifiers/1.0.0": {
+        "dependencies": {
+          "Less00IntroToStructures": "1.0.0"
+        },
+        "runtime": {
+          "Less01AccessModifiers.dll": {}
+        }
+      },
+      "Less00IntroToStructures/1.0.0": {
+        "runtime": {
+          "Less00IntroToStructures.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Less01AccessModifiers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Less00IntroToStructures/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

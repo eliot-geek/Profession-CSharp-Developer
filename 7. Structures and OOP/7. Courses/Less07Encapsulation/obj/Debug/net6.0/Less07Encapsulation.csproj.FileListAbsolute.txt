@@ -1,0 +1,14 @@
+C:\Users\leosa\Downloads\PushHub\7. Structures and Introduction to OOP\7. Courses\StructuresAndOOP\Less07Encapsulation\bin\Debug\net6.0\Less07Encapsulation.exe
+C:\Users\leosa\Downloads\PushHub\7. Structures and Introduction to OOP\7. Courses\StructuresAndOOP\Less07Encapsulation\bin\Debug\net6.0\Less07Encapsulation.deps.json
+C:\Users\leosa\Downloads\PushHub\7. Structures and Introduction to OOP\7. Courses\StructuresAndOOP\Less07Encapsulation\bin\Debug\net6.0\Less07Encapsulation.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\7. Structures and Introduction to OOP\7. Courses\StructuresAndOOP\Less07Encapsulation\bin\Debug\net6.0\Less07Encapsulation.dll
+C:\Users\leosa\Downloads\PushHub\7. Structures and Introduction to OOP\7. Courses\StructuresAndOOP\Less07Encapsulation\bin\Debug\net6.0\Less07Encapsulation.pdb
+C:\Users\leosa\Downloads\PushHub\7. Structures and Introduction to OOP\7. Courses\StructuresAndOOP\Less07Encapsulation\obj\Debug\net6.0\Less07Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\7. Structures and Introduction to OOP\7. Courses\StructuresAndOOP\Less07Encapsulation\obj\Debug\net6.0\Less07Encapsulation.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\7. Structures and Introduction to OOP\7. Courses\StructuresAndOOP\Less07Encapsulation\obj\Debug\net6.0\Less07Encapsulation.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\7. Structures and Introduction to OOP\7. Courses\StructuresAndOOP\Less07Encapsulation\obj\Debug\net6.0\Less07Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\7. Structures and Introduction to OOP\7. Courses\StructuresAndOOP\Less07Encapsulation\obj\Debug\net6.0\Less07Encapsulation.dll
+C:\Users\leosa\Downloads\PushHub\7. Structures and Introduction to OOP\7. Courses\StructuresAndOOP\Less07Encapsulation\obj\Debug\net6.0\refint\Less07Encapsulation.dll
+C:\Users\leosa\Downloads\PushHub\7. Structures and Introduction to OOP\7. Courses\StructuresAndOOP\Less07Encapsulation\obj\Debug\net6.0\Less07Encapsulation.pdb
+C:\Users\leosa\Downloads\PushHub\7. Structures and Introduction to OOP\7. Courses\StructuresAndOOP\Less07Encapsulation\obj\Debug\net6.0\Less07Encapsulation.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\7. Structures and Introduction to OOP\7. Courses\StructuresAndOOP\Less07Encapsulation\obj\Debug\net6.0\ref\Less07Encapsulation.dll
