@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\1. Introduction to the profession .NET Developer\02WriteVsWriteLine\02WriteVsWriteLine\bin\Debug\net6.0\02WriteVsWriteLine.exe
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\1. Introduction to the profession .NET Developer\02WriteVsWriteLine\02WriteVsWriteLine\bin\Debug\net6.0\02WriteVsWriteLine.deps.json
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\1. Introduction to the profession .NET Developer\02WriteVsWriteLine\02WriteVsWriteLine\bin\Debug\net6.0\02WriteVsWriteLine.runtimeconfig.json
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\1. Introduction to the profession .NET Developer\02WriteVsWriteLine\02WriteVsWriteLine\bin\Debug\net6.0\02WriteVsWriteLine.dll
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\1. Introduction to the profession .NET Developer\02WriteVsWriteLine\02WriteVsWriteLine\bin\Debug\net6.0\02WriteVsWriteLine.pdb
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\1. Introduction to the profession .NET Developer\02WriteVsWriteLine\02WriteVsWriteLine\obj\Debug\net6.0\02WriteVsWriteLine.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\1. Introduction to the profession .NET Developer\02WriteVsWriteLine\02WriteVsWriteLine\obj\Debug\net6.0\02WriteVsWriteLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\1. Introduction to the profession .NET Developer\02WriteVsWriteLine\02WriteVsWriteLine\obj\Debug\net6.0\02WriteVsWriteLine.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\1. Introduction to the profession .NET Developer\02WriteVsWriteLine\02WriteVsWriteLine\obj\Debug\net6.0\02WriteVsWriteLine.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\1. Introduction to the profession .NET Developer\02WriteVsWriteLine\02WriteVsWriteLine\obj\Debug\net6.0\02WriteVsWriteLine.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\1. Introduction to the profession .NET Developer\02WriteVsWriteLine\02WriteVsWriteLine\obj\Debug\net6.0\02WriteVsWriteLine.dll
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\1. Introduction to the profession .NET Developer\02WriteVsWriteLine\02WriteVsWriteLine\obj\Debug\net6.0\refint\02WriteVsWriteLine.dll
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\1. Introduction to the profession .NET Developer\02WriteVsWriteLine\02WriteVsWriteLine\obj\Debug\net6.0\02WriteVsWriteLine.pdb
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\1. Introduction to the profession .NET Developer\02WriteVsWriteLine\02WriteVsWriteLine\obj\Debug\net6.0\02WriteVsWriteLine.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\1. Introduction to the profession .NET Developer\02WriteVsWriteLine\02WriteVsWriteLine\obj\Debug\net6.0\ref\02WriteVsWriteLine.dll

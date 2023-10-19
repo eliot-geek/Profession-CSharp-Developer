@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\1. Introduction to the profession .NET Developer\00HelloWorld\00HelloWorld\bin\Debug\net6.0\00HelloWorld.exe
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\1. Introduction to the profession .NET Developer\00HelloWorld\00HelloWorld\bin\Debug\net6.0\00HelloWorld.deps.json
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\1. Introduction to the profession .NET Developer\00HelloWorld\00HelloWorld\bin\Debug\net6.0\00HelloWorld.runtimeconfig.json
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\1. Introduction to the profession .NET Developer\00HelloWorld\00HelloWorld\bin\Debug\net6.0\00HelloWorld.dll
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\1. Introduction to the profession .NET Developer\00HelloWorld\00HelloWorld\bin\Debug\net6.0\00HelloWorld.pdb
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\1. Introduction to the profession .NET Developer\00HelloWorld\00HelloWorld\obj\Debug\net6.0\00HelloWorld.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\1. Introduction to the profession .NET Developer\00HelloWorld\00HelloWorld\obj\Debug\net6.0\00HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\1. Introduction to the profession .NET Developer\00HelloWorld\00HelloWorld\obj\Debug\net6.0\00HelloWorld.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\1. Introduction to the profession .NET Developer\00HelloWorld\00HelloWorld\obj\Debug\net6.0\00HelloWorld.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\1. Introduction to the profession .NET Developer\00HelloWorld\00HelloWorld\obj\Debug\net6.0\00HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\1. Introduction to the profession .NET Developer\00HelloWorld\00HelloWorld\obj\Debug\net6.0\00HelloWorld.dll
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\1. Introduction to the profession .NET Developer\00HelloWorld\00HelloWorld\obj\Debug\net6.0\refint\00HelloWorld.dll
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\1. Introduction to the profession .NET Developer\00HelloWorld\00HelloWorld\obj\Debug\net6.0\00HelloWorld.pdb
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\1. Introduction to the profession .NET Developer\00HelloWorld\00HelloWorld\obj\Debug\net6.0\00HelloWorld.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\1. Introduction to the profession .NET Developer\00HelloWorld\00HelloWorld\obj\Debug\net6.0\ref\00HelloWorld.dll
