@@ -15,11 +15,6 @@
 - Importing entries within a specified date range.
 - Sorting entries within the daily planner based on a selected field.
 
-Create a user-friendly interface to facilitate these operations for the user.
-
-# Task
-**Develop a daily planner application with the following capabilities:**
-
 # Practical Work Objectives
 Learn how to:
 - Apply access modifiers.
@@ -133,17 +128,10 @@ To manually sort data, you can implement sorting algorithms. A good starting poi
 # Evaluation Criteria
 
 The following criteria will be considered for evaluation:
-
 1. **Creation of a Daily Planner**: You should create a daily planner that can store entries.
-
 2. **Recording Creation Date**: Each entry should have a field for the creation date.
-
 3. **Data Persistence**: All entries should be saved to disk to ensure data persistence.
-
 4. **Data Loading**: The program should be able to load entries from the disk.
-
 5. **Loading Entries Within Date Range**: The ability to load entries from the disk within a specified date range.
-
 6. **Record Creation and Deletion**: Users should be able to create and delete entries.
-
 7. **Sorting Entries**: Entries should be sortable by selecting a specific field within the main program, rather than solely within the Repository.
