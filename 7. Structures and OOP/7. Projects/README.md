@@ -1,4 +1,4 @@
-# **Task**
+# **Task (The data for creating new entries and editing entries will be entered by the user via the keyboard)**
 **Develop a daily planner application with the following capabilities:**
 
 - Creating new entries.
