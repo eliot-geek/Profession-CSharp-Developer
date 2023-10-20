@@ -122,7 +122,7 @@ When working with dates, it is essential to use the correct data type, which is 
 
 ## How to Manually Sort Data?
 
-To manually sort data, you can implement sorting algorithms. A good starting point is the bubble sort algorithm. You can find a textual description of this algorithm online and attempt to implement it in C#. While this can be a challenging task, it's an excellent opportunity to learn. Further details about sorting objects can be found in the [Sorting Objects](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/sorting-objects) article.
+To manually sort data, you can implement sorting algorithms. A good starting point is the bubble sort algorithm. You can find a textual description of this algorithm online and attempt to implement it in C#. While this can be a challenging task, it's an excellent opportunity to learn. Further details about sorting objects can be found in the [Sorting Objects](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/sorting-data) article.
 
 
 # Evaluation Criteria
