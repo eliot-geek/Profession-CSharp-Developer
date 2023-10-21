@@ -46,7 +46,7 @@ In addition to serialization, you can find more details in the following article
 - **Example 2: Working with Heterogeneous Data**
     - Exploring individual items
     - How to create files without knowing the structure in advance
-- Conclusion
+- Conclusion  
 This module covers the process of creating and reading XML files, including working with both homogeneous and heterogeneous data.
 
 ## 8.5 JSON: Creating and Reading Files
@@ -67,5 +67,5 @@ This module covers the process of creating and reading XML files, including work
 - **Example 3: Creating Worker**
     - Exploring the process of creating a "Worker" object
 
-- Conclusion
+- Conclusion  
 This module covers the process of creating and reading JSON files, including working with both simple and complex JSON structures.
