@@ -1,0 +1,14 @@
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less08DictionaryFrequency\bin\Debug\net6.0\Less08DictionaryFrequency.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less08DictionaryFrequency\bin\Debug\net6.0\Less08DictionaryFrequency.deps.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less08DictionaryFrequency\bin\Debug\net6.0\Less08DictionaryFrequency.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less08DictionaryFrequency\bin\Debug\net6.0\Less08DictionaryFrequency.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less08DictionaryFrequency\bin\Debug\net6.0\Less08DictionaryFrequency.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less08DictionaryFrequency\obj\Debug\net6.0\Less08DictionaryFrequency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less08DictionaryFrequency\obj\Debug\net6.0\Less08DictionaryFrequency.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less08DictionaryFrequency\obj\Debug\net6.0\Less08DictionaryFrequency.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less08DictionaryFrequency\obj\Debug\net6.0\Less08DictionaryFrequency.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less08DictionaryFrequency\obj\Debug\net6.0\Less08DictionaryFrequency.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less08DictionaryFrequency\obj\Debug\net6.0\refint\Less08DictionaryFrequency.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less08DictionaryFrequency\obj\Debug\net6.0\Less08DictionaryFrequency.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less08DictionaryFrequency\obj\Debug\net6.0\Less08DictionaryFrequency.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less08DictionaryFrequency\obj\Debug\net6.0\ref\Less08DictionaryFrequency.dll

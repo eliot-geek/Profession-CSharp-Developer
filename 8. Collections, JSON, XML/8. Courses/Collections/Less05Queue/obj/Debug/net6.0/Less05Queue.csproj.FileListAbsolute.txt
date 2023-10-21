@@ -1,0 +1,14 @@
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less05Queue\bin\Debug\net6.0\Less05Queue.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less05Queue\bin\Debug\net6.0\Less05Queue.deps.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less05Queue\bin\Debug\net6.0\Less05Queue.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less05Queue\bin\Debug\net6.0\Less05Queue.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less05Queue\bin\Debug\net6.0\Less05Queue.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less05Queue\obj\Debug\net6.0\Less05Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less05Queue\obj\Debug\net6.0\Less05Queue.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less05Queue\obj\Debug\net6.0\Less05Queue.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less05Queue\obj\Debug\net6.0\Less05Queue.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less05Queue\obj\Debug\net6.0\Less05Queue.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less05Queue\obj\Debug\net6.0\refint\Less05Queue.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less05Queue\obj\Debug\net6.0\Less05Queue.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less05Queue\obj\Debug\net6.0\Less05Queue.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less05Queue\obj\Debug\net6.0\ref\Less05Queue.dll

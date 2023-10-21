@@ -1,0 +1,14 @@
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less09StackExample\bin\Debug\net6.0\Less09StackExample.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less09StackExample\bin\Debug\net6.0\Less09StackExample.deps.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less09StackExample\bin\Debug\net6.0\Less09StackExample.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less09StackExample\bin\Debug\net6.0\Less09StackExample.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less09StackExample\bin\Debug\net6.0\Less09StackExample.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less09StackExample\obj\Debug\net6.0\Less09StackExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less09StackExample\obj\Debug\net6.0\Less09StackExample.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less09StackExample\obj\Debug\net6.0\Less09StackExample.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less09StackExample\obj\Debug\net6.0\Less09StackExample.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less09StackExample\obj\Debug\net6.0\Less09StackExample.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less09StackExample\obj\Debug\net6.0\refint\Less09StackExample.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less09StackExample\obj\Debug\net6.0\Less09StackExample.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less09StackExample\obj\Debug\net6.0\Less09StackExample.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less09StackExample\obj\Debug\net6.0\ref\Less09StackExample.dll

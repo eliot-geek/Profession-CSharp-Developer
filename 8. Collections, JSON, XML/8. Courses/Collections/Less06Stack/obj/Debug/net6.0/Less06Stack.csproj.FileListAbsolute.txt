@@ -1,0 +1,14 @@
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less06Stack\bin\Debug\net6.0\Less06Stack.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less06Stack\bin\Debug\net6.0\Less06Stack.deps.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less06Stack\bin\Debug\net6.0\Less06Stack.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less06Stack\bin\Debug\net6.0\Less06Stack.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less06Stack\bin\Debug\net6.0\Less06Stack.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less06Stack\obj\Debug\net6.0\Less06Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less06Stack\obj\Debug\net6.0\Less06Stack.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less06Stack\obj\Debug\net6.0\Less06Stack.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less06Stack\obj\Debug\net6.0\Less06Stack.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less06Stack\obj\Debug\net6.0\Less06Stack.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less06Stack\obj\Debug\net6.0\refint\Less06Stack.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less06Stack\obj\Debug\net6.0\Less06Stack.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less06Stack\obj\Debug\net6.0\Less06Stack.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Courses\Collections\Less06Stack\obj\Debug\net6.0\ref\Less06Stack.dll
