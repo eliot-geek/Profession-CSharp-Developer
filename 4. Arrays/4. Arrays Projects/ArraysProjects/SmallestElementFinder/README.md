@@ -1,0 +1,1 @@
+Smallest Element Finder in an array
