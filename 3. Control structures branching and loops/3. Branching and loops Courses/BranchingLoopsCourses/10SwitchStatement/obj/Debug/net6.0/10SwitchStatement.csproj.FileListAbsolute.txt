@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\10SwitchStatement\bin\Debug\net6.0\10SwitchStatement.exe
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\10SwitchStatement\bin\Debug\net6.0\10SwitchStatement.deps.json
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\10SwitchStatement\bin\Debug\net6.0\10SwitchStatement.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\10SwitchStatement\bin\Debug\net6.0\10SwitchStatement.dll
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\10SwitchStatement\bin\Debug\net6.0\10SwitchStatement.pdb
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\10SwitchStatement\obj\Debug\net6.0\10SwitchStatement.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\10SwitchStatement\obj\Debug\net6.0\10SwitchStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\10SwitchStatement\obj\Debug\net6.0\10SwitchStatement.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\10SwitchStatement\obj\Debug\net6.0\10SwitchStatement.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\10SwitchStatement\obj\Debug\net6.0\10SwitchStatement.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\10SwitchStatement\obj\Debug\net6.0\10SwitchStatement.dll
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\10SwitchStatement\obj\Debug\net6.0\refint\10SwitchStatement.dll
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\10SwitchStatement\obj\Debug\net6.0\10SwitchStatement.pdb
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\10SwitchStatement\obj\Debug\net6.0\10SwitchStatement.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\10SwitchStatement\obj\Debug\net6.0\ref\10SwitchStatement.dll

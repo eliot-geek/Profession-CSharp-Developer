@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\09TwoSameType\bin\Debug\net6.0\09TwoSameType.exe
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\09TwoSameType\bin\Debug\net6.0\09TwoSameType.deps.json
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\09TwoSameType\bin\Debug\net6.0\09TwoSameType.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\09TwoSameType\bin\Debug\net6.0\09TwoSameType.dll
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\09TwoSameType\bin\Debug\net6.0\09TwoSameType.pdb
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\09TwoSameType\obj\Debug\net6.0\09TwoSameType.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\09TwoSameType\obj\Debug\net6.0\09TwoSameType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\09TwoSameType\obj\Debug\net6.0\09TwoSameType.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\09TwoSameType\obj\Debug\net6.0\09TwoSameType.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\09TwoSameType\obj\Debug\net6.0\09TwoSameType.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\09TwoSameType\obj\Debug\net6.0\09TwoSameType.dll
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\09TwoSameType\obj\Debug\net6.0\refint\09TwoSameType.dll
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\09TwoSameType\obj\Debug\net6.0\09TwoSameType.pdb
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\09TwoSameType\obj\Debug\net6.0\09TwoSameType.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\09TwoSameType\obj\Debug\net6.0\ref\09TwoSameType.dll

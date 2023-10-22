@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\15TableOfSquaresStartEnd\bin\Debug\net6.0\15TableOfSquaresStartEnd.exe
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\15TableOfSquaresStartEnd\bin\Debug\net6.0\15TableOfSquaresStartEnd.deps.json
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\15TableOfSquaresStartEnd\bin\Debug\net6.0\15TableOfSquaresStartEnd.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\15TableOfSquaresStartEnd\bin\Debug\net6.0\15TableOfSquaresStartEnd.dll
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\15TableOfSquaresStartEnd\bin\Debug\net6.0\15TableOfSquaresStartEnd.pdb
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\15TableOfSquaresStartEnd\obj\Debug\net6.0\15TableOfSquaresStartEnd.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\15TableOfSquaresStartEnd\obj\Debug\net6.0\15TableOfSquaresStartEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\15TableOfSquaresStartEnd\obj\Debug\net6.0\15TableOfSquaresStartEnd.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\15TableOfSquaresStartEnd\obj\Debug\net6.0\15TableOfSquaresStartEnd.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\15TableOfSquaresStartEnd\obj\Debug\net6.0\15TableOfSquaresStartEnd.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\15TableOfSquaresStartEnd\obj\Debug\net6.0\15TableOfSquaresStartEnd.dll
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\15TableOfSquaresStartEnd\obj\Debug\net6.0\refint\15TableOfSquaresStartEnd.dll
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\15TableOfSquaresStartEnd\obj\Debug\net6.0\15TableOfSquaresStartEnd.pdb
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\15TableOfSquaresStartEnd\obj\Debug\net6.0\15TableOfSquaresStartEnd.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\15TableOfSquaresStartEnd\obj\Debug\net6.0\ref\15TableOfSquaresStartEnd.dll

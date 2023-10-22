@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\40GuessingGameDoWhile\bin\Debug\net6.0\40GuessingGameDoWhile.exe
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\40GuessingGameDoWhile\bin\Debug\net6.0\40GuessingGameDoWhile.deps.json
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\40GuessingGameDoWhile\bin\Debug\net6.0\40GuessingGameDoWhile.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\40GuessingGameDoWhile\bin\Debug\net6.0\40GuessingGameDoWhile.dll
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\40GuessingGameDoWhile\bin\Debug\net6.0\40GuessingGameDoWhile.pdb
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\40GuessingGameDoWhile\obj\Debug\net6.0\40GuessingGameDoWhile.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\40GuessingGameDoWhile\obj\Debug\net6.0\40GuessingGameDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\40GuessingGameDoWhile\obj\Debug\net6.0\40GuessingGameDoWhile.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\40GuessingGameDoWhile\obj\Debug\net6.0\40GuessingGameDoWhile.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\40GuessingGameDoWhile\obj\Debug\net6.0\40GuessingGameDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\40GuessingGameDoWhile\obj\Debug\net6.0\40GuessingGameDoWhile.dll
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\40GuessingGameDoWhile\obj\Debug\net6.0\refint\40GuessingGameDoWhile.dll
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\40GuessingGameDoWhile\obj\Debug\net6.0\40GuessingGameDoWhile.pdb
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\40GuessingGameDoWhile\obj\Debug\net6.0\40GuessingGameDoWhile.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\40GuessingGameDoWhile\obj\Debug\net6.0\ref\40GuessingGameDoWhile.dll

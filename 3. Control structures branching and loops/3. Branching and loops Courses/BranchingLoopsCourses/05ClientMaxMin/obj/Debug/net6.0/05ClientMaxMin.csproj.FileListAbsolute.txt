@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\05ClientMaxMin\bin\Debug\net6.0\05ClientMaxMin.exe
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\05ClientMaxMin\bin\Debug\net6.0\05ClientMaxMin.deps.json
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\05ClientMaxMin\bin\Debug\net6.0\05ClientMaxMin.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\05ClientMaxMin\bin\Debug\net6.0\05ClientMaxMin.dll
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\05ClientMaxMin\bin\Debug\net6.0\05ClientMaxMin.pdb
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\05ClientMaxMin\obj\Debug\net6.0\05ClientMaxMin.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\05ClientMaxMin\obj\Debug\net6.0\05ClientMaxMin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\05ClientMaxMin\obj\Debug\net6.0\05ClientMaxMin.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\05ClientMaxMin\obj\Debug\net6.0\05ClientMaxMin.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\05ClientMaxMin\obj\Debug\net6.0\05ClientMaxMin.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\05ClientMaxMin\obj\Debug\net6.0\05ClientMaxMin.dll
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\05ClientMaxMin\obj\Debug\net6.0\refint\05ClientMaxMin.dll
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\05ClientMaxMin\obj\Debug\net6.0\05ClientMaxMin.pdb
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\05ClientMaxMin\obj\Debug\net6.0\05ClientMaxMin.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\3. Control structures branching and loops\3. Branching and loops Courses\BranchingLoopsCourses\05ClientMaxMin\obj\Debug\net6.0\ref\05ClientMaxMin.dll
