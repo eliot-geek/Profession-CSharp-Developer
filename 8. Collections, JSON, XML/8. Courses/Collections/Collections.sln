@@ -3,33 +3,43 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{34E3D7AA-64D5-467E-8C16-8910E2E5D5C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "Collections\Collections.csproj", "{34E3D7AA-64D5-467E-8C16-8910E2E5D5C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Less00CollectionsIntroduction", "Less00CollectionsIntroduction\Less00CollectionsIntroduction.csproj", "{2E128D8E-D402-4DC6-814D-BCD5163EFBBB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Less00CollectionsIntroduction", "Less00CollectionsIntroduction\Less00CollectionsIntroduction.csproj", "{2E128D8E-D402-4DC6-814D-BCD5163EFBBB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Less01MyCollections", "Less01MyCollections\Less01MyCollections.csproj", "{1DEAF0D9-20FA-47DA-A7CA-6D01738BD09D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Less01MyCollections", "Less01MyCollections\Less01MyCollections.csproj", "{1DEAF0D9-20FA-47DA-A7CA-6D01738BD09D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Less02List", "Less02List\Less02List.csproj", "{4765777D-43FB-4F81-99C2-5B848382026D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Less02List", "Less02List\Less02List.csproj", "{4765777D-43FB-4F81-99C2-5B848382026D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Less03ListWorker", "Less03ListWorker\Less03ListWorker.csproj", "{F95561F0-6B9D-4BFB-BDB0-9DA43076B8FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Less03ListWorker", "Less03ListWorker\Less03ListWorker.csproj", "{F95561F0-6B9D-4BFB-BDB0-9DA43076B8FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Less04Dictionary", "Less04Dictionary\Less04Dictionary.csproj", "{D4D7E31F-5695-4371-B5A0-CCDFBBA21F5A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Less04Dictionary", "Less04Dictionary\Less04Dictionary.csproj", "{D4D7E31F-5695-4371-B5A0-CCDFBBA21F5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Less05Queue", "Less05Queue\Less05Queue.csproj", "{3AD4B5AF-5ECE-4380-B7A1-D49282064ECC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Less05Queue", "Less05Queue\Less05Queue.csproj", "{3AD4B5AF-5ECE-4380-B7A1-D49282064ECC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Less06Stack", "Less06Stack\Less06Stack.csproj", "{E302E271-1D25-46B1-BB1C-2BFC3381515C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Less06Stack", "Less06Stack\Less06Stack.csproj", "{E302E271-1D25-46B1-BB1C-2BFC3381515C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Less07HashSet", "Less07HashSet\Less07HashSet.csproj", "{B11C2C70-0B61-4E8C-91D3-FB806493C728}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Less07HashSet", "Less07HashSet\Less07HashSet.csproj", "{B11C2C70-0B61-4E8C-91D3-FB806493C728}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Less08OtherCollections", "Less08OtherCollections\Less08OtherCollections.csproj", "{A38C6A8A-3423-49B6-A8EF-F79BDF8FB299}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Less08OtherCollections", "Less08OtherCollections\Less08OtherCollections.csproj", "{A38C6A8A-3423-49B6-A8EF-F79BDF8FB299}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Less08DictionaryFrequency", "Less08DictionaryFrequency\Less08DictionaryFrequency.csproj", "{E27BC504-A3A0-4F49-B349-CAD9088AF723}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Less08DictionaryFrequency", "Less08DictionaryFrequency\Less08DictionaryFrequency.csproj", "{E27BC504-A3A0-4F49-B349-CAD9088AF723}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Less09StackExample", "Less09StackExample\Less09StackExample.csproj", "{B2106413-BFF3-45D1-9F1E-29857F0D5B32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Less09StackExample", "Less09StackExample\Less09StackExample.csproj", "{B2106413-BFF3-45D1-9F1E-29857F0D5B32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Less10QueueGraphBreadthFirstSearch", "Less10QueueGraphBreadthFirstSearch\Less10QueueGraphBreadthFirstSearch.csproj", "{2DBF6AD1-D3BF-49D2-A3C9-28C29BEE8B0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Less10QueueGraphBreadthFirstSearch", "Less10QueueGraphBreadthFirstSearch\Less10QueueGraphBreadthFirstSearch.csproj", "{2DBF6AD1-D3BF-49D2-A3C9-28C29BEE8B0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Less11QueueDijkstraAlgorithm", "Less11QueueDijkstraAlgorithm\Less11QueueDijkstraAlgorithm.csproj", "{E5C82FD8-B81D-4947-AD2B-C2C0EB2F3F06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Less11QueueDijkstraAlgorithm", "Less11QueueDijkstraAlgorithm\Less11QueueDijkstraAlgorithm.csproj", "{E5C82FD8-B81D-4947-AD2B-C2C0EB2F3F06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Less12SerializationIntroduction", "Less12SerializationIntroduction\Less12SerializationIntroduction.csproj", "{3E91662A-3F68-4844-908A-0E8E39DE1BBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Less13SerializationXml", "Less13SerializationXml\Less13SerializationXml.csproj", "{DF70C2B5-7531-4A50-8674-597916D36582}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Less14SerializationXmlComplicated", "Less14SerializationXmlComplicated\Less14SerializationXmlComplicated.csproj", "{19910C22-3F0B-4E4E-B77D-C1D43E3E7A1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Less15SerializationJSON", "Less15SerializationJSON\Less15SerializationJSON.csproj", "{F90FAD3D-2AE3-453F-84FC-02C60967F9EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Less16SerializationJSONComplicated", "Less16SerializationJSONComplicated\Less16SerializationJSONComplicated.csproj", "{145BB876-001C-496A-B84C-B29F54069D38}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +103,26 @@ Global
 		{E5C82FD8-B81D-4947-AD2B-C2C0EB2F3F06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5C82FD8-B81D-4947-AD2B-C2C0EB2F3F06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5C82FD8-B81D-4947-AD2B-C2C0EB2F3F06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E91662A-3F68-4844-908A-0E8E39DE1BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E91662A-3F68-4844-908A-0E8E39DE1BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E91662A-3F68-4844-908A-0E8E39DE1BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E91662A-3F68-4844-908A-0E8E39DE1BBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF70C2B5-7531-4A50-8674-597916D36582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF70C2B5-7531-4A50-8674-597916D36582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF70C2B5-7531-4A50-8674-597916D36582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF70C2B5-7531-4A50-8674-597916D36582}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19910C22-3F0B-4E4E-B77D-C1D43E3E7A1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19910C22-3F0B-4E4E-B77D-C1D43E3E7A1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19910C22-3F0B-4E4E-B77D-C1D43E3E7A1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19910C22-3F0B-4E4E-B77D-C1D43E3E7A1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F90FAD3D-2AE3-453F-84FC-02C60967F9EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F90FAD3D-2AE3-453F-84FC-02C60967F9EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F90FAD3D-2AE3-453F-84FC-02C60967F9EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F90FAD3D-2AE3-453F-84FC-02C60967F9EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{145BB876-001C-496A-B84C-B29F54069D38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{145BB876-001C-496A-B84C-B29F54069D38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{145BB876-001C-496A-B84C-B29F54069D38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{145BB876-001C-496A-B84C-B29F54069D38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

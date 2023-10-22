@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfWorker xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Worker>
+    <FirstName>Name_1</FirstName>
+    <LastName>LastName_1</LastName>
+    <Position>Position_1</Position>
+    <Departement>Department_1</Departement>
+    <Salary>1000</Salary>
+  </Worker>
+  <Worker>
+    <FirstName>Name_2</FirstName>
+    <LastName>LastName_2</LastName>
+    <Position>Position_2</Position>
+    <Departement>Department_2</Departement>
+    <Salary>2000</Salary>
+  </Worker>
+  <Worker>
+    <FirstName>Name_3</FirstName>
+    <LastName>LastName_3</LastName>
+    <Position>Position_3</Position>
+    <Departement>Department_3</Departement>
+    <Salary>3000</Salary>
+  </Worker>
+  <Worker>
+    <FirstName>Name_4</FirstName>
+    <LastName>LastName_4</LastName>
+    <Position>Position_4</Position>
+    <Departement>Department_4</Departement>
+    <Salary>4000</Salary>
+  </Worker>
+  <Worker>
+    <FirstName>Name_5</FirstName>
+    <LastName>LastName_5</LastName>
+    <Position>Position_5</Position>
+    <Departement>Department_5</Departement>
+    <Salary>5000</Salary>
+  </Worker>
+</ArrayOfWorker>
