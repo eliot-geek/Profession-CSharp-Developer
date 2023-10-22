@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Projects\03NotebookPersonalizer\03NotebookPersonalizer\bin\Debug\net6.0\03NotebookPersonalizer.exe
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Projects\03NotebookPersonalizer\03NotebookPersonalizer\bin\Debug\net6.0\03NotebookPersonalizer.deps.json
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Projects\03NotebookPersonalizer\03NotebookPersonalizer\bin\Debug\net6.0\03NotebookPersonalizer.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Projects\03NotebookPersonalizer\03NotebookPersonalizer\bin\Debug\net6.0\03NotebookPersonalizer.dll
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Projects\03NotebookPersonalizer\03NotebookPersonalizer\bin\Debug\net6.0\03NotebookPersonalizer.pdb
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Projects\03NotebookPersonalizer\03NotebookPersonalizer\obj\Debug\net6.0\03NotebookPersonalizer.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Projects\03NotebookPersonalizer\03NotebookPersonalizer\obj\Debug\net6.0\03NotebookPersonalizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Projects\03NotebookPersonalizer\03NotebookPersonalizer\obj\Debug\net6.0\03NotebookPersonalizer.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Projects\03NotebookPersonalizer\03NotebookPersonalizer\obj\Debug\net6.0\03NotebookPersonalizer.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Projects\03NotebookPersonalizer\03NotebookPersonalizer\obj\Debug\net6.0\03NotebookPersonalizer.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Projects\03NotebookPersonalizer\03NotebookPersonalizer\obj\Debug\net6.0\03NotebookPersonalizer.dll
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Projects\03NotebookPersonalizer\03NotebookPersonalizer\obj\Debug\net6.0\refint\03NotebookPersonalizer.dll
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Projects\03NotebookPersonalizer\03NotebookPersonalizer\obj\Debug\net6.0\03NotebookPersonalizer.pdb
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Projects\03NotebookPersonalizer\03NotebookPersonalizer\obj\Debug\net6.0\03NotebookPersonalizer.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Projects\03NotebookPersonalizer\03NotebookPersonalizer\obj\Debug\net6.0\ref\03NotebookPersonalizer.dll

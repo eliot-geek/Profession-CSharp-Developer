@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\13ImplicitTypeСonversion\bin\Debug\net6.0\13ImplicitTypeСonversion.exe
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\13ImplicitTypeСonversion\bin\Debug\net6.0\13ImplicitTypeСonversion.deps.json
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\13ImplicitTypeСonversion\bin\Debug\net6.0\13ImplicitTypeСonversion.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\13ImplicitTypeСonversion\bin\Debug\net6.0\13ImplicitTypeСonversion.dll
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\13ImplicitTypeСonversion\bin\Debug\net6.0\13ImplicitTypeСonversion.pdb
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\13ImplicitTypeСonversion\obj\Debug\net6.0\13ImplicitTypeСonversion.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\13ImplicitTypeСonversion\obj\Debug\net6.0\13ImplicitTypeСonversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\13ImplicitTypeСonversion\obj\Debug\net6.0\13ImplicitTypeСonversion.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\13ImplicitTypeСonversion\obj\Debug\net6.0\13ImplicitTypeСonversion.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\13ImplicitTypeСonversion\obj\Debug\net6.0\13ImplicitTypeСonversion.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\13ImplicitTypeСonversion\obj\Debug\net6.0\13ImplicitTypeСonversion.dll
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\13ImplicitTypeСonversion\obj\Debug\net6.0\refint\13ImplicitTypeСonversion.dll
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\13ImplicitTypeСonversion\obj\Debug\net6.0\13ImplicitTypeСonversion.pdb
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\13ImplicitTypeСonversion\obj\Debug\net6.0\13ImplicitTypeСonversion.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\2. CSharp Basic Features\2. CSharp Basic Features Courses\CSharpBasicFeaturesCourses\13ImplicitTypeСonversion\obj\Debug\net6.0\ref\13ImplicitTypeСonversion.dll
