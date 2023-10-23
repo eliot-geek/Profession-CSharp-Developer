@@ -1,4 +1,4 @@
-# Task 3: Checking for Duplicates
+# Task: Checking for Duplicates
 
 ## What to Do
 The user enters a number. The number is stored in a HashSet collection. If such a number already exists in the collection, the user is informed that the number was entered previously. If the number is not in the collection, a message appears indicating that the number has been successfully saved.
