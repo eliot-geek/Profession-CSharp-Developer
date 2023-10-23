@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Person name="Rooney">
+  <Address>
+    <Street>Galaxy Street</Street>
+    <HouseNumber>675-3-55</HouseNumber>
+    <FlatNumber>342</FlatNumber>
+  </Address>
+  <Phones>
+    <MobilePhone>5769493</MobilePhone>
+    <HomePhone>234</HomePhone>
+  </Phones>
+</Person>
