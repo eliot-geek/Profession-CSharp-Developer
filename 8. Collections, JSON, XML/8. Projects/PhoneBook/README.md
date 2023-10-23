@@ -1,4 +1,4 @@
-# Task 2: Phone Book
+# Task: Phone Book
 
 ## What to Do
 The user is prompted to iteratively enter phone numbers and the full names of their owners into the program.  
