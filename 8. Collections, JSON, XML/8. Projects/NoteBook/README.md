@@ -1,4 +1,4 @@
-# Task 4: Address Book
+# Task: Address Book
 
 ## What to Do
 The program asks the user for contact information:
