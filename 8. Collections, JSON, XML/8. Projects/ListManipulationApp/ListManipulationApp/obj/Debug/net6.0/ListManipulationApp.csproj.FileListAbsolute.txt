@@ -1,0 +1,14 @@
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Projects\ListManipulationApp\ListManipulationApp\bin\Debug\net6.0\ListManipulationApp.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Projects\ListManipulationApp\ListManipulationApp\bin\Debug\net6.0\ListManipulationApp.deps.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Projects\ListManipulationApp\ListManipulationApp\bin\Debug\net6.0\ListManipulationApp.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Projects\ListManipulationApp\ListManipulationApp\bin\Debug\net6.0\ListManipulationApp.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Projects\ListManipulationApp\ListManipulationApp\bin\Debug\net6.0\ListManipulationApp.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Projects\ListManipulationApp\ListManipulationApp\obj\Debug\net6.0\ListManipulationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Projects\ListManipulationApp\ListManipulationApp\obj\Debug\net6.0\ListManipulationApp.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Projects\ListManipulationApp\ListManipulationApp\obj\Debug\net6.0\ListManipulationApp.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Projects\ListManipulationApp\ListManipulationApp\obj\Debug\net6.0\ListManipulationApp.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Projects\ListManipulationApp\ListManipulationApp\obj\Debug\net6.0\ListManipulationApp.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Projects\ListManipulationApp\ListManipulationApp\obj\Debug\net6.0\refint\ListManipulationApp.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Projects\ListManipulationApp\ListManipulationApp\obj\Debug\net6.0\ListManipulationApp.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Projects\ListManipulationApp\ListManipulationApp\obj\Debug\net6.0\ListManipulationApp.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Projects\ListManipulationApp\ListManipulationApp\obj\Debug\net6.0\ref\ListManipulationApp.dll
