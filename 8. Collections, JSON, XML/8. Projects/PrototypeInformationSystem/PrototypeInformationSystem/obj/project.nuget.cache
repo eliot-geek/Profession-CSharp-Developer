@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "sCUNhVvkg18jUm+FkPAlfu/gFeRmECDhxaG/jjdk6an2U2H+NfOpM5/5sH+DYyjBZ6d4cfdl3/GK7oMYjazYpw==",
+  "dgSpecHash": "d7x6moT/OqTpBI2JKBPWlohox5XvkVNKHsNd6HY7HmrjwORQWA3HfyyZbI/6zFk/b1usBqxQInj1un0PesmUKQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\8. Collections, JSON, XML\\8. Projects\\PrototypeInformationSystem\\PrototypeInformationSystem\\PrototypeInformationSystem.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\leosa\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
