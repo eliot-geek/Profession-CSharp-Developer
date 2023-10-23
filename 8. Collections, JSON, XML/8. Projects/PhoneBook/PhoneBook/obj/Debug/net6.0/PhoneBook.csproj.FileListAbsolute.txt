@@ -1,0 +1,14 @@
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Projects\PhoneBook\PhoneBook\bin\Debug\net6.0\PhoneBook.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Projects\PhoneBook\PhoneBook\bin\Debug\net6.0\PhoneBook.deps.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Projects\PhoneBook\PhoneBook\bin\Debug\net6.0\PhoneBook.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Projects\PhoneBook\PhoneBook\bin\Debug\net6.0\PhoneBook.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Projects\PhoneBook\PhoneBook\bin\Debug\net6.0\PhoneBook.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Projects\PhoneBook\PhoneBook\obj\Debug\net6.0\PhoneBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Projects\PhoneBook\PhoneBook\obj\Debug\net6.0\PhoneBook.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Projects\PhoneBook\PhoneBook\obj\Debug\net6.0\PhoneBook.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Projects\PhoneBook\PhoneBook\obj\Debug\net6.0\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Projects\PhoneBook\PhoneBook\obj\Debug\net6.0\PhoneBook.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Projects\PhoneBook\PhoneBook\obj\Debug\net6.0\refint\PhoneBook.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Projects\PhoneBook\PhoneBook\obj\Debug\net6.0\PhoneBook.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Projects\PhoneBook\PhoneBook\obj\Debug\net6.0\PhoneBook.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\8. Collections, JSON, XML\8. Projects\PhoneBook\PhoneBook\obj\Debug\net6.0\ref\PhoneBook.dll
