@@ -1,4 +1,4 @@
-# Bonus Module 9: Network Operations
+# 9 Bonus: Network Operations
 ## 9.1 Introduction to Working with Networks. Data Download. Files and Streams
 - Introduction to System.Net
 - Example 1: Code Structure for Network Operations
