@@ -26,7 +26,7 @@
 - Implementing code reachability
 - Conclusion
 
-## Telegram.Bot Library - Building a File Cloud with a Telegram Bot
+## 9.3 Telegram.Bot Library - Building a File Cloud with a Telegram Bot
 - Adding the Telegram Bot library to the project
 - Analyzing the code structure
 - Running and testing the code
