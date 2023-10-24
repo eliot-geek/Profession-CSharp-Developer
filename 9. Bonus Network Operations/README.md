@@ -11,7 +11,7 @@
 - Analyzing the Code Structure
 - Conclusion
 
-## 9.2 Using WebClient for External API Services - Simple Telegram Bot
+## 9.2 External API Services - Simple Telegram Bot
 - What to do first
 - Creating a new bot with BotFather
 - Generating a bot token
