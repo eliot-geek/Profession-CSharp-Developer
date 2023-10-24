@@ -1,0 +1,14 @@
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less02StreamsAndFiles\bin\Debug\net6.0\Less02StreamsAndFiles.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less02StreamsAndFiles\bin\Debug\net6.0\Less02StreamsAndFiles.deps.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less02StreamsAndFiles\bin\Debug\net6.0\Less02StreamsAndFiles.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less02StreamsAndFiles\bin\Debug\net6.0\Less02StreamsAndFiles.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less02StreamsAndFiles\bin\Debug\net6.0\Less02StreamsAndFiles.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less02StreamsAndFiles\obj\Debug\net6.0\Less02StreamsAndFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less02StreamsAndFiles\obj\Debug\net6.0\Less02StreamsAndFiles.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less02StreamsAndFiles\obj\Debug\net6.0\Less02StreamsAndFiles.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less02StreamsAndFiles\obj\Debug\net6.0\Less02StreamsAndFiles.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less02StreamsAndFiles\obj\Debug\net6.0\Less02StreamsAndFiles.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less02StreamsAndFiles\obj\Debug\net6.0\refint\Less02StreamsAndFiles.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less02StreamsAndFiles\obj\Debug\net6.0\Less02StreamsAndFiles.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less02StreamsAndFiles\obj\Debug\net6.0\Less02StreamsAndFiles.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less02StreamsAndFiles\obj\Debug\net6.0\ref\Less02StreamsAndFiles.dll

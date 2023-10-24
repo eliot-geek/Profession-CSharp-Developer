@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkOperations", "Networ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Less00IntroductionToNetworkDownload", "Less00IntroductionToNetworkDownload\Less00IntroductionToNetworkDownload.csproj", "{4A55EFE7-B18C-4F1E-B8B9-C52CD757EAA4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Less01AsynchronousWindowsForms", "Less01AsynchronousWindowsForms\Less01AsynchronousWindowsForms.csproj", "{0D5A372A-4AED-47E5-88BE-F965B1B38843}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Less02StreamsAndFiles", "Less02StreamsAndFiles\Less02StreamsAndFiles.csproj", "{0F699DEA-FA45-4238-B1A6-9C6CBD8A45CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{4A55EFE7-B18C-4F1E-B8B9-C52CD757EAA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A55EFE7-B18C-4F1E-B8B9-C52CD757EAA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A55EFE7-B18C-4F1E-B8B9-C52CD757EAA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D5A372A-4AED-47E5-88BE-F965B1B38843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D5A372A-4AED-47E5-88BE-F965B1B38843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D5A372A-4AED-47E5-88BE-F965B1B38843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D5A372A-4AED-47E5-88BE-F965B1B38843}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F699DEA-FA45-4238-B1A6-9C6CBD8A45CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F699DEA-FA45-4238-B1A6-9C6CBD8A45CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F699DEA-FA45-4238-B1A6-9C6CBD8A45CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F699DEA-FA45-4238-B1A6-9C6CBD8A45CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

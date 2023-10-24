@@ -1,0 +1,10 @@
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less01AsynchronousWindowsForms\bin\Debug\Less01AsynchronousWindowsForms.exe.config
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less01AsynchronousWindowsForms\bin\Debug\Less01AsynchronousWindowsForms.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less01AsynchronousWindowsForms\bin\Debug\Less01AsynchronousWindowsForms.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less01AsynchronousWindowsForms\obj\Debug\Less01AsynchronousWindowsForms.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less01AsynchronousWindowsForms\obj\Debug\Less01AsynchronousWindowsForms.Form1.resources
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less01AsynchronousWindowsForms\obj\Debug\Less01AsynchronousWindowsForms.Properties.Resources.resources
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less01AsynchronousWindowsForms\obj\Debug\Less01AsynchronousWindowsForms.csproj.GenerateResource.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less01AsynchronousWindowsForms\obj\Debug\Less01AsynchronousWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less01AsynchronousWindowsForms\obj\Debug\Less01AsynchronousWindowsForms.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less01AsynchronousWindowsForms\obj\Debug\Less01AsynchronousWindowsForms.pdb

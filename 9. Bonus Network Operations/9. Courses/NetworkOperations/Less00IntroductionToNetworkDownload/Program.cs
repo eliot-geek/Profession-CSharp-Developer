@@ -43,9 +43,9 @@ namespace Less00IntroductionToNetworkDownload
 
             // https://learn.microsoft.com/en-us/dotnet/fundamentals/syslib-diagnostics/syslib0014
 
-            WebClient webClient = new WebClient() 
-            { 
-                Encoding = Encoding.UTF8 
+            WebClient webClient = new WebClient()
+            {
+                Encoding = Encoding.UTF8
             };
 
             string url = @"audio_api.mp3";
