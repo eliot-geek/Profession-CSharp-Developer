@@ -1,0 +1,17 @@
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less03TelegramBotAPI\bin\Debug\net6.0\Less03TelegramBotAPI.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less03TelegramBotAPI\bin\Debug\net6.0\Less03TelegramBotAPI.deps.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less03TelegramBotAPI\bin\Debug\net6.0\Less03TelegramBotAPI.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less03TelegramBotAPI\bin\Debug\net6.0\Less03TelegramBotAPI.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less03TelegramBotAPI\bin\Debug\net6.0\Less03TelegramBotAPI.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less03TelegramBotAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less03TelegramBotAPI\obj\Debug\net6.0\Less03TelegramBotAPI.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less03TelegramBotAPI\obj\Debug\net6.0\Less03TelegramBotAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less03TelegramBotAPI\obj\Debug\net6.0\Less03TelegramBotAPI.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less03TelegramBotAPI\obj\Debug\net6.0\Less03TelegramBotAPI.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less03TelegramBotAPI\obj\Debug\net6.0\Less03TelegramBotAPI.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less03TelegramBotAPI\obj\Debug\net6.0\Less03TelegramBotAPI.csproj.CopyComplete
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less03TelegramBotAPI\obj\Debug\net6.0\Less03TelegramBotAPI.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less03TelegramBotAPI\obj\Debug\net6.0\refint\Less03TelegramBotAPI.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less03TelegramBotAPI\obj\Debug\net6.0\Less03TelegramBotAPI.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less03TelegramBotAPI\obj\Debug\net6.0\Less03TelegramBotAPI.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less03TelegramBotAPI\obj\Debug\net6.0\ref\Less03TelegramBotAPI.dll

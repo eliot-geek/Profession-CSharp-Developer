@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ilMCw9mG8lZGwyUXCZg7+sjpzc4DYr1XdGuVU5FPieBMOdmv6nU6ihkrS+3ktXjwo6pXrPyihyX4D7ScbGIuQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\9. Bonus Network Operations\\9. Courses\\NetworkOperations\\Less11UsageHttpClientTelegramLibrary\\Less11UsageHttpClientTelegramLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leosa\\.nuget\\packages\\httptosocks5proxy\\1.4.0\\httptosocks5proxy.1.4.0.nupkg.sha512",
+    "C:\\Users\\leosa\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\leosa\\.nuget\\packages\\telegram.bot\\19.0.0\\telegram.bot.19.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

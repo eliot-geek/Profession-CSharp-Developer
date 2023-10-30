@@ -48,8 +48,7 @@ gtag('event', 'pageLoad', { 'siteversion': 'HDv3' });
 <div class="container ">
 <div class="header-top d-flex ai-center ">
 <div class="navBurger" role="button" id="navToggle" aria-label="Navigation Toggle"></div>
-<a class="logo" href="https://www.HugeDomains.com/index.cfm"><img src="https://static.HugeDomains.com/images/hdv3-img/hugedomains_logo_notag_white.png
-" alt="logo" class="img-fluid"></a>
+<a class="logo" href="https://www.HugeDomains.com/index.cfm"><img src="https://static.HugeDomains.com/images/hdv3-img/HugeDomains_Logo_NoTag_White.svg" alt="logo" class="img-fluid"></a>
 <div class="d-flex ai-center jc-end">
 <div class="search-trigger">
 <a href="tel:1-303-893-0552" class="header-tel headerMobileSearchPhone"><script type="text/javascript" style="display:none">
@@ -126,7 +125,7 @@ window.__mirage2 = {petok:"zziURrz_ARRSpcT8N2IoACZvZPFwMFp3thMCCqpeLRs-1800-0"};
 <span>Buy now:</span><span class="big-text green">$2,695</span>
 </span>
 
-<a href="https://www.HugeDomains.com/shopping_cart.cfm?d=JRoyce&e=com" class="btn m-b-0 m-t-0 " id="hdv3Billboard197BuyID" onClick="$('#hdv3Billboard197BuyID').addClass('hiddenAtLoad'); $('#hdv3Billboard197BuyProceID').removeClass('hiddenAtLoad'); landerFunc056A5AB98CEC413C95F9B507FA3B2149Func(); return false;" style="height:50px; padding-right:30px;">&#9656; Buy now</a>
+<a href="https://www.HugeDomains.com/shopping_cart.cfm?d=JRoyce&e=com" class="btn m-b-0 m-t-0 " id="hdv3Billboard197BuyID" onClick="$('#hdv3Billboard197BuyID').addClass('hiddenAtLoad'); $('#hdv3Billboard197BuyProceID').removeClass('hiddenAtLoad'); landerFunc3B218416C2D9433EA8F689C5CBDA585CFunc(); return false;" style="height:50px; padding-right:30px;">&#9656; Buy now</a>
 <button type="button" value id="hdv3Billboard197BuyProceID" class=" place-order-btn paymentpay-accaunt-content-btn btn hiddenAtLoad" onclick="return false;" style="height:50px; margin-left:0px; min-width:273px; margin-top:0px; margin-bottom:0px; display:flex;">Processing
 <div class="circularJ">
 <div class="circularJ_1"></div>
@@ -189,13 +188,13 @@ window.__mirage2 = {petok:"zziURrz_ARRSpcT8N2IoACZvZPFwMFp3thMCCqpeLRs-1800-0"};
 </div>
 </div>
 
-<form action="https://www.HugeDomains.com/shopping_cart.cfm?d=JRoyce.com" method="post" id="landerForm056A5AB98CEC413C95F9B507FA3B2149ID">
-<input type="hidden" name="cartCheck" value="0" id="landerForm056A5AB98CEC413C95F9B507FA3B2149CheckID">
+<form action="https://www.HugeDomains.com/shopping_cart.cfm?d=JRoyce.com" method="post" id="landerForm3B218416C2D9433EA8F689C5CBDA585CID">
+<input type="hidden" name="cartCheck" value="0" id="landerForm3B218416C2D9433EA8F689C5CBDA585CCheckID">
 </form>
 <script>
-function landerFunc056A5AB98CEC413C95F9B507FA3B2149Func() {
-document.getElementById('landerForm056A5AB98CEC413C95F9B507FA3B2149CheckID').value = 42;
-document.getElementById('landerForm056A5AB98CEC413C95F9B507FA3B2149ID').submit();
+function landerFunc3B218416C2D9433EA8F689C5CBDA585CFunc() {
+document.getElementById('landerForm3B218416C2D9433EA8F689C5CBDA585CCheckID').value = 42;
+document.getElementById('landerForm3B218416C2D9433EA8F689C5CBDA585CID').submit();
 }
 </script>
 <div class="content-wrapp">
@@ -211,7 +210,7 @@ document.getElementById('landerForm056A5AB98CEC413C95F9B507FA3B2149ID').submit()
 <p class="text-center">Buy now for <span class="green">$2,695</span> or pay <span class="green">$112.29</span> per month for 24 months</p>
 <div class="tablet-block-row">
 <div class="tablet-block-left">
-<a href="https://www.HugeDomains.com/shopping_cart.cfm?d=JRoyce&e=com" class="btn" style="padding-right:30px; width:170px; min-width:170px; margin-top:10px; " id="hdv3Billboard197BuyTabID" onClick="$('#hdv3Billboard197BuyTabID').addClass('hiddenAtLoad'); $('#hdv3Billboard197BuyTabProceID').removeClass('hiddenAtLoad'); landerFunc056A5AB98CEC413C95F9B507FA3B2149Func(); return false;">&#9656; Buy now</a>
+<a href="https://www.HugeDomains.com/shopping_cart.cfm?d=JRoyce&e=com" class="btn" style="padding-right:30px; width:170px; min-width:170px; margin-top:10px; " id="hdv3Billboard197BuyTabID" onClick="$('#hdv3Billboard197BuyTabID').addClass('hiddenAtLoad'); $('#hdv3Billboard197BuyTabProceID').removeClass('hiddenAtLoad'); landerFunc3B218416C2D9433EA8F689C5CBDA585CFunc(); return false;">&#9656; Buy now</a>
 <button type="button" value id="hdv3Billboard197BuyTabProceID" class=" place-order-btn paymentpay-accaunt-content-btn btn hiddenAtLoad" onclick="return false;" style="height:50px; margin-left:0px; min-width:170px; margin-top:10px; margin-bottom:25px; display:flex;">Processing
 <div class="circularJ">
 <div class="circularJ_1"></div>
@@ -267,7 +266,7 @@ document.getElementById('landerForm056A5AB98CEC413C95F9B507FA3B2149ID').submit()
 <div class="moble-block leftRightMargin20Mobile560">
 <p class="text-center" style="margin-bottom:0px;">This domain is for sale: <span class="green">$2,695</span></p>
 <div class="ss-block-inner-new bb-none">
-<a href="https://www.HugeDomains.com/shopping_cart.cfm?d=JRoyce&e=com" class="btn m-b-0 m-t-0" id="hdv3Billboard197BuyMobileID" onClick="$('#hdv3Billboard197BuyMobileID').addClass('hiddenAtLoad'); $('#hdv3Billboard197BuyMobileProceID').removeClass('hiddenAtLoad'); landerFunc056A5AB98CEC413C95F9B507FA3B2149Func(); return false;" style="height:50px; padding-right:30px;">&#9656; Buy now</a>
+<a href="https://www.HugeDomains.com/shopping_cart.cfm?d=JRoyce&e=com" class="btn m-b-0 m-t-0" id="hdv3Billboard197BuyMobileID" onClick="$('#hdv3Billboard197BuyMobileID').addClass('hiddenAtLoad'); $('#hdv3Billboard197BuyMobileProceID').removeClass('hiddenAtLoad'); landerFunc3B218416C2D9433EA8F689C5CBDA585CFunc(); return false;" style="height:50px; padding-right:30px;">&#9656; Buy now</a>
 
 <button type="button" value id="hdv3Billboard197BuyMobileProceID" class=" place-order-btn paymentpay-accaunt-content-btn btn hiddenAtLoad" onclick="return false;" style="height:50px; margin-left:0px; min-width:170px; margin-top:0px; margin-bottom:0px; display:flex;"><span style="font-size:20px;">Processing</span>
 <div class="circularJ">
@@ -352,38 +351,39 @@ document.getElementById('landerForm056A5AB98CEC413C95F9B507FA3B2149ID').submit()
 
 <div class="testimonials-container">
 <div class="testimonials-item">
-<div class="testimonials-item_image"><div class="img-placeholder darkblue" style="background-color:#9085ff;">B</div></div>
+<div class="testimonials-item_image"><div class="img-placeholder darkblue" style="background-color:#9085ff;">S</div></div>
 <div class="testimonials-item_content bb-quotes-content">
-<p class="feedback">My second domain that I am acquiring with HugeDomains :)</p>
-<span class="feedback-owner">- Bruno Guerra, September 29, 2023</span>
+<p class="feedback">All was good, I made my purchase on a Friday so it took couple days longer because of the weekend.</p>
+<span class="feedback-owner">- Stephen Christianson, October 27, 2023</span>
 </div>
 </div>
 <div class="testimonials-item">
-<div class="testimonials-item_image"><div class="img-placeholder darkblue" style="background-color:#0047af;">R</div></div>
+<div class="testimonials-item_image"><div class="img-placeholder darkblue" style="background-color:#0047af;">C</div></div>
 <div class="testimonials-item_content bb-quotes-content">
-<p class="feedback">I have purchased several premium domains. Smooth and fast transactions. **RECOMMENDED**</p>
-<span class="feedback-owner">- Rick Rahim, September 26, 2023</span>
+<p class="feedback">Great service and reliable</p>
+<span class="feedback-owner">- Christopher Jerome, October 27, 2023</span>
 </div>
 </div>
 <div class="testimonials-item">
-<div class="testimonials-item_image"><div class="img-placeholder darkblue" style="background-color:#830000;">K</div></div>
+<div class="testimonials-item_image"><div class="img-placeholder darkblue" style="background-color:#830000;">P</div></div>
 <div class="testimonials-item_content bb-quotes-content">
-<p class="feedback">Making the purchase was smooth and easy ! 1st payment went through no problem, lots of contact & follow up by HugeDomains to make sure everything was good.</p>
-<span class="feedback-owner">- Kirk Blackburn, September 25, 2023</span>
+<p class="feedback">Hugedomain cực kỳ uy tín và nhanh chóng xử lý tên miền giao khách hàng. Tôi đã mua tên miền tại hugedomain và đã tranfer từ namebright về nước sở tại cực kỳ tốt đẹp, namebright support nhiệt tình đã giúp đỡ tôi.</p>
+<span class="feedback-owner">- Phạm Thị Nga, October 26, 2023</span>
 </div>
 </div>
 <div class="testimonials-item">
-<div class="testimonials-item_image"><div class="img-placeholder darkblue" style="background-color:#89969f;">J</div></div>
+<div class="testimonials-item_image"><div class="img-placeholder darkblue" style="background-color:#89969f;">S</div></div>
 <div class="testimonials-item_content bb-quotes-content">
-<p class="feedback">Easy to use platform. Easy payments and easy payoff. No problems transferring out, no waiting for customer service. Just what I needed in my busy schedule.</p>
-<span class="feedback-owner">- John Morrison, September 22, 2023</span>
+<p class="feedback">Huge Domains makes it easy to acquire premium domain names. As an entrepreneur, the flexibility of interest-free payment options is amazing. It means I can build a killer brand without a huge upfront expense. That allows me to invest in other key areas of the business without settling for a lower-quality domain name.</p>
+<span class="feedback-owner">- Sean King, October 25, 2023</span>
 </div>
 </div>
 <div class="testimonials-item">
-<div class="testimonials-item_image"><div class="img-placeholder darkblue" style="background-color:#2aa527;">K</div></div>
+<div class="testimonials-item_image"><div class="img-placeholder darkblue" style="background-color:#2aa527;">M</div></div>
 <div class="testimonials-item_content bb-quotes-content">
-<p class="feedback">Easy</p>
-<span class="feedback-owner">- Keeter Ray, September 21, 2023</span>
+<p class="feedback">Hi. The service was fast and accurate.
+I had to tell people that my site about the Ten Commandments had to be written in letters. Losdiezmandamientos.com , now they can write it with the number 10 and they wil get there also.</p>
+<span class="feedback-owner">- Manuel Polanco, October 23, 2023</span>
 </div>
 </div>
 </div>
@@ -524,9 +524,9 @@ border-bottom: 0px solid #d2d6da !important;
 <div class="domains-table border-none">
 <div class="domain-row">
 <div class="domain">
-<a href="https://www.HugeDomains.com/domain_profile.cfm?d=RoyceProperty.com">RoyceProperty.com</a>
-<a href="https://www.HugeDomains.com/domain_profile.cfm?d=RoyceProperty.com" class="btn" style="height:35px;">&#9656; See domain</a>
-<span class="price">$3,295</span>
+<a href="https://www.HugeDomains.com/domain_profile.cfm?d=RoyceBet.com">RoyceBet.com</a>
+<a href="https://www.HugeDomains.com/domain_profile.cfm?d=RoyceBet.com" class="btn" style="height:35px;">&#9656; See domain</a>
+<span class="price">$3,195</span>
 </div>
 </div>
 <div class="domain-row">
@@ -538,9 +538,9 @@ border-bottom: 0px solid #d2d6da !important;
 </div>
 <div class="domain-row">
 <div class="domain">
-<a href="https://www.HugeDomains.com/domain_profile.cfm?d=RoyceTea.com">RoyceTea.com</a>
-<a href="https://www.HugeDomains.com/domain_profile.cfm?d=RoyceTea.com" class="btn" style="height:35px;">&#9656; See domain</a>
-<span class="price">$2,595</span>
+<a href="https://www.HugeDomains.com/domain_profile.cfm?d=RoyceL.com">RoyceL.com</a>
+<a href="https://www.HugeDomains.com/domain_profile.cfm?d=RoyceL.com" class="btn" style="height:35px;">&#9656; See domain</a>
+<span class="price">$2,495</span>
 </div>
 </div>
 
@@ -584,7 +584,7 @@ border-bottom: 0px solid #d2d6da !important;
 <div class="ss-block-inner-new">
 <span class="ss-block-title">JRoyce.com</span>
 
-<a href="https://www.HugeDomains.com/shopping_cart.cfm?d=JRoyce&e=com" class="btn" style="margin-bottom:5px; padding-right:30px; height:50px; " id="hdv3Billboard184BuyID" onClick="$('#hdv3Billboard184BuyID').addClass('hiddenAtLoad'); $('#hdv3Billboard184BuyProceID').removeClass('hiddenAtLoad'); landerFunc57DD5D0FFC724406B8051397DE17FAFAFunc(); return false;">&rtrif; Buy now</a>
+<a href="https://www.HugeDomains.com/shopping_cart.cfm?d=JRoyce&e=com" class="btn" style="margin-bottom:5px; padding-right:30px; height:50px; " id="hdv3Billboard184BuyID" onClick="$('#hdv3Billboard184BuyID').addClass('hiddenAtLoad'); $('#hdv3Billboard184BuyProceID').removeClass('hiddenAtLoad'); landerFunc11513FE3642A4A02B2D9F3B9413F79E1Func(); return false;">&rtrif; Buy now</a>
 <button type="button" value id="hdv3Billboard184BuyProceID" class=" place-order-btn paymentpay-accaunt-content-btn btn hiddenAtLoad" onclick="return false;" style="height:50px; margin-left:0px; min-width:30px; margin-top:0px; margin-bottom:5px; display:block;">
 <div class="circularJ">
 <div class="circularJ_1"></div>
@@ -634,13 +634,13 @@ return false;
 </div>
 </div>
 
-<form action="https://www.HugeDomains.com/shopping_cart.cfm?d=JRoyce.com" method="post" id="landerForm57DD5D0FFC724406B8051397DE17FAFAID">
-<input type="hidden" name="cartCheck" value="0" id="landerForm57DD5D0FFC724406B8051397DE17FAFACheckID">
+<form action="https://www.HugeDomains.com/shopping_cart.cfm?d=JRoyce.com" method="post" id="landerForm11513FE3642A4A02B2D9F3B9413F79E1ID">
+<input type="hidden" name="cartCheck" value="0" id="landerForm11513FE3642A4A02B2D9F3B9413F79E1CheckID">
 </form>
 <script>
-function landerFunc57DD5D0FFC724406B8051397DE17FAFAFunc() {
-document.getElementById('landerForm57DD5D0FFC724406B8051397DE17FAFACheckID').value = 42;
-document.getElementById('landerForm57DD5D0FFC724406B8051397DE17FAFAID').submit();
+function landerFunc11513FE3642A4A02B2D9F3B9413F79E1Func() {
+document.getElementById('landerForm11513FE3642A4A02B2D9F3B9413F79E1CheckID').value = 42;
+document.getElementById('landerForm11513FE3642A4A02B2D9F3B9413F79E1ID').submit();
 }
 </script>
 <script>
@@ -729,7 +729,7 @@ $('#fabButtonPopopOuterDivID').load("https://www.HugeDomains.com/rjs/hdv3-rjs/co
 <span class="cta font24">Talk to a domain expert: <a href="tel:1-303-893-0552" class="link">+1-303-893-0552</a></span>
 </div>
 <p class="copyright text-center">&copy; 2023 HugeDomains.com. All rights reserved.</p>
-<a href="https://www.HugeDomains.com/more-info.cfm" tabindex="-1" aria-label="more."></a>
+<a href="https://www.HugeDomains.com/domain-info.cfm" tabindex="-1" aria-label="more."></a>
 </div>
 </footer>
 <script src="https://www.google.com/recaptcha/enterprise.js?render=6LdRB9UiAAAAABaf3jRLyU_gwaGIp-3OvR51myRx"></script>
@@ -806,4 +806,4 @@ $('#hdv3Product3FooterBarrID').removeClass('hiddenAtLoad');
 });
 </script>
 
-<script>(function(){var js = "window['__CF$cv$params']={r:'81b194e52acf162e',t:'MTY5ODE0MzgxNi42ODIwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body></html>
+<script>(function(){var js = "window['__CF$cv$params']={r:'81e5695ebc413a7d',t:'MTY5ODY4NzI5My41NjgwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body></html>
