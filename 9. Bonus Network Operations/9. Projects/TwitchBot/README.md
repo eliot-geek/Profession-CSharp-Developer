@@ -1,4 +1,4 @@
-# Task: Create a Telegram Bot with File Storage and Retrieval Functionality
+# Task: Create a Twitch Bot with File Storage and Retrieval Functionality
 
 ## The bot should have the following set of features:
 
