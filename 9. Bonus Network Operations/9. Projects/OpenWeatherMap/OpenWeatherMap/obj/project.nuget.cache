@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dlkaCt9dBzSowL9AVNLGrrvasZkLeeS0k9ElbDEGoEmth16i8nBgn0kwlW3gUGiHOisYTDA5MJifGj4cUfJPHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\9. Bonus Network Operations\\9. Projects\\OpenWeatherMap\\OpenWeatherMap\\OpenWeatherMap.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leosa\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

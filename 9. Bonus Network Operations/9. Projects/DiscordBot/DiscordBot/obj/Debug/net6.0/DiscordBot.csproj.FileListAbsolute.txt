@@ -1,0 +1,5 @@
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Projects\DiscordBot\DiscordBot\obj\Debug\net6.0\DiscordBot.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Projects\DiscordBot\DiscordBot\obj\Debug\net6.0\DiscordBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Projects\DiscordBot\DiscordBot\obj\Debug\net6.0\DiscordBot.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Projects\DiscordBot\DiscordBot\obj\Debug\net6.0\DiscordBot.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Projects\DiscordBot\DiscordBot\obj\Debug\net6.0\DiscordBot.csproj.CoreCompileInputs.cache

@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Ui4nTANj1TGlvBMOXqWYjwoEhUXDgKnTmQ+hhEnlVLEnpPxoHR2rKciYLrgxZsScjJd10G7fuxFf1cJ2dpPtoQ==",
+  "dgSpecHash": "U9Ngt+WVDXOskw1QIo8ir8UnQZOTEY3kftkqjFgaSwpRrHTFNdmRLxmp5TDeJsKfJSolX9NRNO1xw8Bo+2A4vQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\9. Bonus Network Operations\\9. Projects\\TelegramBotApp\\TelegramBotApp\\TelegramBotApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\leosa\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\leosa\\.nuget\\packages\\telegram.bot\\19.0.0\\telegram.bot.19.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
