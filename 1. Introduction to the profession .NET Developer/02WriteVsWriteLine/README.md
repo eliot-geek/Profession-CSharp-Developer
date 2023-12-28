@@ -12,4 +12,5 @@ Write a C# console application that demonstrates the difference between the `Con
 
 3. Add a `Console.ReadLine` statement to prevent the console window from closing after the program executes.
 
-**Note:** To close the application, the user needs to press the Enter key.
+## Note 
+To close the application, the user needs to press the Enter key.
