@@ -12,8 +12,8 @@ The program comprises two additional classes: `Worker` and `Repository`.
 
 The `Worker` class describes the model of an employee with the following fields:
 
-- Name
-- Surname
+- FirstName
+- LastName
 - Age
 - Salary
 
