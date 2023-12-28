@@ -29,16 +29,6 @@ The `Repository` class is responsible for organizing data storage and generation
 - Outputs the database to the console.
 - Dismisses employees with a salary greater than a specified value or with a given name.
 
-### Methods in the Repository Class:
-
-- `AddEmployee`: Adds a new employee to the database.
-- `SelectRandomName`: Selects a random name from the databases.
-- `GenerateRandomAge`: Generates a random age.
-- `GenerateRandomSalary`: Generates a random salary.
-- `PrintEmployeeDatabase`: Outputs the database to the console.
-- `DismissEmployeesBySalary`: Dismisses employees with a salary greater than a specified value.
-- `DismissEmployeesByName`: Dismisses employees with a given name.
-
 ## **Homework**
 
 ### **Difficulty Level: Simple**
