@@ -95,10 +95,10 @@
             a += 1;
             Console.WriteLine(a); //31
 
-            a++; // постфиксный инкремент
+            a++; // postfix increment
             Console.WriteLine(a); //32
 
-            ++a;// префиксный инкремент
+            ++a;// prefix increment
             Console.WriteLine(a); //33
             #endregion
 
@@ -112,10 +112,10 @@
             a -= 1;
             Console.WriteLine(a); //29
 
-            a--; // постфиксный инкремент
+            a--; // postfix increment
             Console.WriteLine(a); //28
 
-            --a;// префиксный инкремент
+            --a;// prefix increment
             Console.WriteLine(a); //27
             #endregion
         }
