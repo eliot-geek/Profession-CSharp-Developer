@@ -1,6 +1,7 @@
-# **Task 5: Guess the Number Game**
+# **Guess the Number Game**
 
 ## **What Needs to be Done**
+
 Develop a program based on the following algorithm:
 
 1. The user enters the maximum integer of the range.
@@ -12,5 +13,6 @@ Develop a program based on the following algorithm:
 7. If the user gets tired of playing and wants to quit, they can input an empty string and press Enter. In this case, the program terminates, displaying the randomly generated number.
 
 ## **Tips and Recommendations**
-To organize infinite input of numbers and allow the user to input as many numbers as they want, use a while or do-while loop with a condition such as (1 == 1) or simply (true).
-Use the `break` statement to exit the infinite loop.
+
+- To organize infinite input of numbers and allow the user to input as many numbers as they want, use a while or do-while loop with a condition such as `(1 == 1)` or simply `(true)`.
+- Use the `break` statement to exit the infinite loop.
