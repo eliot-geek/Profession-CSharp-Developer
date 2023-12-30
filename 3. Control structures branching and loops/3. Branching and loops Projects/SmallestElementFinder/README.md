@@ -1,4 +1,4 @@
-# Task 4: Finding the Smallest Element in a Sequence
+# Finding the Smallest Element in a Sequence
 
 ## What Needs to be Done
 Find the smallest element in a sequence entered by the user. Here is a detailed program algorithm:
