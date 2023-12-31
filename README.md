@@ -21,7 +21,7 @@ C# is a widely-used programming language renowned for its versatility in creatin
 - Understanding methods and functions in C#.
 - Parameter passing and return values.
 ## **Files**
-- File operations using string reader and string writer.
+- File operations using string reader, string writer and others.
 ## **Structures**
 - Introduction to structures in C#.
 - Difference between `struct` and `class`.
@@ -35,7 +35,7 @@ C# is a widely-used programming language renowned for its versatility in creatin
 - Handling JSON and XML data in C#.
 ## **Working with the Network**
 - Basic network operations.
-- HTTP server and web server concepts.
+- HTTP server, web server concepts and others.
 ## LINQ
 ## Parallel programming
 ## **Visual Programming and Windows Presentation Foundation (WPF) Technology**
