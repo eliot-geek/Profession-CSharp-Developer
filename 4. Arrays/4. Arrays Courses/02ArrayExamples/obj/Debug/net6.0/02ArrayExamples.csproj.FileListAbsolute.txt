@@ -13,3 +13,17 @@ C:\Users\leosa\Downloads\PushHub\4. Arrays\4. Arrays Courses\ArraysCourses\02Arr
 C:\Users\leosa\Downloads\PushHub\4. Arrays\4. Arrays Courses\ArraysCourses\02ArrayExamples\obj\Debug\net6.0\02ArrayExamples.pdb
 C:\Users\leosa\Downloads\PushHub\4. Arrays\4. Arrays Courses\ArraysCourses\02ArrayExamples\obj\Debug\net6.0\02ArrayExamples.genruntimeconfig.cache
 C:\Users\leosa\Downloads\PushHub\4. Arrays\4. Arrays Courses\ArraysCourses\02ArrayExamples\obj\Debug\net6.0\ref\02ArrayExamples.dll
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\02ArrayExamples\bin\Debug\net6.0\02ArrayExamples.exe
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\02ArrayExamples\bin\Debug\net6.0\02ArrayExamples.deps.json
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\02ArrayExamples\bin\Debug\net6.0\02ArrayExamples.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\02ArrayExamples\bin\Debug\net6.0\02ArrayExamples.dll
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\02ArrayExamples\bin\Debug\net6.0\02ArrayExamples.pdb
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\02ArrayExamples\obj\Debug\net6.0\02ArrayExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\02ArrayExamples\obj\Debug\net6.0\02ArrayExamples.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\02ArrayExamples\obj\Debug\net6.0\02ArrayExamples.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\02ArrayExamples\obj\Debug\net6.0\02ArrayExamples.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\02ArrayExamples\obj\Debug\net6.0\02ArrayExamples.dll
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\02ArrayExamples\obj\Debug\net6.0\refint\02ArrayExamples.dll
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\02ArrayExamples\obj\Debug\net6.0\02ArrayExamples.pdb
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\02ArrayExamples\obj\Debug\net6.0\02ArrayExamples.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\02ArrayExamples\obj\Debug\net6.0\ref\02ArrayExamples.dll

@@ -75,57 +75,69 @@ namespace _02ArrayExamples
 
             #region Task 4
 
-            //Console.WriteLine("An array with n elements which has only zeros and ones.\nZeros at the begining and ones at the end.");
-            //Console.Write("Numbers of elements: ");
-            //int n = int.Parse(Console.ReadLine());
+            Console.WriteLine("An array with n elements which has only zeros and ones.\nZeros at the begining and ones at the end.");
+            Console.Write("Numbers of elements: ");
+            int n = int.Parse(Console.ReadLine());
 
-            //Random random = new Random();
-            //int[] numbs = new int[n];
-            //Console.Write("\nOriginal array: ");
-            //for (int i = 0; i < numbs.Length; i++)
-            //{
-            //    numbs[i] = random.Next(0, 2);
-            //    Console.Write($"{numbs[i]} "); 
-            //}
+            Random random = new Random();
+            int[] numbs = new int[n];
+            Console.Write("\nOriginal array: ");
+            for (int i = 0; i < numbs.Length; i++)
+            {
+                numbs[i] = random.Next(0, 2);
+                Console.Write($"{numbs[i]} ");
+            }
 
-            ////     0  0  0  0  0  0  0  1  1  1
-            ////                       ^  ^     
+            //     0  0  0  0  0  0  0  1  1  1
+            //                       ^  ^     
 
-            //int head = 0;
-            //int tail = numbs.Length - 1;
-            //bool flag = true;
-            //while (head < tail)
-            //{
-            //    if (flag)
-            //    {
-            //        if (numbs[head] == 1) flag = false;
-            //        else head++;
-            //    }
-            //    else
-            //    {
-            //        if (numbs[tail] == 0) flag = true;
-            //        else tail--;
-            //    }
+            int head = 0;
+            int tail = numbs.Length - 1;
+            bool flag = true;
+            while (head < tail)
+            {
+                if (flag)
+                {
+                    if (numbs[head] == 1)
+                    {
+                        flag = false;
+                    } 
+                    else
+                    {
+                        head++;
+                    }
+                }
+                else
+                {
+                    if (numbs[tail] == 0)
+                    {
+                        flag = true;
+                    }
+                    else
+                    {
+                        tail--;
+                    }
+                }
 
-            //    // If both the current element at the head pointer is 1 and the current element at the tail pointer is 0, swap the elements
-            //    if (numbs[head] == 1 && numbs[tail] == 0)
-            //    {
-            //        int temp = numbs[head];
-            //        numbs[head] = numbs[tail];
-            //        numbs[tail] = temp;
+                // If both the current element at the head pointer is 1 and the current element at the tail pointer is 0, swap the elements
+                if (numbs[head] == 1 && numbs[tail] == 0)
+                {
+                    int temp = numbs[head];
+                    numbs[head] = numbs[tail];
+                    numbs[tail] = temp;
 
-            //        // Increment the head pointer and decrement the tail pointer
-            //        head++;
-            //        tail--;
-            //    }
-            //}
+                    // Increment the head pointer and decrement the tail pointer
+                    head++;
+                    tail--;
+                }
+            }
 
-            //Console.Write("\nReceived array: ");
-            //for (int i = 0; i < numbs.Length; i++)
-            //{
-            //    Console.Write($"{numbs[i]} "); 
-            //}
-            //Console.ReadKey();
+            Console.Write("\nReceived array: ");
+            for (int i = 0; i < numbs.Length; i++)
+            {
+                Console.Write($"{numbs[i]} ");
+            }
+            Console.ReadKey();
 
             #endregion
         }
