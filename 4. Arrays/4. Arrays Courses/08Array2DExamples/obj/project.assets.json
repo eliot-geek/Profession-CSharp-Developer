@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leosa\\Downloads\\PushHub\\Profession-CSharp-Developer\\4. Arrays\\4. Arrays Courses\\08Array2DExamples\\08Array2DExamples.csproj",
+      "projectUniqueName": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\4. Arrays\\4. Arrays Courses\\08Array2DExamples\\08Array2DExamples.csproj",
       "projectName": "08Array2DExamples",
-      "projectPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Profession-CSharp-Developer\\4. Arrays\\4. Arrays Courses\\08Array2DExamples\\08Array2DExamples.csproj",
+      "projectPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\4. Arrays\\4. Arrays Courses\\08Array2DExamples\\08Array2DExamples.csproj",
       "packagesPath": "C:\\Users\\leosa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Profession-CSharp-Developer\\4. Arrays\\4. Arrays Courses\\08Array2DExamples\\obj\\",
+      "outputPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\4. Arrays\\4. Arrays Courses\\08Array2DExamples\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

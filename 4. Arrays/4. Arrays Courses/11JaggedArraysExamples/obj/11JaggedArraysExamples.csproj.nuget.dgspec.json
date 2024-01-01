@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leosa\\Downloads\\PushHub\\Profession-CSharp-Developer\\4. Arrays\\4. Arrays Courses\\11JaggedArraysExamples\\11JaggedArraysExamples.csproj": {}
+    "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\4. Arrays\\4. Arrays Courses\\11JaggedArraysExamples\\11JaggedArraysExamples.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leosa\\Downloads\\PushHub\\Profession-CSharp-Developer\\4. Arrays\\4. Arrays Courses\\11JaggedArraysExamples\\11JaggedArraysExamples.csproj": {
+    "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\4. Arrays\\4. Arrays Courses\\11JaggedArraysExamples\\11JaggedArraysExamples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leosa\\Downloads\\PushHub\\Profession-CSharp-Developer\\4. Arrays\\4. Arrays Courses\\11JaggedArraysExamples\\11JaggedArraysExamples.csproj",
+        "projectUniqueName": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\4. Arrays\\4. Arrays Courses\\11JaggedArraysExamples\\11JaggedArraysExamples.csproj",
         "projectName": "11JaggedArraysExamples",
-        "projectPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Profession-CSharp-Developer\\4. Arrays\\4. Arrays Courses\\11JaggedArraysExamples\\11JaggedArraysExamples.csproj",
+        "projectPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\4. Arrays\\4. Arrays Courses\\11JaggedArraysExamples\\11JaggedArraysExamples.csproj",
         "packagesPath": "C:\\Users\\leosa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Profession-CSharp-Developer\\4. Arrays\\4. Arrays Courses\\11JaggedArraysExamples\\obj\\",
+        "outputPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\4. Arrays\\4. Arrays Courses\\11JaggedArraysExamples\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
