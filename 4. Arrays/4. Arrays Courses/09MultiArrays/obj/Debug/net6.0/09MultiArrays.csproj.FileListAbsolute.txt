@@ -13,3 +13,17 @@ C:\Users\leosa\Downloads\PushHub\4. Arrays\4. Arrays Courses\ArraysCourses\09Mul
 C:\Users\leosa\Downloads\PushHub\4. Arrays\4. Arrays Courses\ArraysCourses\09MultiArrays\obj\Debug\net6.0\09MultiArrays.pdb
 C:\Users\leosa\Downloads\PushHub\4. Arrays\4. Arrays Courses\ArraysCourses\09MultiArrays\obj\Debug\net6.0\09MultiArrays.genruntimeconfig.cache
 C:\Users\leosa\Downloads\PushHub\4. Arrays\4. Arrays Courses\ArraysCourses\09MultiArrays\obj\Debug\net6.0\ref\09MultiArrays.dll
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\09MultiArrays\bin\Debug\net6.0\09MultiArrays.exe
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\09MultiArrays\bin\Debug\net6.0\09MultiArrays.deps.json
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\09MultiArrays\bin\Debug\net6.0\09MultiArrays.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\09MultiArrays\bin\Debug\net6.0\09MultiArrays.dll
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\09MultiArrays\bin\Debug\net6.0\09MultiArrays.pdb
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\09MultiArrays\obj\Debug\net6.0\09MultiArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\09MultiArrays\obj\Debug\net6.0\09MultiArrays.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\09MultiArrays\obj\Debug\net6.0\09MultiArrays.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\09MultiArrays\obj\Debug\net6.0\09MultiArrays.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\09MultiArrays\obj\Debug\net6.0\09MultiArrays.dll
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\09MultiArrays\obj\Debug\net6.0\refint\09MultiArrays.dll
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\09MultiArrays\obj\Debug\net6.0\09MultiArrays.pdb
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\09MultiArrays\obj\Debug\net6.0\09MultiArrays.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\09MultiArrays\obj\Debug\net6.0\ref\09MultiArrays.dll

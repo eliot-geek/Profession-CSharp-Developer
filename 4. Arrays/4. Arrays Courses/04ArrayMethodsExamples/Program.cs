@@ -44,7 +44,7 @@
             }
             Console.WriteLine();
 
-            // Clear starting at a specified index (7). (3) - the number of elements to clear (replace with 0)
+            // Clear starting at a specified index (7). (3) - the number of elements to clear (remplace by 0)
             Array.Clear(data, 7, 3);
             Console.WriteLine("Array after applying Array.Clear(data, 7, 3): ");
             for (int i = 0; i < data.Length; i++)

@@ -9,19 +9,19 @@
             #region Task 1
 
             //Console.WriteLine("Create an array of N random numbers from -5 to 5.");
-            //Console.Write("Enter n: ");                 
-            //int n = int.Parse(Console.ReadLine());      
-            //Random random = new Random();               
-            //int[] numbs = new int[n];                   
-            //for (int i = 0; i < numbs.Length; i++)      
-            //{                                           
-            //    numbs[i] = random.Next(-5, 6);          
-            //}                                            
+            //Console.Write("Enter n: ");
+            //int n = int.Parse(Console.ReadLine());
+            //Random random = new Random();
+            //int[] numbs = new int[n];
+            //for (int i = 0; i < numbs.Length; i++)
+            //{
+            //    numbs[i] = random.Next(-5, 6);
+            //}
 
-            //for (int i = 0; i < numbs.Length; i++)      
-            //{                                           
-            //    Console.Write($"{numbs[i]} ");           
-            //}                                           
+            //for (int i = 0; i < numbs.Length; i++)
+            //{
+            //    Console.Write($"{numbs[i]} ");
+            //}
             //Console.WriteLine();
 
             //// Foreach loop
@@ -30,6 +30,7 @@
             //{
             //    Console.Write($"{e} ");
             //}
+            //Console.WriteLine();
             //Console.ReadKey();
 
             #endregion
@@ -41,7 +42,7 @@
             //{
             //    dataTime[j] = (j >= 9 && j < 21) ? new int[12] : new int[4];
             //}
-                
+
             //for (int i = 0; i < dataTime.Length; i++)
             //{
             //    for (int j = 0; j < dataTime[i].Length; j++)
@@ -69,18 +70,19 @@
 
             #region String
 
-            //string message = "I AM A C# DEVELOPER";
-            //for (int i = 0; i < message.Length; i++)
-            //{
-            //    Console.Write($"{message[i]} ");
-            //}
-            //Console.WriteLine();
+            string message = "I AM A C# DEVELOPER";
+            for (int i = 0; i < message.Length; i++)
+            {
+                Console.Write($"{message[i]} ");
+            }
+            Console.WriteLine();
 
-            //foreach (var c in message)
-            //{
-            //    Console.Write($"{c} ");
-            //}
-            //Console.WriteLine(); Console.ReadKey();
+            foreach (var c in message)
+            {
+                Console.Write($"{c} ");
+            }
+            Console.WriteLine();
+            Console.ReadKey();
 
             #endregion
 

@@ -13,3 +13,17 @@ C:\Users\leosa\Downloads\PushHub\4. Arrays\4. Arrays Courses\ArraysCourses\12For
 C:\Users\leosa\Downloads\PushHub\4. Arrays\4. Arrays Courses\ArraysCourses\12ForeachLoop\obj\Debug\net6.0\12ForeachLoop.pdb
 C:\Users\leosa\Downloads\PushHub\4. Arrays\4. Arrays Courses\ArraysCourses\12ForeachLoop\obj\Debug\net6.0\12ForeachLoop.genruntimeconfig.cache
 C:\Users\leosa\Downloads\PushHub\4. Arrays\4. Arrays Courses\ArraysCourses\12ForeachLoop\obj\Debug\net6.0\ref\12ForeachLoop.dll
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\12ForeachLoop\bin\Debug\net6.0\12ForeachLoop.exe
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\12ForeachLoop\bin\Debug\net6.0\12ForeachLoop.deps.json
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\12ForeachLoop\bin\Debug\net6.0\12ForeachLoop.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\12ForeachLoop\bin\Debug\net6.0\12ForeachLoop.dll
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\12ForeachLoop\bin\Debug\net6.0\12ForeachLoop.pdb
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\12ForeachLoop\obj\Debug\net6.0\12ForeachLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\12ForeachLoop\obj\Debug\net6.0\12ForeachLoop.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\12ForeachLoop\obj\Debug\net6.0\12ForeachLoop.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\12ForeachLoop\obj\Debug\net6.0\12ForeachLoop.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\12ForeachLoop\obj\Debug\net6.0\12ForeachLoop.dll
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\12ForeachLoop\obj\Debug\net6.0\refint\12ForeachLoop.dll
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\12ForeachLoop\obj\Debug\net6.0\12ForeachLoop.pdb
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\12ForeachLoop\obj\Debug\net6.0\12ForeachLoop.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\12ForeachLoop\obj\Debug\net6.0\ref\12ForeachLoop.dll

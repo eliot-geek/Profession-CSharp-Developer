@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\4. Arrays\\4. Arrays Courses\\ArraysCourses\\ArraysCourses.csproj",
+      "projectUniqueName": "C:\\Users\\leosa\\Downloads\\PushHub\\Profession-CSharp-Developer\\4. Arrays\\4. Arrays Courses\\ArraysCourses\\ArraysCourses.csproj",
       "projectName": "ArraysCourses",
-      "projectPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\4. Arrays\\4. Arrays Courses\\ArraysCourses\\ArraysCourses.csproj",
+      "projectPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Profession-CSharp-Developer\\4. Arrays\\4. Arrays Courses\\ArraysCourses\\ArraysCourses.csproj",
       "packagesPath": "C:\\Users\\leosa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\4. Arrays\\4. Arrays Courses\\ArraysCourses\\obj\\",
+      "outputPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Profession-CSharp-Developer\\4. Arrays\\4. Arrays Courses\\ArraysCourses\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
