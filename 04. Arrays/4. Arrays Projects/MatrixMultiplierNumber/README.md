@@ -15,7 +15,7 @@ Multiply the following matrix by the number 5:
 ```
 
      |  1  3  5  |   |  5  15  25  |
- 5 x |  4  5  7  | x |  5  25  35  |
+ 5 x |  4  5  7  | = |  5  25  35  |
      |  5  3  1  |   | 25  15  05  |
 
 ```
