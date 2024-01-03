@@ -2,44 +2,26 @@
 
 ## Task Description
 
-The client needs an application that allows adding and subtracting mathematical matrices. Add the ability to enter the number of rows and columns of the matrix. The matrices are automatically filled. If the operation cannot be performed based on the user-entered data, notify the user about it.
+The client needs an application that allows adding and subtracting mathematical matrices.
+
+Add the ability to enter the number of rows and columns of the matrix. The matrices are automatically filled. 
+
+If the operation cannot be performed based on the user-entered data, notify the user about it.
 
 ## Example
 
 ```
 Addition of Matrices:
 
-Matrix A:  
-| 1 3 5 |   
-| 4 5 7 |   
-| 5 3 1 |  
+|  1  3  5  |   |  1  3  4  |   |  2   6   9  |
+|  4  5  7  | + |  2  5  6  | = |  6  10  13  |
+|  5  3  1  |   |  3  6  7  |   |  8   9   8  |
+  
+Subtraction of Matrices:
 
-Matrix B:  
-| 1 3 4 |   
-| 2 5 6 |   
-| 3 6 7 |  
-
-Result (Matrix C) after addition:  
-| 2 6 9 |   
-| 6 10 13 |   
-| 8 9 8 |  
-
-Subtraction of Matrices:  
-
-Matrix A:  
-| 1 3 5 |   
-| 4 5 7 |   
-| 5 3 1 |  
-
-Matrix B:  
-| 2 5 6 |   
-| 1 3 4 |   
-| 3 6 7 |  
-
-Result (Matrix D) after subtraction:  
-| -1 -2 -1 |   
-| 3 2 3 |   
-| 2 -3 -6 |  
+|  1  3  5  |   |  1  3  4  |   |  0   0   1  |
+|  4  5  7  | - |  2  5  6  | = |  2   0   1  |
+|  5  3  1  |   |  3  6  7  |   |  2  -3  -6  |
 
 ```
 
