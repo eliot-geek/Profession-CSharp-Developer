@@ -2,7 +2,9 @@
 
 ## Task Description
 
-Create an application that displays a matrix of a given size on the screen and fills it with random numbers. The detailed algorithm for the application is as follows:
+Create an application that displays a matrix of a given size on the screen and fills it with random numbers.
+
+The detailed algorithm for the application is as follows:
 
 1. Prompt the user to enter the number of rows for the matrix.
 2. Prompt the user to enter the number of columns for the matrix.
