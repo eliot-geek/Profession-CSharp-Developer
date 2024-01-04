@@ -9,14 +9,14 @@
         /// <returns></returns>
         static int Sum(params int[] Args) 
         {
-            int result = 0;             // Initialize a variable to store the sum
-            foreach (var e in Args)     // Loop through each integer argument
+            int result = 0;            
+            foreach (var e in Args)    
             {
-                result += e;            // Add the current integer to the sum
+                result += e;            
             }
-            return result;              // Return the final sum
+            return result;              
         }
-        // using the params keyword allows you to pass in any number of integer arguments to the method, and they will be added up and returned as the sum
+        // Using the params keyword enables you to provide any number of integer arguments to a method. These values will be summed up, and the method will return the result.
 
         static void Main(string[] args)
         {
