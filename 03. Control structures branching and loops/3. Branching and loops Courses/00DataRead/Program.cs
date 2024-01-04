@@ -23,7 +23,7 @@
             Console.WriteLine("Name: " + name + " Age: " + age + " Expenses: $" + costs);      // concatenate strings
             Console.WriteLine("Name: {0} Age: {1} Expenses: ${2}", name, age, costs);          // formatted output
             Console.WriteLine($"Name: {name} Age: {age} Expenses: ${costs}");                  // interpolate the lines
-            Console.ReadKey();
+            Console.WriteLine();
         }
     }
 }
