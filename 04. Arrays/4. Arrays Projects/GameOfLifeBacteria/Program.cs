@@ -8,25 +8,28 @@
 
         static void Main(string[] args)
         {
-            Console.CursorVisible = false; // hide the cursor
+            // Hide the cursor
+            Console.CursorVisible = false; 
+            
             Random rand = new Random();
 
-            // randomly place bacteria in the Petri dish
+            // Randomly place bacteria in the Petri dish
             for (int i = 0; i < m; i++)
             {
                 for (int j = 0; j < n; j++)
                 {
-                    petriDish[i, j] = rand.Next(2) == 1; // 50/50 chance of being alive or dead
+                    // 50/50 chance of being alive or dead
+                    petriDish[i, j] = rand.Next(2) == 1; 
                 }
             }
 
-            // main loop
+            // Main loop
             while (true)
             {
-                Console.SetCursorPosition(0, 0);  // move cursor to top left corner
-                PrintPetriDish();                 // print current state of Petri dish
+                Console.SetCursorPosition(0, 0);  // Move cursor to top left corner
+                PrintPetriDish();                 // Print current state of Petri dish
 
-                // create a copy of the Petri dish to calculate the new state
+                // Create a copy of the Petri dish to calculate the new state
                 bool[,] newPetriDish = new bool[m, n];
                 for (int i = 0; i < m; i++)
                 {
@@ -35,26 +38,24 @@
                         int numNeighbors = CountNeighbors(i, j);
                         if (petriDish[i, j])
                         { 
-                            // if bacterium is alive
                             if (numNeighbors == 2 || numNeighbors == 3)
                             {
-                                newPetriDish[i, j] = true;     // bacterium survives
+                                newPetriDish[i, j] = true;     // Bacterium survives
                             }
                             else
                             {
-                                newPetriDish[i, j] = false;     // bacterium dies
+                                newPetriDish[i, j] = false;     // Bacterium dies
                             }
                         }
                         else
                         { 
-                            // if bacterium is dead
                             if (numNeighbors == 3)
                             {
-                                newPetriDish[i, j] = true;     // new bacterium is born
+                                newPetriDish[i, j] = true;     // New Bacterium is born
                             }
                             else
                             {
-                                newPetriDish[i, j] = false;     // no change
+                                newPetriDish[i, j] = false;     // No change
                             }
                         }
                     }
@@ -65,7 +66,6 @@
             }
         }
 
-        // print the current state of the Petri dish
         static void PrintPetriDish()
         {
             for (int i = 0; i < m; i++)
@@ -78,7 +78,8 @@
             }
         }
 
-        // count the number of live neighbors for a given cell
+
+        // Count the number of live neighbors for a given cell
         static int CountNeighbors(int row, int col)
         {
             int count = 0;

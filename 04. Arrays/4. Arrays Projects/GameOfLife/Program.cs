@@ -43,11 +43,13 @@
                     {
                         if (numOfAliveNeighbors < 2)
                         {
+                            // Any live cell with fewer than two live neighbors dies (underpopulation)
                             cells[i, j] = false;
                         }
 
                         if (numOfAliveNeighbors > 3)
                         {
+                            // Any live cell with more than three live neighbors dies (overpopulation)
                             cells[i, j] = false;
                         }
                     }
@@ -55,6 +57,7 @@
                     {
                         if (numOfAliveNeighbors == 3)
                         {
+                            // Any dead cell with exactly three live neighbors becomes alive
                             cells[i, j] = true;
                         }
                     }
@@ -72,13 +75,17 @@
         {
             int NumOfAliveNeighbors = 0;
 
+            // Iterate over the neighboring cells in a 3x3 grid around the specified cell.
             for (int i = x - 1; i < x + 2; i++)
             {
                 for (int j = y - 1; j < y + 2; j++)
                 {
+                    // Check if the current neighbor position is within the bounds of the grid.
                     if (!((i < 0 || j < 0) || (i >= _heigth || j >= _width)))
                     {
-                        if (cells[i, j] == true) NumOfAliveNeighbors++;
+                        // Check if the cell at the current neighbor position is alive.
+                        if (cells[i, j] == true) 
+                            NumOfAliveNeighbors++;
                     }
                 }
             }
@@ -94,10 +101,16 @@
             {
                 for (int j = 0; j < _width; j++)
                 {
+                    // Display 'x' for a live cell, and a space for a dead cell.
                     Console.Write(cells[i, j] ? "x" : " ");
-                    if (j == _width - 1) Console.WriteLine("\r");
+
+                    // Check if it's the last column in the row.
+                    if (j == _width - 1) 
+                        Console.WriteLine("\r");
                 }
             }
+
+            // Set the cursor position to the beginning of the console window.
             Console.SetCursorPosition(0, Console.WindowTop);
         }
 
@@ -107,12 +120,16 @@
         private void GenerateField()
         {
             Random generator = new Random();
+
             int number;
+            
             for (int i = 0; i < _heigth; i++)
             {
                 for (int j = 0; j < _width; j++)
                 {
                     number = generator.Next(2);
+
+                    // If the number is 0, set the cell to false (dead), otherwise set it to true (alive).
                     cells[i, j] = ((number == 0) ? false : true);
                 }
             }
@@ -133,9 +150,9 @@
 
             while (runs++ < MaxRuns)
             {
+                // Advance the simulation to the next generation and display the result.
                 sim.DrawAndGrow();
-                // Give the user a chance to see what's going on, we wait a bit
-                System.Threading.Thread.Sleep(100);
+                System.Threading.Thread.Sleep(100);     // Pause
             }
         }
     }

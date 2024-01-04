@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GameOfLifeBacteria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37e821a7d9f040e152041e59c795e7a007de9bd3")]
 [assembly: System.Reflection.AssemblyProductAttribute("GameOfLifeBacteria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GameOfLifeBacteria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

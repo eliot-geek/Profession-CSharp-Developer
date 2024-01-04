@@ -40,7 +40,7 @@
 
         static void Main(string[] args)
         {
-            #region Solution 1
+            #region Optimal Solution
 
             Console.WriteLine("Pascal triangle - Difficult Mode");
             int[,] array2D = new int[25, 25];
@@ -55,8 +55,10 @@
                     Console.Write("You entered more than your memory allotment. Again : ");
                     n = int.Parse(Console.ReadLine());
                 }
+
                 Console.SetCursorPosition((Console.WindowWidth / 2) - width / 2, i);
                 width = 0;
+                
                 for (int j = 0; j < i; j++)
                 {
                     if (j == 0 || i == j)
@@ -82,25 +84,33 @@
             FillTriangle();
             int col = cellWidth * row;
             Console.ReadLine();
+
             for (int i = 0; i < row; i++)
             {
                 for (int j = 0; j <= i; j++)
                 {
                     Console.SetCursorPosition(col, i + 0);
-                    if (triangle[i, j] != 0) Console.Write($"{triangle[i, j],cellWidth}");
+                    if (triangle[i, j] != 0) 
+                        Console.Write($"{triangle[i, j],cellWidth}");
+
+                    // Move the column position for the next number
                     col += cellWidth * 2;
                 }
+
+                // Reset column position for the next row
                 col = cellWidth * row - cellWidth * (i + 1);
                 Console.WriteLine();
             }
-            Console.ReadKey(); 
+
+            Console.ReadKey();
             Console.Clear();
 
 
             // Another way
-            PrintTriangle();
             FillTriangle();
-            
+            PrintTriangle();
+            Console.ReadKey();
+
             #endregion
         }
     }

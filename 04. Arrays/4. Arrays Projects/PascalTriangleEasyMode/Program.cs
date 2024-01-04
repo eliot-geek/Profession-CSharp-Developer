@@ -22,36 +22,28 @@ namespace PascalTriangleEasyMode
 
             // Pascal's triangle is a triangular array of numbers in which the first and last numbers of each row are 1,
             // and each of the remaining numbers is the sum of the two numbers directly above it. 
-            
+
             // Reference - https://en.wikipedia.org/wiki/Pascal%27s_triangle
-            
+
             #endregion
 
 
-            #region Solution 1
+            #region Solution 1 (2D array)
 
-            // Print the title of the program to the console
             Console.WriteLine("Pascal triangle - Easy Mode");
-            // Create a 2D array with size of 25 x 25 - This size is chosen as a maximum size to accommodate the largest possible value of N.
             int[,] array2D = new int[25, 25];
-            // Ask the user to input an integer value for N
             Console.Write("Enter n (N < 25): ");
-            // Read the user input as an integer and store it in the variable n
             int n = int.Parse(Console.ReadLine());
 
-            // Start a loop to generate the rows of the Pascal's triangle
             for (int i = 0; i < n; i++)
             {
-                // Check if the user input value exceeds the array size limit, if yes, keep asking for input until it is within the limit
                 while (n > 25)
                 {
-                    Console.Write("You entered more than your memory allotment. Again : ");
+                    Console.Write("The input exceeds the allocated memory. Please try again: ");
                     n = int.Parse(Console.ReadLine());
                 }
-                // Generate the numbers for each row of the triangle and store them in the array
                 for (int j = 0; j <= i; j++)
                 {
-                    // the first and last elements in each row are always 1
                     if (j == 0 || i == j)
                     {
                         array2D[i, j] = 1;
@@ -60,46 +52,70 @@ namespace PascalTriangleEasyMode
                     {
                         array2D[i, j] = array2D[i - 1, j] + array2D[i - 1, j - 1];
                     }
-                    // Print each number to the console
+
                     Console.Write(array2D[i, j] + "  ");
                 }
+
                 Console.WriteLine();
             }
             #endregion
 
 
-            #region Solution 2
-            
+            #region Solution 2 (Jagged 2D array)
+
             Console.WriteLine("\nSolution 2");
             Console.Write("Enter the number of rows to generate: ");
             int numb = int.Parse(Console.ReadLine());
 
-            // create a 2D jagged array to hold the triangle
             int[][] triangle = new int[numb][]; 
             for (int i = 0; i < numb; i++)
             {
-                // create an array for each row with length i+1
                 triangle[i] = new int[i + 1];   
                 for (int j = 0; j <= i; j++)
                 {
-                    // the first and last elements in each row are always 1
                     if (j == 0 || j == i)       
                     {
                         triangle[i][j] = 1;
                     }
-                    else   // the other elements are the sum of the two elements above them
+                    else
                     {
                         triangle[i][j] = triangle[i - 1][j - 1] + triangle[i - 1][j];
                     }
-                }
-            }
-            // print out the triangle
-            for (int i = 0; i < numb; i++)
-            {
-                for (int j = 0; j <= i; j++)
-                {
+
                     Console.Write(triangle[i][j] + "  ");
                 }
+
+                Console.WriteLine();
+            }
+
+            #endregion
+
+            #region Solution 3 (1D array)
+
+            Console.WriteLine("\nSolution 3");
+            Console.WriteLine("Pascal's Triangle - Optimized");
+            Console.Write("Enter the number of rows to generate: ");
+            int numRows = int.Parse(Console.ReadLine());
+
+            for (int i = 0; i < numRows; i++)
+            {
+                int[] row = new int[i + 1];
+
+                for (int j = 0; j <= i; j++)
+                {
+                    if (j == 0 || j == i)
+                    {
+                        row[j] = 1;
+                    }
+                    else
+                    {
+                        // Use the values from the previous row to compute the current value
+                        row[j] = row[j - 1] * (i - j + 1) / j;
+                    }
+
+                    Console.Write(row[j] + "  ");
+                }
+
                 Console.WriteLine();
             }
 

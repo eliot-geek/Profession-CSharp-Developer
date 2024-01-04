@@ -4,32 +4,41 @@
     {
         static void Main(string[] args)
         {
+
             #region Solution 1
 
             Console.WriteLine("FINANCIAL ACCOUNTING APPLICATION\n");
+
             Random randomize = new Random();
             int[,] array2D = new int[12, 4];
             int[] benefice = new int[12];
 
-            int income = 0;        // keep track of total income
-            string months = "";    // months with worst profit
+            int income = 0;        // Keep track of total income
+            string months = "";    // Store months with worst profit
+
             string[] title = { "Month", " Income, $", "Expenses, $", "Profit, $", };
+
             for (int i = 0; i < title.Length; i++)
             {
                 Console.Write($"{title[i],-13} ");
             }
+
             Console.WriteLine();
 
             // Loop through the 12 months and generate random values for income and expenses
             for (int i = 0; i < 12; i++)
             {
+                // Assign values to the array representing financial data
                 array2D[i, 0] = i + 1;
                 array2D[i, 1] = randomize.Next(1, 7) * 10000;
                 array2D[i, 2] = randomize.Next(1, 3) * 10000;
-                array2D[i, 3] = array2D[i, 1] - array2D[i, 2];      // Calculate the profit by subtracting expenses from income
-                benefice[i] = array2D[i, 3];                        // Store the financial data for each month 
+                array2D[i, 3] = array2D[i, 1] - array2D[i, 2];
+                
+                benefice[i] = array2D[i, 3];                        
+                
                 Console.WriteLine($"{array2D[i, 0],5} {array2D[i, 1],18} {array2D[i, 2],14} {array2D[i, 3],11}");
             }
+
             // "Distinct" method to remove duplicate profit/loss values 
             benefice = benefice.Distinct().ToArray();
             Array.Sort(benefice); 
@@ -41,6 +50,7 @@
                 {
                     break;
                 }
+
                 for (int i = 0; i < 12; i++)
                 {
                     // Months with positive profit
@@ -48,6 +58,7 @@
                     {
                         income++;
                     }
+
                     // Worst profit in months
                     if (array2D[i, 3] == benefice[j])
                     {
@@ -75,6 +86,7 @@
             int[] expens = new int[] { 80000, 90000, 70000, 70000, 80000, 120000, 140000, 65000, 90000, 70000, 120000, 80000 };
             int[] profits = new int[12];
             int[] worstProfits = new int[3];
+
             int positiveProfitMonths = 0;
             
             // Calculate profits and count positive profit months
