@@ -8,8 +8,10 @@ namespace _01IntroductionMinMaxOfArrays
         static void Main(string[] args)
         {
             // 5.1 Separating Logic: Using Methods
+
             // There are two arrays containing at least 10 and at most 20 elements.
             // Organize the filling and displaying of each of them. Find the maximum and minimum elements in each array
+
 
             #region Example 1 - This is not a good way to write code
 

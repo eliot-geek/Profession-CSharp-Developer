@@ -68,12 +68,15 @@
             }
             Console.WriteLine($"minBrr = {minBrr}");
 
+
             #region Note
+
             Console.WriteLine("\nEasy ways to find Max and Min");
             Console.WriteLine($"arrMax = {arr.Max()}");
             Console.WriteLine($"arrMix = {arr.Min()}");
             Console.WriteLine($"brrMax = {brr.Max()}");
             Console.WriteLine($"brrMix = {brr.Min()}");
+
             #endregion
 
             #endregion

@@ -8,7 +8,7 @@
         static void Infinity()
         {
             Console.Write("O_- ");
-            Thread.Sleep(100);      // pauses for 100 milliseconds (0.1 seconds)  
+            Thread.Sleep(100);      // pauses the current thread for 100 milliseconds (0.1 seconds) before continuing execution. It creates a delay of 0.1 seconds 
             Infinity();             // Call the function recursively
         }
 

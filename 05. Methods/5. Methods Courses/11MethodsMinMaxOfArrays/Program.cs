@@ -45,15 +45,21 @@
         /// <returns>Maximum value in the array</returns>
         static int Max(int[] Col)
         {
+            // Check if the input array is empty
             if (Col.Length < 0) 
                 return -1;
 
+            // Initialize the local maximum variable to the first element of the array
             int localMax = Col[0];
+
+            // Iterate through the array, comparing each element to the local maximum.
+            // If the element is greater than the local maximum, update the local maximum to the element.
             for (int i = 1; i < Col.Length; i++)
             {
                 if (Col[i] > localMax) 
                     localMax = Col[i];
             }
+            // Return the local maximum.
             return localMax;
         }
 
@@ -64,15 +70,21 @@
         /// <returns>Minimum value in the array</returns>
         static int Min(int[] Col)
         {
+            // Check if the input array is empty or null
             if (Col.Length <= 0) 
                 return -1;
 
+            // Initialize the local minimum variable to the first element of the array
             int localMin = Col[0];
+
+            // Iterate through the array, comparing each element to the local minimum
+            // If the element is less than the local minimum, update the local minimum to the element
             for (int i = 1; i < Col.Length; i++)
             {
                 if (Col[i] < localMin) 
                     localMin = Col[i];
             }
+            // Return the local minimum
             return localMin;
         }
 
@@ -100,11 +112,9 @@
 
             //Fill(brr, Count, BottomRange, UpperRange);
             //Fill(brr, Count, BottomRange, UpperRange) takes three integer arguments: Count, BottomRange, and UpperRange.
-            
-            // - Count specifies the number of elements in the brr array to fill with random integer values. 
-            // - BottomRange and UpperRange specify the range of possible values for the random integers. 
-            // - The BottomRange value is inclusive, meaning it is a possible value that can be generated, while the
-            // - UpperRange value is exclusive, meaning it is not a possible value that can be generated.
+            //Count specifies the number of elements in the brr array to fill with random integer values. BottomRange and UpperRange specify the range of
+            //possible values for the random integers. The BottomRange value is inclusive, meaning it is a possible value that can be generated, while the
+            //UpperRange value is exclusive, meaning it is not a possible value that can be generated.
 
             //For example, if you called Fill(brr, 10, 1, 6), the brr array would be filled with 10 random integer values between 1 and 5 (inclusive).
 
