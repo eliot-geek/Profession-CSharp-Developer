@@ -10,14 +10,14 @@ namespace _15OverloadingMethodsParamsKeywordSet
         /// <param name="Factor"></param>
         /// <param name="Args"></param>
         /// <returns></returns>
-        static int Sum(int Factor, params int[] Args) // Keyword always stays after the factor
+        static int Sum(int Factor, params int[] Args) // The params keyword must always appear at the end of the parameter list in a method signature
         {
-            int result = 0;             // Initialize a variable to store the sum
-            foreach (var e in Args)     // Loop through each integer argument
+            int result = 0;             
+            foreach (var e in Args)     
             {
-                result += e;            // Add the current integer to the sum
+                result += e;            
             }
-            return result * Factor;     // Multiply the sum by the factor and return the result
+            return result * Factor;     
         }
 
         /// <summary>
@@ -56,7 +56,7 @@ namespace _15OverloadingMethodsParamsKeywordSet
             return 0; // Placeholder return statement - Just an example
         }
 
-        // the params keyword is used to allow a variable number of arguments to be passed in as an array.
+        // The params keyword is employed to enable the passing of a variable number of arguments as an array.
         
         static void Main(string[] args)
         {
