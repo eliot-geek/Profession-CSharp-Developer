@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            // 4.6 Jagged Arrays - Array of arrays
+            // 6. Jagged Arrays - 6. Array of arrays
 
             //         0     1     2     3
             //     ┌─────────────────────────┐
@@ -33,7 +33,7 @@
             //     │ └───┘ └───┘ └───┘ │
             //     └───────────────────┘
 
-            // Jagged arrays are arrays of arrays. They can have irregular sizes. Sizes are distributed one at a time
+            // Toothed arrays are arrays of arrays. They can have irregular sizes. Sizes are distributed one at a time
             // Define a new jagged array named "jaggedArray" with 3 rows (i.e., arrays of different sizes). The size of each row is not specified at this point.
             int[][] jaggedArray = new int[3][];
 
@@ -63,6 +63,7 @@
             {
                 for (int j = 0; j < jaggedArray[i].Length; j++)
                 {
+                    // Print out the value of each element to the console, separated by spaces.
                     Console.Write($"{jaggedArray[i][j]} ");
                 }
                 Console.WriteLine();

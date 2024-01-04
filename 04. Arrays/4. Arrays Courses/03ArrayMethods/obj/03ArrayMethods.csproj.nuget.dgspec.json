@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leosa\\Downloads\\PushHub\\Profession-CSharp-Developer\\4. Arrays\\4. Arrays Courses\\03ArrayMethods\\03ArrayMethods.csproj": {}
+    "C:\\Users\\leosa\\Downloads\\PushHub\\4. Arrays\\4. Arrays Courses\\ArraysCourses\\03ArrayMethods\\03ArrayMethods.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leosa\\Downloads\\PushHub\\Profession-CSharp-Developer\\4. Arrays\\4. Arrays Courses\\03ArrayMethods\\03ArrayMethods.csproj": {
+    "C:\\Users\\leosa\\Downloads\\PushHub\\4. Arrays\\4. Arrays Courses\\ArraysCourses\\03ArrayMethods\\03ArrayMethods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leosa\\Downloads\\PushHub\\Profession-CSharp-Developer\\4. Arrays\\4. Arrays Courses\\03ArrayMethods\\03ArrayMethods.csproj",
+        "projectUniqueName": "C:\\Users\\leosa\\Downloads\\PushHub\\4. Arrays\\4. Arrays Courses\\ArraysCourses\\03ArrayMethods\\03ArrayMethods.csproj",
         "projectName": "03ArrayMethods",
-        "projectPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Profession-CSharp-Developer\\4. Arrays\\4. Arrays Courses\\03ArrayMethods\\03ArrayMethods.csproj",
+        "projectPath": "C:\\Users\\leosa\\Downloads\\PushHub\\4. Arrays\\4. Arrays Courses\\ArraysCourses\\03ArrayMethods\\03ArrayMethods.csproj",
         "packagesPath": "C:\\Users\\leosa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Profession-CSharp-Developer\\4. Arrays\\4. Arrays Courses\\03ArrayMethods\\obj\\",
+        "outputPath": "C:\\Users\\leosa\\Downloads\\PushHub\\4. Arrays\\4. Arrays Courses\\ArraysCourses\\03ArrayMethods\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

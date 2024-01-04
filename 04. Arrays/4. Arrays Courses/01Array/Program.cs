@@ -45,7 +45,7 @@
             // birthdayCollection[0]
             // birthdayCollection[1]
             // birthdayCollection[2]
-            // The indices change from 0 to 2.                               
+            // Индексы меняются от 0 до 2                               
         }
     }
 }

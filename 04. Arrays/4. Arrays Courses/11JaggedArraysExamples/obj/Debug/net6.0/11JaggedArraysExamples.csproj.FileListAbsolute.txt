@@ -13,17 +13,3 @@ C:\Users\leosa\Downloads\PushHub\4. Arrays\4. Arrays Courses\ArraysCourses\11Jag
 C:\Users\leosa\Downloads\PushHub\4. Arrays\4. Arrays Courses\ArraysCourses\11JaggedArraysExamples\obj\Debug\net6.0\11JaggedArraysExamples.pdb
 C:\Users\leosa\Downloads\PushHub\4. Arrays\4. Arrays Courses\ArraysCourses\11JaggedArraysExamples\obj\Debug\net6.0\11JaggedArraysExamples.genruntimeconfig.cache
 C:\Users\leosa\Downloads\PushHub\4. Arrays\4. Arrays Courses\ArraysCourses\11JaggedArraysExamples\obj\Debug\net6.0\ref\11JaggedArraysExamples.dll
-C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\11JaggedArraysExamples\bin\Debug\net6.0\11JaggedArraysExamples.exe
-C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\11JaggedArraysExamples\bin\Debug\net6.0\11JaggedArraysExamples.deps.json
-C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\11JaggedArraysExamples\bin\Debug\net6.0\11JaggedArraysExamples.runtimeconfig.json
-C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\11JaggedArraysExamples\bin\Debug\net6.0\11JaggedArraysExamples.dll
-C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\11JaggedArraysExamples\bin\Debug\net6.0\11JaggedArraysExamples.pdb
-C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\11JaggedArraysExamples\obj\Debug\net6.0\11JaggedArraysExamples.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\11JaggedArraysExamples\obj\Debug\net6.0\11JaggedArraysExamples.AssemblyInfoInputs.cache
-C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\11JaggedArraysExamples\obj\Debug\net6.0\11JaggedArraysExamples.AssemblyInfo.cs
-C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\11JaggedArraysExamples\obj\Debug\net6.0\11JaggedArraysExamples.csproj.CoreCompileInputs.cache
-C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\11JaggedArraysExamples\obj\Debug\net6.0\11JaggedArraysExamples.dll
-C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\11JaggedArraysExamples\obj\Debug\net6.0\refint\11JaggedArraysExamples.dll
-C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\11JaggedArraysExamples\obj\Debug\net6.0\11JaggedArraysExamples.pdb
-C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\11JaggedArraysExamples\obj\Debug\net6.0\11JaggedArraysExamples.genruntimeconfig.cache
-C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\4. Arrays\4. Arrays Courses\11JaggedArraysExamples\obj\Debug\net6.0\ref\11JaggedArraysExamples.dll

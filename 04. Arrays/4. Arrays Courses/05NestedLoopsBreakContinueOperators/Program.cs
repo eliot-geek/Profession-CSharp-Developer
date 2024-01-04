@@ -59,15 +59,18 @@
 
             #region ToDo
 
+            //// An array of characters is defined.
             //char[] symbols = { 'S', 'K', 'I', 'L' };
-            //int count = 1;     
+            //int count = 1;      // A count variable is defined and initialized to 1.
 
+            //// Three nested loops are used to generate all possible combinations of three letters.
             //for (int i = 0; i < symbols.Length; i++)
             //{
             //    for (int j = 0; j < symbols.Length; j++)
             //    {
             //        for (int k = 0; k < symbols.Length; k++)
             //        {
+            //            // For each combination, the count and combination are printed to the console.
             //            Console.WriteLine($"{count++,3}: {symbols[i]}{symbols[j]}{symbols[k]}");
             //        }
             //    }
@@ -105,10 +108,13 @@
 
             #region ToDo
 
+            // The code attempts to find at least one solution to the equation 2a^3 + 3b^2 = 8337 in integer numbers.
+
             //for (double a = -500; a < 500; a++)
             //{
             //    for (double b = -500; b < 500; b++)
             //    {
+            //        // If a pair of values of a and b satisfy the equation, then print out the solution.
             //        if ((2 * a * a * a + 3 * b * b) == 8337) Console.WriteLine($"a = {a}  b = {b}");
             //    }
             //}
@@ -129,6 +135,7 @@
             //}
             //Console.WriteLine();
 
+            //// A variable "count" is initialized to zero to store the number of odd integers.
             //int count = 0;
             //for (int i = 0; i < 1000; i++)
             //{
