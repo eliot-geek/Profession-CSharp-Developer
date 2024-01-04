@@ -19,23 +19,19 @@
         /// <returns></returns>
         static int FibLoop(int N)
         {
-            // initialize first two numbers
             int a1 = 1;
             int a2 = 1;
-            // initialize third number
             int t = a2;
 
-            // starting the loop from 2 because first two numbers are already initialized
             for (int i = 2; i < N; i++)
             {
-                // Calculate the next number in the sequence
                 t = a1 + a2;
-
-                // Shift the values of a1 and a2 to prepare for the next iteration
+                
                 a1 = a2;
                 a2 = t;
             }
-            return t; // returning the nth Fibonacci number
+            
+            return t; 
         }
         // This is the best in term of ressources (memory)
 
