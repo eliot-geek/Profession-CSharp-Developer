@@ -30,11 +30,11 @@
         /// <param name="Col">An array of integers to be output to the console</param>
         static void Print(int[] Col)
         {
-            Random r = new Random();
             for (int i = 0; i < Col.Length; i++)
             {
                 Console.Write($"{Col[i]} ");
             }
+            
             Console.WriteLine();
         }
 
@@ -45,21 +45,17 @@
         /// <returns>Maximum value in the array</returns>
         static int Max(int[] Col)
         {
-            // Check if the input array is empty
             if (Col.Length < 0) 
                 return -1;
 
-            // Initialize the local maximum variable to the first element of the array
             int localMax = Col[0];
 
-            // Iterate through the array, comparing each element to the local maximum.
-            // If the element is greater than the local maximum, update the local maximum to the element.
             for (int i = 1; i < Col.Length; i++)
             {
                 if (Col[i] > localMax) 
                     localMax = Col[i];
             }
-            // Return the local maximum.
+            
             return localMax;
         }
 
@@ -70,21 +66,17 @@
         /// <returns>Minimum value in the array</returns>
         static int Min(int[] Col)
         {
-            // Check if the input array is empty or null
             if (Col.Length <= 0) 
                 return -1;
 
-            // Initialize the local minimum variable to the first element of the array
             int localMin = Col[0];
 
-            // Iterate through the array, comparing each element to the local minimum
-            // If the element is less than the local minimum, update the local minimum to the element
             for (int i = 1; i < Col.Length; i++)
             {
                 if (Col[i] < localMin) 
                     localMin = Col[i];
             }
-            // Return the local minimum
+            
             return localMin;
         }
 
@@ -120,11 +112,11 @@
 
             #region Important
             // The method signature is the set of types that the method returns and takes as parameters.
-            // int int[]
-            // void int[]
-            // void int
-            // void string[]
-            // string void (if there is nothing)
+            // int - int[]
+            // void - int[]
+            // void - int
+            // void - string[]
+            // string - void (if there is nothing)
             #endregion
 
         }
