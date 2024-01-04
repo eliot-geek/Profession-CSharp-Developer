@@ -31,7 +31,7 @@
             //    Console.WriteLine($"{i,4}^2 = {i * i}");
             //}
 
-            // While
+            //While
             Console.Write("Enter start: ");
             int start = Convert.ToInt32(Console.ReadLine());
 

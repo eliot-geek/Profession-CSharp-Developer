@@ -33,6 +33,7 @@
                 do
                 {
                     if (a > b) a = a - b; else b = b - a;
+
                     Console.WriteLine($">>> {a} {b}"); 
                 } while (a != b);
             }
