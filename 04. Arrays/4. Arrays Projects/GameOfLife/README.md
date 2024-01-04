@@ -1,4 +1,4 @@
-# **Task: Life Game**
+# **Life Game**
 
 ## **What to do**
 Implement your own version of the game "Life." Your task is to emulate the life of bacteria in a Petri dish. The Petri dish is represented by a boolean array of size m by n. A bacterium is a visible symbol in this array.
