@@ -44,14 +44,12 @@ namespace _10MethodsFourthGroup
         /// <returns>Converted array</returns>
         static int[] Inverse(int[] Args)
         {
-            // Create a new array of the same length as the input array.
             int[] t = new int[Args.Length];
-            // Loop over each element in the input array and negate it.
             for (int i = 0; i < Args.Length; i++)
             {
                 t[i] = -Args[i];
             }
-            // Return the new array containing the negated elements.
+            
             return t;
         }
 
@@ -78,8 +76,8 @@ namespace _10MethodsFourthGroup
             #endregion
 
             Console.WriteLine(GetRandomString(10));    // Calling the method GetRandomString
-            Console.WriteLine(GetRandomString(15));   // Calling the method GetRandomString
-            Console.WriteLine(GetRandomString(25));   // Calling the method GetRandomString
+            Console.WriteLine(GetRandomString(15));    // Calling the method GetRandomString
+            Console.WriteLine(GetRandomString(25));    // Calling the method GetRandomString
             Console.WriteLine();
 
             Console.WriteLine(GetCurrentApplicationPath(true));         // Calling the method GetCurrentApplicationPath
