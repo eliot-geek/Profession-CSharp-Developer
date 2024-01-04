@@ -1,8 +1,13 @@
 # Pascal's Triangle
+
 ## Task Description
+
 The client needs an application that builds the first N rows of Pascal's triangle, where N is less than 25.
+
 Pascal's triangle is a triangular array of numbers in which the first and last numbers of each row are 1, and each of the remaining numbers is the sum of the two numbers directly above it.
+
 ## Example
+
 When N = 9, Pascal's triangle looks like this:
 
 ```
