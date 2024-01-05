@@ -1,19 +1,19 @@
-# Task 1.2: Matrix Sum
+# Matrix Sum
 
-You are tasked with creating a method that takes two matrices as input and returns their sum.
+## Description
 
-## Task Description
+Develop a method that takes two matrices as input and calculates their sum.
 
-1. Create a method that accepts two matrices.
+### Tasks
 
-2. Compute the sum of these matrices.
+1. Implement a method that accepts two matrices.
+2. Compute the sum of the provided matrices.
+3. Return the resulting matrix, representing the sum of the input matrices.
 
-3. Return the resulting matrix, which is the sum of the input matrices.
+### Recommendations
 
-## Recommendation
+Utilize nested loops for efficient manipulation of matrices.
 
-You can use nested loops to work with matrices.
+### Evaluation Criteria
 
-## What Is Evaluated
-
-The program should correctly compute and return the sum of two matrices.
+The program will be assessed based on its ability to accurately compute and return the sum of two matrices.
