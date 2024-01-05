@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MethodSumOfTwoMatrices")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4cfbc7183255e65ebb15b945135754f72d493413")]
 [assembly: System.Reflection.AssemblyProductAttribute("MethodSumOfTwoMatrices")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MethodSumOfTwoMatrices")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
