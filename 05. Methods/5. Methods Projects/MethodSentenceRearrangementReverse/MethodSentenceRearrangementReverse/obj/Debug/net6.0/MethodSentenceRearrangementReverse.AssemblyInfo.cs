@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MethodSentenceRearrangementReverse")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e48416716b13273056fd159dc5e48a4484710598")]
 [assembly: System.Reflection.AssemblyProductAttribute("MethodSentenceRearrangementReverse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MethodSentenceRearrangementReverse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
