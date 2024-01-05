@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MethodProductOfTwoMatrices")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44447aec5f96f0ef43f937833c601d9ecaf745b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("MethodProductOfTwoMatrices")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MethodProductOfTwoMatrices")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
