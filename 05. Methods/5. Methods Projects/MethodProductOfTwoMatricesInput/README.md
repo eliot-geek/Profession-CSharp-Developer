@@ -15,6 +15,8 @@ The program should accept two matrices, validate their dimensions, perform matri
 
 ## Example
 
+```
+
 Matrix A:
 
 \[ 
@@ -54,3 +56,5 @@ Resulting Matrix C:
 14 & 36 & 45 \\
 \end{bmatrix}
 \]
+
+```
