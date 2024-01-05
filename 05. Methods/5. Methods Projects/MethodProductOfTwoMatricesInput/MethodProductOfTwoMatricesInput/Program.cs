@@ -44,7 +44,6 @@
         /// <param name="matrix"></param>
         static void Print(int[,] matrix)
         {
-            Random random = new Random();
             int rows = matrix.GetUpperBound(0) + 1;
             int colums = matrix.Length / rows;
 
@@ -69,8 +68,8 @@
             int[,] Array2DMul = new int[matrix1.GetLength(0), matrix2.GetLength(1)];
 
             int rows1 = matrix1.GetLength(0);
-            int colums2 = matrix2.GetLength(1);
             int rows2 = matrix2.GetLength(0);
+            int colums2 = matrix2.GetLength(1);
 
             for (int i = 0; i < rows1; i++)
             {
@@ -82,7 +81,29 @@
                     }
                 }
             }
+
             return Array2DMul;
+        }
+
+
+        /// <summary>
+        /// Outputs the provided two-dimensional array to the console with specified formatting.
+        /// </summary>
+        /// <param name="matrix">The matrix to be printed to the console.</param>
+        static void PrintMatrix(int[,] matrix)
+        {
+            int rows = matrix.GetLength(0);
+            int columns = matrix.GetLength(1);
+
+            for (int i = 0; i < rows; i++)
+            {
+                for (int j = 0; j < columns; j++)
+                {
+                    Console.Write($"{matrix[i, j],5} ");
+                }
+
+                Console.WriteLine();
+            }
         }
 
         static void Main(string[] args)
@@ -134,16 +155,8 @@
             Console.WriteLine("\nMultiplication of two matrices");
             Console.WriteLine("Array2DMul = Matrix 1 * Matrix 2 ");
             int[,] Array2DMul = Array2D(matrix1, matrix2);
-            int rows = matrix1.GetLength(0);
-            int colums = matrix2.GetLength(1);
-            for (int i = 0; i < rows; i++)
-            {
-                for (int j = 0; j < colums; j++)
-                {
-                    Console.Write($"{Array2DMul[i, j],5} ");
-                }
-                Console.WriteLine();
-            }
+            PrintMatrix(Array2DMul);
+
             Delay();
         }
     }
