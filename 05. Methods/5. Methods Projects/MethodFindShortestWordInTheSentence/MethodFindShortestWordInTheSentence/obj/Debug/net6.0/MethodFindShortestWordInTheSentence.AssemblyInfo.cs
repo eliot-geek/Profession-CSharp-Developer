@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MethodFindShortestWordInTheSentence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05dde9b50ed3cf4b0de303963954b5bdfe25b828")]
 [assembly: System.Reflection.AssemblyProductAttribute("MethodFindShortestWordInTheSentence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MethodFindShortestWordInTheSentence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
