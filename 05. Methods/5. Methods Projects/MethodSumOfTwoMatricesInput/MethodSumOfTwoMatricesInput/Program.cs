@@ -20,18 +20,18 @@
         }
 
         /// <summary>
-        /// The method that fills the first array2D matrix
+        /// Fills the provided two-dimensional array (matrix) with random integer values.
         /// </summary>
-        /// <param name="matrix1"></param>
+        /// <param name="matrix1">The matrix to be filled with random values.</param>
         static void Fill(int[,] matrix1)
         {
             Random random = new Random();
-            int rows = matrix1.GetUpperBound(0) + 1;
-            int colums = matrix1.Length / rows;
+            int rows = matrix1.GetUpperBound(0) + 1;        // GetUpperBound(0) returns the upper bound of the first dimension of the array
+            int columns = matrix1.Length / rows;
 
             for (int i = 0; i < rows; i++)
             {
-                for (int j = 0; j < colums; j++)
+                for (int j = 0; j < columns; j++)
                 {
                     matrix1[i, j] = random.Next(10);
                 }
@@ -39,12 +39,11 @@
         }
 
         /// <summary>
-        /// A method that outputs the first matrix to the console
+        /// Outputs the provided two-dimensional array (matrix) to the console.
         /// </summary>
-        /// <param name="matrix1"></param>
+        /// <param name="matrix1">The matrix to be printed to the console.</param>
         static void Print(int[,] matrix1)
         {
-            Random random = new Random();
             int rows = matrix1.GetUpperBound(0) + 1;
             int colums = matrix1.Length / rows;
 
@@ -59,9 +58,9 @@
         }
 
         /// <summary>
-        /// A method that fills the second array2D matrix
+        /// Fills the provided two-dimensional array (matrix) with random integer values.
         /// </summary>
-        /// <param name="matrix2"></param>
+        /// <param name="matrix2">The matrix to be filled with random values.</param>
         static void Fill2(int[,] matrix2)
         {
             Random random = new Random();
@@ -78,12 +77,11 @@
         }
 
         /// <summary>
-        /// A method that outputs the second matrix to the console
+        /// Outputs the provided two-dimensional array (matrix) to the console.
         /// </summary>
-        /// <param name="matrix2"></param>
+        /// <param name="matrix2">The matrix to be printed to the console.</param>
         static void Print2(int[,] matrix2)
         {
-            Random random = new Random();
             int rows = matrix2.GetUpperBound(0) + 1;
             int colums = matrix2.Length / rows;
 
@@ -98,24 +96,42 @@
         }
 
         /// <summary>
-        /// method that takes two matrices, returning their sum
+        /// Computes the sum of two matrices and returns the resulting matrix.
         /// </summary>
-        /// <param name="matrix1"></param>
-        /// <param name="matrix2"></param>
-        /// <returns></returns>
+        /// <param name="matrix1">The first matrix for addition.</param>
+        /// <param name="matrix2">The second matrix for addition.</param>
+        /// <returns>The resulting matrix obtained by adding corresponding elements of the input matrices.</returns>
         static int[,] Array2D(int[,] matrix1, int[,] matrix2)
         {
             int rows = matrix1.GetUpperBound(0) + 1;
-            int colums = matrix1.Length / rows;
+            int columns = matrix1.Length / rows;
 
             for (int i = 0; i < rows; i++)
             {
-                for (int j = 0; j < colums; j++)
+                for (int j = 0; j < columns; j++)
                 {
                     matrix1[i, j] += matrix2[i, j];
                 }
             }
+
             return matrix1;
+        }
+
+        /// <summary>
+        /// Outputs the provided two-dimensional array to the console with specified formatting.
+        /// </summary>
+        /// <param name="Array2Add">The array to be printed to the console.</param>
+        static void PrintSumArrays(int[,] Array2Add)
+        {
+            for (int i = 0; i < Array2Add.GetLength(0); i++)
+            {
+                for (int j = 0; j < Array2Add.GetLength(1); j++)
+                {
+                    Console.Write($"{Array2Add[i, j],5} ");
+                }
+
+                Console.WriteLine();
+            }
         }
 
         static void Main(string[] args)
@@ -152,14 +168,7 @@
             Console.WriteLine("\nAddition of two matrixes");
             Console.WriteLine("Array2Add = Matrix 1 + Matrix 2 ");
             Console.WriteLine();
-            for (int i = 0; i < matrix1.GetLength(0); i++)
-            {
-                for (int j = 0; j < matrix2.GetLength(1); j++)
-                {
-                    Console.Write($"{Array2Add[i, j],5} ");
-                }
-                Console.WriteLine();
-            }
+            PrintSumArrays(Array2Add);
             Delay();
         }
     }

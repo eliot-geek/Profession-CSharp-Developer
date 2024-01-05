@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MethodSumOfTwoMatricesInput
-build_property.ProjectDir = C:\Users\leosa\Downloads\PushHub\5. Methods\5. Methods Projects\MethodSumOfTwoMatricesInput\MethodSumOfTwoMatricesInput\
+build_property.ProjectDir = C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\05. Methods\5. Methods Projects\MethodSumOfTwoMatricesInput\MethodSumOfTwoMatricesInput\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
