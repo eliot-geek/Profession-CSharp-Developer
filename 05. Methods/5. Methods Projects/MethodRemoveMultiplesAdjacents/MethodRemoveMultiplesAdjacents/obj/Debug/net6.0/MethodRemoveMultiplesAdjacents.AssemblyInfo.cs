@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MethodRemoveMultiplesAdjacents")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb78f191ab99290030233103e896630314fef048")]
 [assembly: System.Reflection.AssemblyProductAttribute("MethodRemoveMultiplesAdjacents")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MethodRemoveMultiplesAdjacents")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

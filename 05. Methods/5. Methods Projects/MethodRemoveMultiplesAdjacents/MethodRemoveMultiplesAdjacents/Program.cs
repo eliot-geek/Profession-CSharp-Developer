@@ -22,12 +22,11 @@ namespace MethodRemoveMultiplesAdjacents
         }
 
         /// <summary>
-        /// Method that accepts text with all multiples of adjacent characters removed, leaving one character at a time 
-        /// This method removes duplicate adjacent characters from a string and returns the modified string
+        /// Removes duplicate adjacent characters from a given string, leaving one occurrence of each character.
         /// </summary>
-        /// <param name="text"></param>
-        /// <returns></returns>
-        static string RemoveDup(string text)
+        /// <param name="text">The input text to be processed.</param>
+        /// <returns>The modified string with adjacent character multiples reduced to a single occurrence.</returns>
+        static string RemoveDuplicates(string text)
         {
             if (string.IsNullOrEmpty(text))
             {
@@ -42,18 +41,20 @@ namespace MethodRemoveMultiplesAdjacents
                 if (text[i] != text[i - 1])
                     sb.Append(text[i]);
             }
+
             return sb.ToString();
         }
 
+
         /// <summary>
-        /// Method that accepts text with all multiples of adjacent characters removed, leaving one character at a time
-        /// This method removes duplicate adjacent characters from a string and returns the modified string.
+        /// Removes duplicate adjacent characters from a given string, leaving one occurrence of each character.
         /// </summary>
-        /// <param name="text"></param>
-        /// <returns></returns>
+        /// <param name="text">The input text to be processed.</param>
+        /// <returns>The modified string with adjacent character multiples reduced to a single occurrence.</returns>
         static string RemoveMultiples(string text)
         {
             StringBuilder result = new StringBuilder();
+
             for (int i = 0; i < text.Length; i++)
             {
                 if (i == 0 || text[i] != text[i - 1])
@@ -61,8 +62,10 @@ namespace MethodRemoveMultiplesAdjacents
                     result.Append(text[i]);
                 }
             }
+
             return result.ToString();
         }
+
 
         static void Main(string[] args)
         {
@@ -88,7 +91,7 @@ namespace MethodRemoveMultiplesAdjacents
             Print("Letter conversion: ");
             Console.WriteLine(newtext);
             Print("Text with all multiples removed: ");
-            Console.WriteLine(RemoveDup(newtext));
+            Console.WriteLine(RemoveDuplicates(newtext));
             Delay();
         }
     }
