@@ -1,4 +1,4 @@
-# Task 2: Rearranging Words in a Sentence
+# Rearranging Words in a Sentence
 
 The user inputs a long sentence into the program, with each word separated by a space. After input, the user presses the Enter key. Your objective is to create two methods:
 
@@ -21,7 +21,7 @@ Method parameters are what we pass into a method for further processing. For exa
 
 ### What is a return value?
 
-A return value is the result of a method's work. For example, a method that calculates the square's area should return a number, which is the sought-after square's area. The value is returned using the `return` operator. Learn more about return values in the article ["Returning a Value and the `return` Statement"](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/methods#returning-a-value-and-the-return-statement).
+A return value is the result of a method's work. For example, a method that calculates the square's area should return a number, which is the sought-after square's area. The value is returned using the `return` operator. Learn more about return values in the article ["Returning a Value and the return Statement"](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/methods#returning-a-value-and-the-return-statement).
 
 ## What Is Evaluated
 
