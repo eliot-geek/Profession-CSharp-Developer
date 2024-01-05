@@ -13,52 +13,62 @@
         /// <summary>
         /// A method to display the message in the console
         /// </summary>
-        /// <param name="Text">Текст сообщения</param>
+        /// <param name="Text">Message Text</param>
         static void Print(string Text)
         {
             Console.Write(Text);
         }
 
         /// <summary>
-        /// method that accepts text and returns the word(s) with the maximum number of letters
+        /// Analyzes the input text and outputs the word(s) with the maximum number of letters.
         /// </summary>
-        /// <param name="text"></param>
-        static void MaxWord(string text)
+        /// <param name="text">The input text to be processed.</param>
+        static void FindMaxLengthWords(string text)
         {
-            char[] chars = { ' ', ',', '.' };
-            string[] words = text.Split((chars), StringSplitOptions.RemoveEmptyEntries);
-            int longest = words.Max(x => x.Length);
+            char[] separators = { ' ', ',', '.' };
+            string[] words = text.Split(separators, StringSplitOptions.RemoveEmptyEntries);
+
+            int longestLength = words.Max(x => x.Length);
+
             for (int i = 0; i < words.Length; i++)
             {
-                if (words[i].Length == longest)
+                if (words[i].Length == longestLength)
                 {
                     Console.Write(words[i] + " ");
                 }
             }
-            Console.WriteLine($"\nLength of maximal word: {longest} letter (s)");
+
+            Console.WriteLine($"\nLength of maximal word: {longestLength} letter(s)");
+        }
+
+
+        /// <summary>
+        /// Analyzes the input text and returns the word(s) with the maximum number of letters.
+        /// </summary>
+        /// <param name="text">The input text to be processed.</param>
+        /// <returns>The word(s) with the maximum number of letters.</returns>
+        static string MaxWords(string text)
+        {
+            char[] separators = { ' ', ',', '.' };
+            string[] words = text.Split(separators, StringSplitOptions.RemoveEmptyEntries);
+
+            // One way to find the maximum words using LINQ
+            int longestLength = words.Max(x => x.Length);
+            string[] longestWords = words.Where(x => x.Length == longestLength).ToArray();
+            return string.Join(", ", longestWords);
         }
 
         /// <summary>
-        /// method that receives text and returns the word(s) with the maximum number of letters
+        /// Analyzes the input text and returns the word with the maximum number of letters.
         /// </summary>
-        /// <param name="text"></param>
-        /// <returns></returns>
-        static string MaxWords(string text)
+        /// <param name="text">The input text to be processed.</param>
+        /// <returns>The word with the maximum number of letters.</returns>
+        static string MaxWord(string text)
         {
-            // One way
-
-            //char[] chars = { ' ', ',', '.' };                                               // Define an array of characters to be used as separators.
-            //string[] words = text.Split((chars), StringSplitOptions.RemoveEmptyEntries);    // Split the input text into an array of words using the defined separator characters.
-            //int longest = words.Max(x => x.Length);                                         // Get the length of the longest word in the array using LINQ.
-            //string[] longestWords = words.Where(x => x.Length == longest).ToArray();        // Filter the array to include only words that have a length equal to the longest length.
-            //string result = string.Join(" , ", longestWords);                               // Join the longestWords array into a single string, separated by commas.
-            //return result;                                                                  // Return the resulting string.
-
-            // Another way
-
             char[] chars = { ' ', ',', '.' };
             string[] words = text.Split((chars), StringSplitOptions.RemoveEmptyEntries);
             string longestWord = words[0];
+
             foreach (string word in words)
             {
                 if (word.Length > longestWord.Length)
@@ -66,8 +76,10 @@
                     longestWord = word;
                 }
             }
+
             return longestWord;
         }
+
 
         static void Main(string[] args)
         {
@@ -75,12 +87,13 @@
             string maxWords = MaxWords(text);
             Console.WriteLine($"Longest word(s): {maxWords}");
 
-
+            string maxWord = MaxWord(text);
+            Console.WriteLine($"Longest word(s): {maxWord}");
 
             Print("\nEnter text: "); 
             text = Console.ReadLine();
             Print("Word(s) with maximal number of letters : ");
-            MaxWord(text); 
+            FindMaxLengthWords(text); 
             Delay();
         }
     }

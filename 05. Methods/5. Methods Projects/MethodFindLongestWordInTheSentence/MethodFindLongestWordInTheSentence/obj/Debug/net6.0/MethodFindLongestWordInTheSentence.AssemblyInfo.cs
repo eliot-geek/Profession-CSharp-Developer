@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MethodFindLongestWordInTheSentence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a7503f639988342f79ce1e45f54de8fe2fe832e")]
 [assembly: System.Reflection.AssemblyProductAttribute("MethodFindLongestWordInTheSentence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MethodFindLongestWordInTheSentence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
