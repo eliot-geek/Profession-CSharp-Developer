@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MethodMultiplyMatrixByNumber")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28691356e241c6e1f170dcd2f139b3f1595c397b")]
 [assembly: System.Reflection.AssemblyProductAttribute("MethodMultiplyMatrixByNumber")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MethodMultiplyMatrixByNumber")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
