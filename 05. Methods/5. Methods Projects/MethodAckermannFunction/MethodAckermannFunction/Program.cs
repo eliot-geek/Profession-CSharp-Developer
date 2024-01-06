@@ -3,7 +3,7 @@
     internal class Program
     {
         /// <summary>
-        /// A method to make the console close delayed
+        /// Delays the closing of the console by waiting for a key press.
         /// </summary>
         static void Delay()
         {
@@ -11,52 +11,57 @@
         }
 
         /// <summary>
-        /// A method to display the message in the console
+        /// Displays the specified text in the console.
         /// </summary>
-        /// <param name="text"></param>
+        /// <param name="text">The text to be displayed.</param>
         static void Print(string text)
         {
             Console.Write(text);
         }
 
         /// <summary>
-        /// Ackerman function
+        /// Recursive implementation of the Ackermann function.
         /// </summary>
-        /// <param name="n"></param>
-        /// <param name="m"></param>
-        /// <returns></returns>
-        static int Ackerman(int n, int m)
+        /// <param name="n">First parameter of the Ackermann function.</param>
+        /// <param name="m">Second parameter of the Ackermann function.</param>
+        /// <returns>The result of the Ackermann function for the given parameters.</returns>
+        static int AckermannFunction(int n, int m)
         {
             if (n == 0)
                 return m + 1;
             if (n != 0 && m == 0)
-                return Ackerman(n - 1, 1);
+                return AckermannFunction(n - 1, 1);
             if (n > 0 && m > 0)
-                return Ackerman(n - 1, Ackerman(n, m - 1));
-            return Ackerman(n, m);
+                return AckermannFunction(n - 1, AckermannFunction(n, m - 1));
+            return AckermannFunction(n, m);
         }
 
         /// <summary>
-        /// Define the Ackermann function
+        /// Recursive implementation of the Ackermann function.
         /// </summary>
-        /// <param name="n"></param>
-        /// <param name="m"></param>
-        /// <returns></returns>
-        public static int Ackermann(int n, int m)
+        /// <param name="n">The first parameter of the Ackermann function.</param>
+        /// <param name="m">The second parameter of the Ackermann function.</param>
+        /// <returns>The result of the Ackermann function for the given parameters.</returns>
+        static int Ackermann(int n, int m)
         {
-            if (n == 0) 
+            if (n == 0)
             {
                 return m + 1;
             }
-            else if (n > 0 && m == 0) 
+            else if (n > 0 && m == 0)
             {
                 return Ackermann(n - 1, 1);
             }
-            else
+            else if (n > 0 && m > 0)
             {
                 return Ackermann(n - 1, Ackermann(n, m - 1));
             }
+            else
+            {
+                return -1;
+            }
         }
+
 
         static void Main(string[] args)
         {
@@ -100,10 +105,10 @@
                 Print("Enter number m: ");
                 m = Convert.ToInt32(Console.ReadLine());
             }
-            Ackerman(n, m);
+            AckermannFunction(n, m);
 
             Print("Ackerman function (n, m): ");
-            Console.WriteLine(Ackerman(n, m));
+            Console.WriteLine(AckermannFunction(n, m));
             Delay();
 
             // Reference: https://en.wikipedia.org/wiki/Ackermann_function

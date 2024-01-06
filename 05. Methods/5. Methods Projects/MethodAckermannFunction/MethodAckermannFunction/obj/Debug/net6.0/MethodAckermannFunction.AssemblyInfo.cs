@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MethodAckermannFunction")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+248c039ec22ffe70ef5724f95ddbbabb44cdf2f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("MethodAckermannFunction")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MethodAckermannFunction")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
