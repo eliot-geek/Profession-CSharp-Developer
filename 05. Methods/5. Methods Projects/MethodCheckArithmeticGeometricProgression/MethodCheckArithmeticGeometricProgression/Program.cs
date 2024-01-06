@@ -1,4 +1,6 @@
-﻿namespace MethodCheckArithmeticGeometricProgression
+﻿using System;
+
+namespace MethodCheckArithmeticGeometricProgression
 {
     internal class Program
     {
@@ -11,9 +13,9 @@
         }
 
         /// <summary>
-        /// method that checks what a given sequence is
+        /// Determines the type of the given sequence (arithmetic, geometric, or not a progression).
         /// </summary>
-        /// <param name="array"></param>
+        /// <param name="array">The sequence to be checked.</param>
         static void Progression(params double[] array)
         {
             if (array.Length < 2)
@@ -31,52 +33,57 @@
             }
             else
             {
-                Console.WriteLine("The sequence is not a progression");
+                Console.WriteLine("The sequence is neither an arithmetic nor a geometric progression");
             }
         }
 
         /// <summary>
-        /// method to find out if it's an arithmetic progression
+        /// Method to determine if the given sequence is an arithmetic progression.
         /// </summary>
-        /// <param name="array"></param>
-        /// <returns></returns>
+        /// <param name="array">The input sequence.</param>
+        /// <returns>True if the sequence is an arithmetic progression, otherwise false.</returns>
         static bool ArithmeticProgression(params double[] array)
         {
             double commonDifference = array[1] - array[0];
+
             for (int i = 1; i < array.Length - 1; i++)
             {
                 if (array[i] + commonDifference != array[i + 1])
                     return false;
             }
+
             return true;
         }
 
+
         /// <summary>
-        /// method to find out if it's a geometric progression
+        /// Method to determine if the given sequence is a geometric progression.
         /// </summary>
-        /// <param name="array"></param>
-        /// <returns></returns>
+        /// <param name="array">The input sequence.</param>
+        /// <returns>True if the sequence is a geometric progression, otherwise false.</returns>
         static bool GeometricProgression(params double[] array)
         {
-            double commonRation = 0.0d;
             if (array[0] == 0 || array[1] == 0)
             {
                 return false;
             }
 
-            commonRation = array[1] / array[0];
+            double commonRatio = array[1] / array[0];
+
             for (int i = 0; i < array.Length - 1; i++)
             {
-                if (array[i] * commonRation != array[i + 1])
+                if (array[i] * commonRatio != array[i + 1])
                     return false;
             }
+
             return true;
         }
 
+
         /// <summary>
-        ///  This method determines whether a given sequence of numbers is an arithmetic or geometric progression.
+        /// This method checks if a given sequence of numbers is an arithmetic or geometric progression.
         /// </summary>
-        /// <param name="numbers"></param>
+        /// <param name="numbers">The sequence of numbers to check.</param>
         static void CheckProgression(int[] numbers)
         {
             bool isArithmetic = true;
@@ -84,14 +91,15 @@
 
             if (numbers.Length < 2)
             {
-                Console.WriteLine("The sequence is neither an arithmetic nor a geometric progression.");
+                Console.WriteLine("The sequence has less than three members, you can't determine the type.");
                 return;
             }
 
             // Check if the sequence is an arithmetic progression.
-            for (int i = 1; i < numbers.Length; i++)
+            double commonDifference = numbers[1] - numbers[0];
+            for (int i = 2; i < numbers.Length; i++)
             {
-                if (numbers[i] - numbers[i - 1] != numbers[1] - numbers[0])
+                if (numbers[i] - numbers[i - 1] != commonDifference)
                 {
                     isArithmetic = false;
                     break;
@@ -99,12 +107,20 @@
             }
 
             // Check if the sequence is a geometric progression.
-            for (int i = 1; i < numbers.Length; i++)
+            if (numbers[0] == 0 || numbers[1] == 0)
             {
-                if (numbers[i] / numbers[i - 1] != numbers[1] / numbers[0])
+                isGeometric = false;
+            }
+            else
+            {
+                double commonRatio = numbers[1] / numbers[0];
+                for (int i = 2; i < numbers.Length; i++)
                 {
-                    isGeometric = false;
-                    break;
+                    if (numbers[i] / numbers[i - 1] != commonRatio)
+                    {
+                        isGeometric = false;
+                        break;
+                    }
                 }
             }
 
@@ -120,7 +136,6 @@
             {
                 Console.WriteLine("The sequence is neither an arithmetic nor a geometric progression.");
             }
-
         }
 
         static void Main(string[] args)
@@ -130,15 +145,17 @@
             CheckProgression(numbers);
             int[] number = { 2, 4, 8, 16, 32 };
             CheckProgression(number);
+            int[] numb = { 1, 0, 0 };
+            CheckProgression(numb);
             int[] numbe = { 2 };
             CheckProgression(numbe);
             Delay();
-
+            Console.WriteLine("\n");
 
             // Second Method
-            double[] Progression1 = new double[] { 3, 5, 7, 9 };
+            double[] Progression1 = new double[] { 2, 4, 6, 8, 10 };
             Progression(Progression1);
-            double[] Progression2 = new double[] { 48, -24, 12, -6 };
+            double[] Progression2 = new double[] { 2, 4, 8, 16, 32 };
             Progression(Progression2);
             double[] Progression3 = new double[] { 1, 0, 0 };
             Progression(Progression3);

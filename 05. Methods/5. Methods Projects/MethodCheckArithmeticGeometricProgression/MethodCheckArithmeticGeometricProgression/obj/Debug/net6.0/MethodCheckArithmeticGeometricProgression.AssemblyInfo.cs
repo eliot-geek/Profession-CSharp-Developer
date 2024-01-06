@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MethodCheckArithmeticGeometricProgression")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+539636dce87c640ad617dd91437d0a293c6c9015")]
 [assembly: System.Reflection.AssemblyProductAttribute("MethodCheckArithmeticGeometricProgression")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MethodCheckArithmeticGeometricProgression")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
