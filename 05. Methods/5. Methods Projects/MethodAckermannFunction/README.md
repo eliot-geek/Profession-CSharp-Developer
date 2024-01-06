@@ -26,4 +26,4 @@ The Ackermann function is a recursive mathematical function that takes two non-n
 
 [Ackermann Function](https://en.wikipedia.org/wiki/Ackermann_function)
 
-[table of Values](https://en.wikipedia.org/wiki/Ackermann_function#Table_of_values)
+[Table of Values](https://en.wikipedia.org/wiki/Ackermann_function#Table_of_values)
