@@ -1,4 +1,4 @@
-# Task: Employee Directory Management
+# Employee Directory Management
 
 ## Description
 
