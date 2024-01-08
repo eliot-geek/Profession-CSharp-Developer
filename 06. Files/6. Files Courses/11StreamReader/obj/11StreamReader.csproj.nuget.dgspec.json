@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leosa\\Downloads\\PushHub\\6. Files\\6. Files Courses\\FilesCourses\\11StreamReader\\11StreamReader.csproj": {}
+    "C:\\Users\\leosa\\Downloads\\PushHub\\Profession-CSharp-Developer\\6. Files\\6. Files Courses\\FilesCourses\\11StreamReader\\11StreamReader.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leosa\\Downloads\\PushHub\\6. Files\\6. Files Courses\\FilesCourses\\11StreamReader\\11StreamReader.csproj": {
+    "C:\\Users\\leosa\\Downloads\\PushHub\\Profession-CSharp-Developer\\6. Files\\6. Files Courses\\FilesCourses\\11StreamReader\\11StreamReader.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leosa\\Downloads\\PushHub\\6. Files\\6. Files Courses\\FilesCourses\\11StreamReader\\11StreamReader.csproj",
+        "projectUniqueName": "C:\\Users\\leosa\\Downloads\\PushHub\\Profession-CSharp-Developer\\6. Files\\6. Files Courses\\FilesCourses\\11StreamReader\\11StreamReader.csproj",
         "projectName": "11StreamReader",
-        "projectPath": "C:\\Users\\leosa\\Downloads\\PushHub\\6. Files\\6. Files Courses\\FilesCourses\\11StreamReader\\11StreamReader.csproj",
+        "projectPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Profession-CSharp-Developer\\6. Files\\6. Files Courses\\FilesCourses\\11StreamReader\\11StreamReader.csproj",
         "packagesPath": "C:\\Users\\leosa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leosa\\Downloads\\PushHub\\6. Files\\6. Files Courses\\FilesCourses\\11StreamReader\\obj\\",
+        "outputPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Profession-CSharp-Developer\\6. Files\\6. Files Courses\\FilesCourses\\11StreamReader\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

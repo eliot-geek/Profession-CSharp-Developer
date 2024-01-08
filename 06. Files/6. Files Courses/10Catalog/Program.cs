@@ -7,8 +7,13 @@ namespace _10Catalog
         static void Main(string[] args)
         {
             // Need to create a file that simulates a notepad.
-            // The file contains: Author's name, Date, Note description
+            // The file contains:
+            // Author's name
+            // Date
+            // Note description
+            // Town
 
+            // Writer
             using (StreamWriter sw = new StreamWriter("db.csv", true, Encoding.Unicode))
             {
                 char key = 'y';
@@ -28,6 +33,7 @@ namespace _10Catalog
                     
                     Console.Write("Continue y/n : ");
                     key = Console.ReadKey(true).KeyChar;
+
                 } while (char.ToLower(key) == 'y');
             }
             Console.ReadKey();
@@ -36,13 +42,15 @@ namespace _10Catalog
             using (StreamReader sr = new StreamReader("data.csv", Encoding.Unicode))
             {
                 string line;
-                Console.WriteLine($"\n\n{"Auther",15}{" Time",6} {"Description"}");
+                Console.WriteLine($"\n\n{"Author",15}{" Time",6} {"Description"}");
+
                 while ((line = sr.ReadLine()) != null)
                 {
                     string[] data = line.Split('\t');
                     Console.WriteLine($"{data[0],15}{data[1],6} {data[2]}");
                 }
             }
+
             // Find the file here : C:\bin\Debug\net6.0
         }
     }

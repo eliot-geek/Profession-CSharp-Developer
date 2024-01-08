@@ -3,7 +3,6 @@ C:\Users\leosa\Downloads\PushHub\6. Files\6. Files Courses\FilesCourses\06IntroF
 C:\Users\leosa\Downloads\PushHub\6. Files\6. Files Courses\FilesCourses\06IntroFile\bin\Debug\net6.0\06IntroFile.runtimeconfig.json
 C:\Users\leosa\Downloads\PushHub\6. Files\6. Files Courses\FilesCourses\06IntroFile\bin\Debug\net6.0\06IntroFile.dll
 C:\Users\leosa\Downloads\PushHub\6. Files\6. Files Courses\FilesCourses\06IntroFile\bin\Debug\net6.0\06IntroFile.pdb
-C:\Users\leosa\Downloads\PushHub\6. Files\6. Files Courses\FilesCourses\06IntroFile\obj\Debug\net6.0\06IntroFile.csproj.AssemblyReference.cache
 C:\Users\leosa\Downloads\PushHub\6. Files\6. Files Courses\FilesCourses\06IntroFile\obj\Debug\net6.0\06IntroFile.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\leosa\Downloads\PushHub\6. Files\6. Files Courses\FilesCourses\06IntroFile\obj\Debug\net6.0\06IntroFile.AssemblyInfoInputs.cache
 C:\Users\leosa\Downloads\PushHub\6. Files\6. Files Courses\FilesCourses\06IntroFile\obj\Debug\net6.0\06IntroFile.AssemblyInfo.cs
@@ -13,3 +12,17 @@ C:\Users\leosa\Downloads\PushHub\6. Files\6. Files Courses\FilesCourses\06IntroF
 C:\Users\leosa\Downloads\PushHub\6. Files\6. Files Courses\FilesCourses\06IntroFile\obj\Debug\net6.0\06IntroFile.pdb
 C:\Users\leosa\Downloads\PushHub\6. Files\6. Files Courses\FilesCourses\06IntroFile\obj\Debug\net6.0\06IntroFile.genruntimeconfig.cache
 C:\Users\leosa\Downloads\PushHub\6. Files\6. Files Courses\FilesCourses\06IntroFile\obj\Debug\net6.0\ref\06IntroFile.dll
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\6. Files\6. Files Courses\FilesCourses\06IntroFile\bin\Debug\net6.0\06IntroFile.exe
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\6. Files\6. Files Courses\FilesCourses\06IntroFile\bin\Debug\net6.0\06IntroFile.deps.json
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\6. Files\6. Files Courses\FilesCourses\06IntroFile\bin\Debug\net6.0\06IntroFile.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\6. Files\6. Files Courses\FilesCourses\06IntroFile\bin\Debug\net6.0\06IntroFile.dll
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\6. Files\6. Files Courses\FilesCourses\06IntroFile\bin\Debug\net6.0\06IntroFile.pdb
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\6. Files\6. Files Courses\FilesCourses\06IntroFile\obj\Debug\net6.0\06IntroFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\6. Files\6. Files Courses\FilesCourses\06IntroFile\obj\Debug\net6.0\06IntroFile.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\6. Files\6. Files Courses\FilesCourses\06IntroFile\obj\Debug\net6.0\06IntroFile.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\6. Files\6. Files Courses\FilesCourses\06IntroFile\obj\Debug\net6.0\06IntroFile.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\6. Files\6. Files Courses\FilesCourses\06IntroFile\obj\Debug\net6.0\06IntroFile.dll
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\6. Files\6. Files Courses\FilesCourses\06IntroFile\obj\Debug\net6.0\refint\06IntroFile.dll
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\6. Files\6. Files Courses\FilesCourses\06IntroFile\obj\Debug\net6.0\06IntroFile.pdb
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\6. Files\6. Files Courses\FilesCourses\06IntroFile\obj\Debug\net6.0\06IntroFile.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\6. Files\6. Files Courses\FilesCourses\06IntroFile\obj\Debug\net6.0\ref\06IntroFile.dll

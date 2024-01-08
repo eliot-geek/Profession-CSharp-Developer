@@ -3,7 +3,6 @@ C:\Users\leosa\Downloads\PushHub\6. Files\6. Files Courses\FilesCourses\11Stream
 C:\Users\leosa\Downloads\PushHub\6. Files\6. Files Courses\FilesCourses\11StreamReader\bin\Debug\net6.0\11StreamReader.runtimeconfig.json
 C:\Users\leosa\Downloads\PushHub\6. Files\6. Files Courses\FilesCourses\11StreamReader\bin\Debug\net6.0\11StreamReader.dll
 C:\Users\leosa\Downloads\PushHub\6. Files\6. Files Courses\FilesCourses\11StreamReader\bin\Debug\net6.0\11StreamReader.pdb
-C:\Users\leosa\Downloads\PushHub\6. Files\6. Files Courses\FilesCourses\11StreamReader\obj\Debug\net6.0\11StreamReader.csproj.AssemblyReference.cache
 C:\Users\leosa\Downloads\PushHub\6. Files\6. Files Courses\FilesCourses\11StreamReader\obj\Debug\net6.0\11StreamReader.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\leosa\Downloads\PushHub\6. Files\6. Files Courses\FilesCourses\11StreamReader\obj\Debug\net6.0\11StreamReader.AssemblyInfoInputs.cache
 C:\Users\leosa\Downloads\PushHub\6. Files\6. Files Courses\FilesCourses\11StreamReader\obj\Debug\net6.0\11StreamReader.AssemblyInfo.cs
@@ -13,3 +12,17 @@ C:\Users\leosa\Downloads\PushHub\6. Files\6. Files Courses\FilesCourses\11Stream
 C:\Users\leosa\Downloads\PushHub\6. Files\6. Files Courses\FilesCourses\11StreamReader\obj\Debug\net6.0\11StreamReader.pdb
 C:\Users\leosa\Downloads\PushHub\6. Files\6. Files Courses\FilesCourses\11StreamReader\obj\Debug\net6.0\11StreamReader.genruntimeconfig.cache
 C:\Users\leosa\Downloads\PushHub\6. Files\6. Files Courses\FilesCourses\11StreamReader\obj\Debug\net6.0\ref\11StreamReader.dll
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\6. Files\6. Files Courses\FilesCourses\11StreamReader\bin\Debug\net6.0\11StreamReader.exe
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\6. Files\6. Files Courses\FilesCourses\11StreamReader\bin\Debug\net6.0\11StreamReader.deps.json
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\6. Files\6. Files Courses\FilesCourses\11StreamReader\bin\Debug\net6.0\11StreamReader.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\6. Files\6. Files Courses\FilesCourses\11StreamReader\bin\Debug\net6.0\11StreamReader.dll
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\6. Files\6. Files Courses\FilesCourses\11StreamReader\bin\Debug\net6.0\11StreamReader.pdb
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\6. Files\6. Files Courses\FilesCourses\11StreamReader\obj\Debug\net6.0\11StreamReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\6. Files\6. Files Courses\FilesCourses\11StreamReader\obj\Debug\net6.0\11StreamReader.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\6. Files\6. Files Courses\FilesCourses\11StreamReader\obj\Debug\net6.0\11StreamReader.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\6. Files\6. Files Courses\FilesCourses\11StreamReader\obj\Debug\net6.0\11StreamReader.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\6. Files\6. Files Courses\FilesCourses\11StreamReader\obj\Debug\net6.0\11StreamReader.dll
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\6. Files\6. Files Courses\FilesCourses\11StreamReader\obj\Debug\net6.0\refint\11StreamReader.dll
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\6. Files\6. Files Courses\FilesCourses\11StreamReader\obj\Debug\net6.0\11StreamReader.pdb
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\6. Files\6. Files Courses\FilesCourses\11StreamReader\obj\Debug\net6.0\11StreamReader.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\6. Files\6. Files Courses\FilesCourses\11StreamReader\obj\Debug\net6.0\ref\11StreamReader.dll

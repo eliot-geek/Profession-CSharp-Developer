@@ -9,17 +9,27 @@
         /// <param name="trim">The number of spaces for indentation</param>
         static void GetDir(string path, string trim = "")
         {
-            DirectoryInfo directoryInfo = new DirectoryInfo(path);   // Obtain information about the current directory
-            foreach (var item in directoryInfo.GetDirectories())     // Iterate over all subdirectories of the current directory
+            // Obtain information about the current directory
+            DirectoryInfo directoryInfo = new DirectoryInfo(path);
+
+            // Iterate over all subdirectories of the current directory
+            foreach (var item in directoryInfo.GetDirectories())
             {
-                Console.WriteLine($"{trim}{item.Name}");             
-                GetDir(item.FullName, trim + "    ");                
+                // Output information about the subdirectory
+                Console.WriteLine($"{trim}{item.Name}");
+
+                // Recursively call GetDir to view the nested directory
+                GetDir(item.FullName, trim + "    ");
             }
-            foreach (var item in directoryInfo.GetFiles())           
+
+            // Iterate over all files in the current directory
+            foreach (var item in directoryInfo.GetFiles())
             {
-                Console.WriteLine($"{trim}{item.Name}");             
+                // Output information about the file
+                Console.WriteLine($"{trim}{item.Name}");
             }
         }
+
 
         static void Main(string[] args)
         {
@@ -33,7 +43,7 @@
             // Directory.Move
 
 
-            DirectoryInfo directoryInfo = new DirectoryInfo(@"C:\Users\leosa\Downloads\Joke");
+            DirectoryInfo directoryInfo = new DirectoryInfo(@"C:\Users");
 
             Console.WriteLine(directoryInfo.Attributes);
             //directoryInfo.Create();
@@ -63,7 +73,7 @@
             Console.ReadKey();
 
 
-            //GetDir(@"C:\Users\leosa\Downloads\PushHub\");
+            //GetDir(@"C:\Users");
             GetDir(@"C:\Program Files\Windows Defender");
 
             Console.ReadKey();

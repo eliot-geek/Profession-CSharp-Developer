@@ -3,7 +3,6 @@ C:\Users\leosa\Downloads\PushHub\6. Files\6. Files Courses\FilesCourses\07IntroF
 C:\Users\leosa\Downloads\PushHub\6. Files\6. Files Courses\FilesCourses\07IntroFileInfo\bin\Debug\net6.0\07IntroFileInfo.runtimeconfig.json
 C:\Users\leosa\Downloads\PushHub\6. Files\6. Files Courses\FilesCourses\07IntroFileInfo\bin\Debug\net6.0\07IntroFileInfo.dll
 C:\Users\leosa\Downloads\PushHub\6. Files\6. Files Courses\FilesCourses\07IntroFileInfo\bin\Debug\net6.0\07IntroFileInfo.pdb
-C:\Users\leosa\Downloads\PushHub\6. Files\6. Files Courses\FilesCourses\07IntroFileInfo\obj\Debug\net6.0\07IntroFileInfo.csproj.AssemblyReference.cache
 C:\Users\leosa\Downloads\PushHub\6. Files\6. Files Courses\FilesCourses\07IntroFileInfo\obj\Debug\net6.0\07IntroFileInfo.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\leosa\Downloads\PushHub\6. Files\6. Files Courses\FilesCourses\07IntroFileInfo\obj\Debug\net6.0\07IntroFileInfo.AssemblyInfoInputs.cache
 C:\Users\leosa\Downloads\PushHub\6. Files\6. Files Courses\FilesCourses\07IntroFileInfo\obj\Debug\net6.0\07IntroFileInfo.AssemblyInfo.cs

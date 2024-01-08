@@ -9,6 +9,7 @@ namespace _11StreamReader
             // Open the "db.txt" file for reading using StreamReader and Unicode encoding
             using (StreamReader sr = new StreamReader("db.txt", Encoding.Unicode))
             {
+                // Loop through the file until the end is reached
                 while (!sr.EndOfStream)
                 {
                     // Read a single character from the file and output its integer code and character representation
@@ -19,8 +20,10 @@ namespace _11StreamReader
             Console.WriteLine(); 
             Console.ReadKey();
 
+            // Open the "db.txt" file for reading using StreamReader and Unicode encoding
             using (StreamReader sr = new StreamReader("db.txt", Encoding.Unicode))
             {
+                // Read the entire contents of the file and output it to the console
                 Console.WriteLine(sr.ReadToEnd());
             }
         }

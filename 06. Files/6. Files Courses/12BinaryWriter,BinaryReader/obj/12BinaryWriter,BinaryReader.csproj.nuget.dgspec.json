@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leosa\\Downloads\\PushHub\\6. Files\\6. Files Courses\\FilesCourses\\12BinaryWriter,BinaryReader\\12BinaryWriter,BinaryReader.csproj": {}
+    "C:\\Users\\leosa\\Downloads\\PushHub\\Profession-CSharp-Developer\\6. Files\\6. Files Courses\\FilesCourses\\12BinaryWriter,BinaryReader\\12BinaryWriter,BinaryReader.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leosa\\Downloads\\PushHub\\6. Files\\6. Files Courses\\FilesCourses\\12BinaryWriter,BinaryReader\\12BinaryWriter,BinaryReader.csproj": {
+    "C:\\Users\\leosa\\Downloads\\PushHub\\Profession-CSharp-Developer\\6. Files\\6. Files Courses\\FilesCourses\\12BinaryWriter,BinaryReader\\12BinaryWriter,BinaryReader.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leosa\\Downloads\\PushHub\\6. Files\\6. Files Courses\\FilesCourses\\12BinaryWriter,BinaryReader\\12BinaryWriter,BinaryReader.csproj",
+        "projectUniqueName": "C:\\Users\\leosa\\Downloads\\PushHub\\Profession-CSharp-Developer\\6. Files\\6. Files Courses\\FilesCourses\\12BinaryWriter,BinaryReader\\12BinaryWriter,BinaryReader.csproj",
         "projectName": "12BinaryWriter,BinaryReader",
-        "projectPath": "C:\\Users\\leosa\\Downloads\\PushHub\\6. Files\\6. Files Courses\\FilesCourses\\12BinaryWriter,BinaryReader\\12BinaryWriter,BinaryReader.csproj",
+        "projectPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Profession-CSharp-Developer\\6. Files\\6. Files Courses\\FilesCourses\\12BinaryWriter,BinaryReader\\12BinaryWriter,BinaryReader.csproj",
         "packagesPath": "C:\\Users\\leosa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leosa\\Downloads\\PushHub\\6. Files\\6. Files Courses\\FilesCourses\\12BinaryWriter,BinaryReader\\obj\\",
+        "outputPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Profession-CSharp-Developer\\6. Files\\6. Files Courses\\FilesCourses\\12BinaryWriter,BinaryReader\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

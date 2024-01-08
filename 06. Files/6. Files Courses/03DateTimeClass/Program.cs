@@ -45,12 +45,14 @@
 
             date = DateTime.Now;
             double sum = 0;
+
+            // Calculate the sum of integers from 0 to 1000
             for (int k = 0; k <= 1000; k++)
             {
                 sum += k;
             }
             Console.WriteLine($"sum = {sum}");
-            // Calculate the time interval between the current date and time and the initial date and time
+            
             TimeSpan timeSpan = DateTime.Now.Subtract(date);
             Console.WriteLine($"timeSpan.TotalMilliseconds = {timeSpan.TotalMilliseconds}");
             Console.ReadKey();

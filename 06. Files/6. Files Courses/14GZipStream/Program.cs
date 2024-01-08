@@ -6,16 +6,24 @@ namespace _14GZipStream
     {
         static void Main(string[] args)
         {
+            // Define the name of the source file
             string source = "war_and_peace.txt";
+            // Define the name of the compressed file
             string compressed = "war_and_peace.zip";
 
+            // Create a file stream for the source file
             using (FileStream filestream = new FileStream(source, FileMode.OpenOrCreate))
             {
-                using (FileStream filestreamCompressed = File.Create(compressed))                                     // stream for writing the compressed file
+                // Create a file stream for the compressed file
+                using (FileStream filestreamCompressed = File.Create(compressed))   // stream for writing the compressed file
                 {
-                    using (GZipStream gzipStream = new GZipStream(filestreamCompressed, CompressionMode.Compress))    // to compress the data
+                    // Create a GZipStream object to compress the data
+                    using (GZipStream gzipStream = new GZipStream(filestreamCompressed, CompressionMode.Compress))
                     {
-                        filestream.CopyTo(gzipStream);        // Copy the contents of the source file to the compressed file
+                        // Copy the contents of the source file to the compressed file
+                        filestream.CopyTo(gzipStream);
+
+                        // Print information about the compression process
                         Console.WriteLine("Compression of {0} completed. Before: {1}  After: {2}.",
                                           source,
                                           filestream.Length,
@@ -24,16 +32,22 @@ namespace _14GZipStream
                 }
             }
 
-            Console.WriteLine($"Press Enter to continue\n");
+            Console.WriteLine($"\nPress Enter to continue\n");
             Console.ReadKey();
 
-            using (FileStream filestream = new FileStream(compressed, FileMode.OpenOrCreate))                 // Stream for reading from compressed file
+            // Create a file stream for the compressed file
+            using (FileStream filestream = new FileStream(compressed, FileMode.OpenOrCreate))  // stream for reading from compressed file
             {
-                using (FileStream filestreamUncompressed = File.Create($"{source}_.txt"))                     // Stream for writing the uncompressed file
+                // Create a file stream for the uncompressed file
+                using (FileStream filestreamUncompressed = File.Create($"{source}_.txt")) // stream for writing the uncompressed file
                 {
-                    using (GZipStream gzipStream2 = new GZipStream(filestream, CompressionMode.Decompress))   // GZipStream object to decompress the data
+                    // Create a GZipStream object to decompress the data
+                    using (GZipStream gzipStream2 = new GZipStream(filestream, CompressionMode.Decompress))
                     {
-                        gzipStream2.CopyTo(filestreamUncompressed);                                           // Copy the contents of the compressed file to the uncompressed file
+                        // Copy the contents of the compressed file to the uncompressed file
+                        gzipStream2.CopyTo(filestreamUncompressed);
+
+                        // Print information about the decompression process
                         Console.WriteLine($"{source} has been restored");
                         Console.WriteLine("Restoration of {0} completed. Before: {1}  After: {2}.",
                                           source,

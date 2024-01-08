@@ -2,14 +2,16 @@ $AV_ASW
 $GetCurrent
 $Recycle.Bin
 $Windows.~WS
-$WinREAgent
+Binaries
 Config.Msi
 Documents and Settings
 ESD
 HP
 Intel
 LEOSARAH
+MinGW
 MobiMoverBackup
+msys64
 OneDriveTemp
 PerfLogs
 Program Files
@@ -19,4 +21,5 @@ Recovery
 System Volume Information
 temp
 Users
+usr
 Windows

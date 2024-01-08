@@ -7,11 +7,12 @@
             #region BinaryWriter, BinaryReader
 
             string[] names = { "Julia", "Irina", "Chloe", "Sara", "Alice" };
-            string path = @"BinaryNames.dat"; // the binary file
+            string path = @"BinaryNames.dat";
 
             // Write the names array to the binary file
             using (BinaryWriter writer = new BinaryWriter(File.Open(path, FileMode.OpenOrCreate)))
             {
+                // Write the value of each field in the structure to a file.
                 foreach (var name in names)
                 {
                     writer.Write(name);

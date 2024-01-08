@@ -3,7 +3,6 @@ C:\Users\leosa\Downloads\PushHub\6. Files\6. Files Courses\FilesCourses\02MathCl
 C:\Users\leosa\Downloads\PushHub\6. Files\6. Files Courses\FilesCourses\02MathClass\bin\Debug\net6.0\02MathClass.runtimeconfig.json
 C:\Users\leosa\Downloads\PushHub\6. Files\6. Files Courses\FilesCourses\02MathClass\bin\Debug\net6.0\02MathClass.dll
 C:\Users\leosa\Downloads\PushHub\6. Files\6. Files Courses\FilesCourses\02MathClass\bin\Debug\net6.0\02MathClass.pdb
-C:\Users\leosa\Downloads\PushHub\6. Files\6. Files Courses\FilesCourses\02MathClass\obj\Debug\net6.0\02MathClass.csproj.AssemblyReference.cache
 C:\Users\leosa\Downloads\PushHub\6. Files\6. Files Courses\FilesCourses\02MathClass\obj\Debug\net6.0\02MathClass.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\leosa\Downloads\PushHub\6. Files\6. Files Courses\FilesCourses\02MathClass\obj\Debug\net6.0\02MathClass.AssemblyInfoInputs.cache
 C:\Users\leosa\Downloads\PushHub\6. Files\6. Files Courses\FilesCourses\02MathClass\obj\Debug\net6.0\02MathClass.AssemblyInfo.cs
@@ -13,3 +12,17 @@ C:\Users\leosa\Downloads\PushHub\6. Files\6. Files Courses\FilesCourses\02MathCl
 C:\Users\leosa\Downloads\PushHub\6. Files\6. Files Courses\FilesCourses\02MathClass\obj\Debug\net6.0\02MathClass.pdb
 C:\Users\leosa\Downloads\PushHub\6. Files\6. Files Courses\FilesCourses\02MathClass\obj\Debug\net6.0\02MathClass.genruntimeconfig.cache
 C:\Users\leosa\Downloads\PushHub\6. Files\6. Files Courses\FilesCourses\02MathClass\obj\Debug\net6.0\ref\02MathClass.dll
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\6. Files\6. Files Courses\FilesCourses\02MathClass\bin\Debug\net6.0\02MathClass.exe
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\6. Files\6. Files Courses\FilesCourses\02MathClass\bin\Debug\net6.0\02MathClass.deps.json
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\6. Files\6. Files Courses\FilesCourses\02MathClass\bin\Debug\net6.0\02MathClass.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\6. Files\6. Files Courses\FilesCourses\02MathClass\bin\Debug\net6.0\02MathClass.dll
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\6. Files\6. Files Courses\FilesCourses\02MathClass\bin\Debug\net6.0\02MathClass.pdb
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\6. Files\6. Files Courses\FilesCourses\02MathClass\obj\Debug\net6.0\02MathClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\6. Files\6. Files Courses\FilesCourses\02MathClass\obj\Debug\net6.0\02MathClass.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\6. Files\6. Files Courses\FilesCourses\02MathClass\obj\Debug\net6.0\02MathClass.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\6. Files\6. Files Courses\FilesCourses\02MathClass\obj\Debug\net6.0\02MathClass.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\6. Files\6. Files Courses\FilesCourses\02MathClass\obj\Debug\net6.0\02MathClass.dll
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\6. Files\6. Files Courses\FilesCourses\02MathClass\obj\Debug\net6.0\refint\02MathClass.dll
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\6. Files\6. Files Courses\FilesCourses\02MathClass\obj\Debug\net6.0\02MathClass.pdb
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\6. Files\6. Files Courses\FilesCourses\02MathClass\obj\Debug\net6.0\02MathClass.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\6. Files\6. Files Courses\FilesCourses\02MathClass\obj\Debug\net6.0\ref\02MathClass.dll

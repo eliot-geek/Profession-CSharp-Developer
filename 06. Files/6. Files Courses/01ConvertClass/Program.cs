@@ -23,22 +23,22 @@
             //uint
             //ulong
 
-            int i = Convert.ToByte("20"); // If the value exceeds the size of a byte, it results in an overflow.
+            int i = Convert.ToByte("20");   // with a value larger than byte its'a an overflow
             Console.WriteLine(i);
             Console.ReadKey();
 
-            byte j = byte.Parse("20");    
+            byte j = byte.Parse("20");      // with a value larger than byte its'a an overflow
             Console.WriteLine(j);
             Console.ReadKey();
 
-            j = (byte)int.Parse("2011"); // This approach works but not precisely.
+            j = (byte)int.Parse("2011");    // Note: This may not always be accurate, consider error handling
             Console.WriteLine(j);
             Console.ReadKey();
 
-            i = Convert.ToByte(12.45); // 12
+            i = Convert.ToByte(12.45);      // 12
             Console.WriteLine(i);
 
-            i = Convert.ToByte(56.78f); // 57
+            i = Convert.ToByte(56.78f);     // 57
             Console.WriteLine(i);
             
             i = Convert.ToByte(89.09m);     // 89
