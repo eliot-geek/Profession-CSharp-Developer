@@ -16,12 +16,13 @@ namespace DivisibleNumberPartition
             result[0] = new int[] { 1 };                               // The first sequence is 1
             Stopwatch sv = new Stopwatch();                            // Timer for measuring the task execution time
 
+
             Console.WriteLine("Number in the file = " + number);
             Console.WriteLine();
-            Console.WriteLine("Choose a mode of operation: \n" +
-            "1 (First ) - Number of groups M is shown in the console\n" +
-            "2 (Second) - Will not handle a billion!! Filled groups using file handling methods and writes them to a file \n" +
-            "3 (Third ) - Will handle a billion!! Filled groups using the Sieve of Eratosthenes method and writes them to a file.");
+            Console.WriteLine("Choose an operation mode:\n" +
+            "1 (First ) - Display the number of groups (M) in the console\n" +
+            "2 (Second) - Generate and store groups (up to a certain limit, not suitable for handling up to a billion) using file handling methods\n" +
+            "3 (Third ) - Generate and store groups (up to a billion) using the Sieve of Eratosthenes method and write them to a file.");
 
             switch (Console.ReadLine())
             {
@@ -33,6 +34,7 @@ namespace DivisibleNumberPartition
                     sv.Stop();
                     PrintTime(sv);
                     break;
+                
                 // Execute the algorithm for counting groups of numbers by brute force and write them to a file
                 case "2":
                     sv.Start();
@@ -109,19 +111,18 @@ namespace DivisibleNumberPartition
                     }
                     break;
             }
-            Console.ReadKey();
         }
 
         /// <summary>
-        /// Check if input file exists at the given path 
-        /// Checking the existence of an input file.
+        /// Checks if the input file exists at the given path. If not, creates a default file.
         /// </summary>
-        /// <param name="path">Path to file</param>
+        /// <param name="path">Path to the file</param>
         static void InputFileExists(string path)
         {
             if (!File.Exists(path))
             {
                 Console.WriteLine($"File inputNumber.txt not found. Creating a default file.");
+
                 using (StreamWriter sw = new StreamWriter(new FileStream(@"inputNumber.txt", FileMode.Create)))
                 {
                     sw.WriteLine("100");
@@ -130,23 +131,24 @@ namespace DivisibleNumberPartition
         }
 
         /// <summary>
-        /// This method reads an integer from a file
+        /// Reads an integer from a file.
         /// </summary>
-        /// <param name="path"></param>
-        /// <returns></returns>
+        /// <param name="path">Path to the file</param>
+        /// <returns>The integer read from the file</returns>
         static int ReadInputFile(string path)
         {
             using (StreamReader sr = new StreamReader(path, System.Text.Encoding.Default))
             {
+                // Parse the read line into an integer and return it
                 return int.Parse(sr.ReadLine());
             }
         }
 
         /// <summary>
-        /// This method calculates the number of groups of numbers that are not divisible by each other
+        /// Calculates the number of groups of numbers that are not divisible by each other.
         /// </summary>
-        /// <param name="number"> It takes an integer parameter "number" which represents the number of integers in the sequence starting from zero</param>
-        /// <returns> It returns an integer value which represents the number of groups of numbers that are not divisible by each other</returns>
+        /// <param name="number">An integer parameter representing the number of integers in the sequence starting from zero.</param>
+        /// <returns>An integer value representing the number of groups of numbers that are not divisible by each other.</returns>
         static int NumberOfGroups(int number)
         {
             int count = 1;
@@ -159,9 +161,9 @@ namespace DivisibleNumberPartition
         }
 
         /// <summary>
-        /// Method to print the time taken by the algorithm in seconds and milliseconds
+        /// Prints the time taken by the algorithm in seconds and milliseconds.
         /// </summary>
-        /// <param name="sv">Stopwatch</param>
+        /// <param name="sv">Stopwatch object</param>
         static void PrintTime(Stopwatch sv)
         {
             Console.WriteLine("\nTime taken by the algorithm in seconds: " + sv.Elapsed.TotalSeconds + 
@@ -269,9 +271,9 @@ namespace DivisibleNumberPartition
 
         /// <summary>
         /// This method compares two BitArrays and replaces the elements in the first BitArray that are contained in the second BitArray with zeros
-        /// it means that any elements in the first array that have the same index as an element in the second array that is also non-zero will be replaced with zero.
+        /// It means that any elements in the first array that have the same index as an element in the second array that is also non-zero will be replaced with zero.
         /// For example, if the first array has the elements [1, 2, 3, 4] and the second array has the elements [0, 2, 0, 5], 
-        /// the method will return a new BitArray with the elements [0, 2, 0, 0].
+        /// The method will return a new BitArray with the elements [0, 2, 0, 0].
         /// </summary>
         /// <param name="arr1">The first BitArray to be modified.</param>
         /// <param name="arr2">The second BitArray to compare with.</param>

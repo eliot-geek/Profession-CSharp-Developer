@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DivisibleNumberPartition")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee791e07db52e3ff304b6107eb83f0d695950541")]
 [assembly: System.Reflection.AssemblyProductAttribute("DivisibleNumberPartition")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DivisibleNumberPartition")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
