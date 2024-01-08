@@ -5,9 +5,10 @@ namespace HandbookEmployees
     internal class Program
     {
         /// <summary>
-        /// Checking the existence of a file
+        /// Checks the existence of a file.
+        /// If the file does not exist, creates a default file.
         /// </summary>
-        /// <param name="path"></param>
+        /// <param name="path">The path to the file.</param>
         static void InputFileExists(string path)
         {
             if (!File.Exists(path))
@@ -18,9 +19,9 @@ namespace HandbookEmployees
         }
 
         /// <summary>
-        /// Input in the File
+        /// Performs input in the file.
         /// </summary>
-        /// <param name="path"></param>
+        /// <param name="path">The path to the file.</param>
         static void InputFile(string path)
         {
             using (StreamWriter streamWriter = new StreamWriter("worker.csv", true))
@@ -56,16 +57,17 @@ namespace HandbookEmployees
 
                     Console.Write("Add a new worker y/n");
                     key = Console.ReadKey(true).KeyChar;
+
                 } while (char.ToLower(key) == 'y');
             }
             Console.WriteLine();
         }
 
         /// <summary>
-        /// Read From The File
+        /// Reads content from the specified file.
         /// </summary>
-        /// <param name="path"></param>
-        /// <returns></returns>
+        /// <param name="path">The path to the file.</param>
+        /// <returns>The content read from the file.</returns>
         static void ReadInputFile(string path)
         {
             using (StreamReader streamReader = new StreamReader("worker.csv"))
@@ -78,13 +80,14 @@ namespace HandbookEmployees
             }
         }
 
+
         static void Main(string[] args)
         {
             string worker = @"worker.csv";
 
-            Console.WriteLine("Choose an option: \n" +
+            Console.WriteLine("Select an option: \n" +
             "Enter 1 to display the data on the screen\n" +
-            "Enter 2 to fill out the data and add a new record to the end of the file");
+            "Enter 2 to input data and append a new record to the end of the file");
 
             switch (Console.ReadLine())
             {
@@ -101,6 +104,8 @@ namespace HandbookEmployees
                     Console.WriteLine("You picked up the wrong number. Pick 1 or 2");
                     break;
             }
+
+            Console.WriteLine();
         }
     }
 }

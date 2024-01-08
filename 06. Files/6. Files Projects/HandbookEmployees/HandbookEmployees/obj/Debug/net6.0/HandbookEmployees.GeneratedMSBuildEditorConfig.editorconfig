@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HandbookEmployees
-build_property.ProjectDir = C:\Users\leosa\Downloads\PushHub\6. Files\6. Files Projects\HandbookEmployees\HandbookEmployees\
+build_property.ProjectDir = C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\06. Files\6. Files Projects\HandbookEmployees\HandbookEmployees\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
