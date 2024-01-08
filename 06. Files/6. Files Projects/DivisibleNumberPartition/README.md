@@ -1,4 +1,4 @@
-# Task: Calculation of Groups for Divisible Numbers
+# Calculation of Groups for Divisible Numbers
 
 ## Description
 
