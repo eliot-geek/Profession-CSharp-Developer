@@ -12,3 +12,18 @@ C:\Users\leosa\Downloads\PushHub\7. Structures and Introduction to OOP\7. Projec
 C:\Users\leosa\Downloads\PushHub\7. Structures and Introduction to OOP\7. Projects\DailyPlannerApp\DailyPlannerApp\obj\Debug\net6.0\DailyPlannerApp.pdb
 C:\Users\leosa\Downloads\PushHub\7. Structures and Introduction to OOP\7. Projects\DailyPlannerApp\DailyPlannerApp\obj\Debug\net6.0\DailyPlannerApp.genruntimeconfig.cache
 C:\Users\leosa\Downloads\PushHub\7. Structures and Introduction to OOP\7. Projects\DailyPlannerApp\DailyPlannerApp\obj\Debug\net6.0\ref\DailyPlannerApp.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\07. Structures and OOP\7. Projects\DailyPlannerApp\DailyPlannerApp\bin\Debug\net6.0\DailyPlannerApp.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\07. Structures and OOP\7. Projects\DailyPlannerApp\DailyPlannerApp\bin\Debug\net6.0\DailyPlannerApp.deps.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\07. Structures and OOP\7. Projects\DailyPlannerApp\DailyPlannerApp\bin\Debug\net6.0\DailyPlannerApp.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\07. Structures and OOP\7. Projects\DailyPlannerApp\DailyPlannerApp\bin\Debug\net6.0\DailyPlannerApp.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\07. Structures and OOP\7. Projects\DailyPlannerApp\DailyPlannerApp\bin\Debug\net6.0\DailyPlannerApp.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\07. Structures and OOP\7. Projects\DailyPlannerApp\DailyPlannerApp\obj\Debug\net6.0\DailyPlannerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\07. Structures and OOP\7. Projects\DailyPlannerApp\DailyPlannerApp\obj\Debug\net6.0\DailyPlannerApp.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\07. Structures and OOP\7. Projects\DailyPlannerApp\DailyPlannerApp\obj\Debug\net6.0\DailyPlannerApp.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\07. Structures and OOP\7. Projects\DailyPlannerApp\DailyPlannerApp\obj\Debug\net6.0\DailyPlannerApp.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\07. Structures and OOP\7. Projects\DailyPlannerApp\DailyPlannerApp\obj\Debug\net6.0\DailyPlannerApp.sourcelink.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\07. Structures and OOP\7. Projects\DailyPlannerApp\DailyPlannerApp\obj\Debug\net6.0\DailyPlannerApp.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\07. Structures and OOP\7. Projects\DailyPlannerApp\DailyPlannerApp\obj\Debug\net6.0\refint\DailyPlannerApp.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\07. Structures and OOP\7. Projects\DailyPlannerApp\DailyPlannerApp\obj\Debug\net6.0\DailyPlannerApp.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\07. Structures and OOP\7. Projects\DailyPlannerApp\DailyPlannerApp\obj\Debug\net6.0\DailyPlannerApp.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\07. Structures and OOP\7. Projects\DailyPlannerApp\DailyPlannerApp\obj\Debug\net6.0\ref\DailyPlannerApp.dll
