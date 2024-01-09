@@ -43,16 +43,17 @@ namespace DailyManagement
         /// </summary>
         private string PlaceOfBirth;
 
+
         /// <summary>
-        /// Add worker
+        /// Constructor for adding a worker.
         /// </summary>
-        /// <param name="iD"></param>
-        /// <param name="dateAndTime"></param>
-        /// <param name="fullName"></param>
-        /// <param name="age"></param>
-        /// <param name="height"></param>
-        /// <param name="dateOfBirth"></param>
-        /// <param name="placeOfBirth"></param>
+        /// <param name="iD">The unique identifier for the worker.</param>
+        /// <param name="dateAndTime">The date and time when the worker is added.</param>
+        /// <param name="fullName">The full name of the worker.</param>
+        /// <param name="age">The age of the worker.</param>
+        /// <param name="height">The height of the worker.</param>
+        /// <param name="dateOfBirth">The date of birth of the worker.</param>
+        /// <param name="placeOfBirth">The place of birth of the worker.</param>
         public Worker(int iD, DateTime dateAndTime, string fullName, int age, float height, DateTime dateOfBirth, string placeOfBirth)
         {
             ID = iD;

@@ -14,8 +14,21 @@ namespace DailyManagement
             string str = "";
             while (str != "0")
             {
-                Console.WriteLine("1_Print the list\n2_Print by ID\n3_Add\n4_Loading records in the selected date range\n5_Sort by Ascending (dates)" +
-                    "\n6_Sort by Descending (dates)\n7_Sort by field\n8_Edit\n9_Delete\n0_Save and Exit\n");
+                //Console.WriteLine("1_Print the list\n2_Print by ID\n3_Add\n4_Loading records in the selected date range\n5_Sort by Ascending (dates)" +
+                  //  "\n6_Sort by Descending (dates)\n7_Sort by field\n8_Edit\n9_Delete\n0_Save and Exit\n");
+
+                Console.WriteLine("======== Worker Management System ========");
+                Console.WriteLine("1. Print the list");
+                Console.WriteLine("2. Print by ID");
+                Console.WriteLine("3. Add a new worker");
+                Console.WriteLine("4. Load records in the selected date range");
+                Console.WriteLine("5. Sort by Ascending (dates)");
+                Console.WriteLine("6. Sort by Descending (dates)");
+                Console.WriteLine("7. Sort by a specific field");
+                Console.WriteLine("8. Edit a worker's details");
+                Console.WriteLine("9. Delete a worker");
+                Console.WriteLine("0. Save and Exit");
+
                 str = Console.ReadLine();
                 if (str == "0")
                     break;

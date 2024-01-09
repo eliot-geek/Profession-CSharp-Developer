@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leosa\\Downloads\\PushHub\\7. Structures and Introduction to OOP\\7. Projects\\DailyManagement\\DailyManagement\\DailyManagement.csproj": {}
+    "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\07. Structures and OOP\\7. Projects\\DailyManagement\\DailyManagement\\DailyManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leosa\\Downloads\\PushHub\\7. Structures and Introduction to OOP\\7. Projects\\DailyManagement\\DailyManagement\\DailyManagement.csproj": {
+    "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\07. Structures and OOP\\7. Projects\\DailyManagement\\DailyManagement\\DailyManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leosa\\Downloads\\PushHub\\7. Structures and Introduction to OOP\\7. Projects\\DailyManagement\\DailyManagement\\DailyManagement.csproj",
+        "projectUniqueName": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\07. Structures and OOP\\7. Projects\\DailyManagement\\DailyManagement\\DailyManagement.csproj",
         "projectName": "DailyManagement",
-        "projectPath": "C:\\Users\\leosa\\Downloads\\PushHub\\7. Structures and Introduction to OOP\\7. Projects\\DailyManagement\\DailyManagement\\DailyManagement.csproj",
+        "projectPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\07. Structures and OOP\\7. Projects\\DailyManagement\\DailyManagement\\DailyManagement.csproj",
         "packagesPath": "C:\\Users\\leosa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leosa\\Downloads\\PushHub\\7. Structures and Introduction to OOP\\7. Projects\\DailyManagement\\DailyManagement\\obj\\",
+        "outputPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\07. Structures and OOP\\7. Projects\\DailyManagement\\DailyManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

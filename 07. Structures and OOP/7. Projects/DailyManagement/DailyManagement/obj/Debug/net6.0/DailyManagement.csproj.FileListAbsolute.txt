@@ -12,3 +12,18 @@ C:\Users\leosa\Downloads\PushHub\7. Structures and Introduction to OOP\7. Projec
 C:\Users\leosa\Downloads\PushHub\7. Structures and Introduction to OOP\7. Projects\DailyManagement\DailyManagement\obj\Debug\net6.0\DailyManagement.pdb
 C:\Users\leosa\Downloads\PushHub\7. Structures and Introduction to OOP\7. Projects\DailyManagement\DailyManagement\obj\Debug\net6.0\DailyManagement.genruntimeconfig.cache
 C:\Users\leosa\Downloads\PushHub\7. Structures and Introduction to OOP\7. Projects\DailyManagement\DailyManagement\obj\Debug\net6.0\ref\DailyManagement.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\07. Structures and OOP\7. Projects\DailyManagement\DailyManagement\bin\Debug\net6.0\DailyManagement.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\07. Structures and OOP\7. Projects\DailyManagement\DailyManagement\bin\Debug\net6.0\DailyManagement.deps.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\07. Structures and OOP\7. Projects\DailyManagement\DailyManagement\bin\Debug\net6.0\DailyManagement.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\07. Structures and OOP\7. Projects\DailyManagement\DailyManagement\bin\Debug\net6.0\DailyManagement.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\07. Structures and OOP\7. Projects\DailyManagement\DailyManagement\bin\Debug\net6.0\DailyManagement.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\07. Structures and OOP\7. Projects\DailyManagement\DailyManagement\obj\Debug\net6.0\DailyManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\07. Structures and OOP\7. Projects\DailyManagement\DailyManagement\obj\Debug\net6.0\DailyManagement.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\07. Structures and OOP\7. Projects\DailyManagement\DailyManagement\obj\Debug\net6.0\DailyManagement.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\07. Structures and OOP\7. Projects\DailyManagement\DailyManagement\obj\Debug\net6.0\DailyManagement.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\07. Structures and OOP\7. Projects\DailyManagement\DailyManagement\obj\Debug\net6.0\DailyManagement.sourcelink.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\07. Structures and OOP\7. Projects\DailyManagement\DailyManagement\obj\Debug\net6.0\DailyManagement.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\07. Structures and OOP\7. Projects\DailyManagement\DailyManagement\obj\Debug\net6.0\refint\DailyManagement.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\07. Structures and OOP\7. Projects\DailyManagement\DailyManagement\obj\Debug\net6.0\DailyManagement.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\07. Structures and OOP\7. Projects\DailyManagement\DailyManagement\obj\Debug\net6.0\DailyManagement.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\07. Structures and OOP\7. Projects\DailyManagement\DailyManagement\obj\Debug\net6.0\ref\DailyManagement.dll
