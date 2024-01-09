@@ -12,6 +12,7 @@
             Console.WriteLine(cat1.Breed);
             cat1.Breed = "Ragdoll";
             Console.WriteLine(cat1.Breed);
+            Console.ReadKey();
 
             Console.WriteLine(cat1.Nickname);
             cat1.Nickname = "Ryzhik";
@@ -26,7 +27,7 @@
             Cat2 cat2 = new Cat2("Scottish Fold", "Barsik");
             Console.WriteLine(cat2.GetBreed());
 
-            // In struct Cat2 Breed is private that's why i can't modify
+            // In struct Cat2, Breed is private that's why i can't modify
             // cat2.Breed = "Ragdoll";     
             // Console.WriteLine(cat2.Breed);
             Console.ReadKey();
@@ -46,8 +47,8 @@
             Account2 account2 = new Account2("Admin", "qwerty");
             Console.WriteLine(account2.Login);
 
-            account2.SetPassword("jroyce");
             // Console.WriteLine(account2.Password);
+            account2.SetPassword("jroyce");
             Console.ReadKey();
 
             #endregion

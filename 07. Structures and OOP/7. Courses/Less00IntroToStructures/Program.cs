@@ -24,7 +24,7 @@
                 report1[0].income, 
                 report1[0].expenses, 
                 report1[0].profit);
-
+            Console.WriteLine();
 
             // Second Option
             MonthlyReport[] report = new MonthlyReport[12];
@@ -38,6 +38,7 @@
                 report[0].income, 
                 report[0].expenses, 
                 report[0].profit);
+            Console.WriteLine();
 
 
             // Third Option
@@ -51,6 +52,7 @@
                 january.income, 
                 january.expenses, 
                 january.profit);
+            Console.WriteLine();
 
             #endregion
 

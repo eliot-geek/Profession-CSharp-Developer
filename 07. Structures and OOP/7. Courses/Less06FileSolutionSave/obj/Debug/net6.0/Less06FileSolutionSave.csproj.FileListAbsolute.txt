@@ -12,3 +12,17 @@ C:\Users\leosa\Downloads\PushHub\7. Structures and Introduction to OOP\7. Course
 C:\Users\leosa\Downloads\PushHub\7. Structures and Introduction to OOP\7. Courses\StructuresAndOOP\Less06FileSolutionSave\obj\Debug\net6.0\Less06FileSolutionSave.pdb
 C:\Users\leosa\Downloads\PushHub\7. Structures and Introduction to OOP\7. Courses\StructuresAndOOP\Less06FileSolutionSave\obj\Debug\net6.0\Less06FileSolutionSave.genruntimeconfig.cache
 C:\Users\leosa\Downloads\PushHub\7. Structures and Introduction to OOP\7. Courses\StructuresAndOOP\Less06FileSolutionSave\obj\Debug\net6.0\ref\Less06FileSolutionSave.dll
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\07. Structures and OOP\7. Courses\Less06FileSolutionSave\bin\Debug\net6.0\Less06FileSolutionSave.exe
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\07. Structures and OOP\7. Courses\Less06FileSolutionSave\bin\Debug\net6.0\Less06FileSolutionSave.deps.json
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\07. Structures and OOP\7. Courses\Less06FileSolutionSave\bin\Debug\net6.0\Less06FileSolutionSave.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\07. Structures and OOP\7. Courses\Less06FileSolutionSave\bin\Debug\net6.0\Less06FileSolutionSave.dll
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\07. Structures and OOP\7. Courses\Less06FileSolutionSave\bin\Debug\net6.0\Less06FileSolutionSave.pdb
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\07. Structures and OOP\7. Courses\Less06FileSolutionSave\obj\Debug\net6.0\Less06FileSolutionSave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\07. Structures and OOP\7. Courses\Less06FileSolutionSave\obj\Debug\net6.0\Less06FileSolutionSave.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\07. Structures and OOP\7. Courses\Less06FileSolutionSave\obj\Debug\net6.0\Less06FileSolutionSave.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\07. Structures and OOP\7. Courses\Less06FileSolutionSave\obj\Debug\net6.0\Less06FileSolutionSave.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\07. Structures and OOP\7. Courses\Less06FileSolutionSave\obj\Debug\net6.0\Less06FileSolutionSave.dll
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\07. Structures and OOP\7. Courses\Less06FileSolutionSave\obj\Debug\net6.0\refint\Less06FileSolutionSave.dll
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\07. Structures and OOP\7. Courses\Less06FileSolutionSave\obj\Debug\net6.0\Less06FileSolutionSave.pdb
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\07. Structures and OOP\7. Courses\Less06FileSolutionSave\obj\Debug\net6.0\Less06FileSolutionSave.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\07. Structures and OOP\7. Courses\Less06FileSolutionSave\obj\Debug\net6.0\ref\Less06FileSolutionSave.dll

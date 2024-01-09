@@ -32,11 +32,16 @@ namespace Less04Indexers
             {
                 switch (i)
                 {
-                    case "+": return "Plus";
-                    case "-": return "Minus";
-                    case "*": return "Asterik";
-                    case "/": return "Slash";
-                    default: return "Anything else";
+                    case "+": 
+                        return "Plus";
+                    case "-": 
+                        return "Minus";
+                    case "*": 
+                        return "Asterik";
+                    case "/": 
+                        return "Slash";
+                    default: 
+                        return "Anything else";
                 }
 
             }

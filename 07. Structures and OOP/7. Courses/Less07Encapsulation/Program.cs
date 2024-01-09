@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             #region Computer1 (Not suitable)
-            // because, for instance, we could deactivate a computer five times, which is already off (That's not normal).
+            // Because, for instance, we could deactivate a computer five times, which is already off (That's not normal).
             // The user must explicitly configure the program. But what about individuals who aren't familiar with the field? How would they understand? So not suitable
 
             Console.WriteLine("Computer 1");

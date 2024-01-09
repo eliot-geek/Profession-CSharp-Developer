@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Less06FileSolutionSave
-build_property.ProjectDir = C:\Users\leosa\Downloads\PushHub\7. Structures and Introduction to OOP\7. Courses\StructuresAndOOP\Less06FileSolutionSave\
+build_property.ProjectDir = C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\07. Structures and OOP\7. Courses\Less06FileSolutionSave\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

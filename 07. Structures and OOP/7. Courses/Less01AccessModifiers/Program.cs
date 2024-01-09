@@ -6,7 +6,7 @@ namespace Less01AccessModifiers
     {
         static void Main(string[] args)
         {
-            // I have linked the previous project
+            // I linked the previous project by adding the public modifier before the Cat Struct
 
             Cat cat = new Cat();
             cat.Nickname = "Boomer";

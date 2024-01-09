@@ -12,3 +12,17 @@ C:\Users\leosa\Downloads\PushHub\7. Structures and Introduction to OOP\7. Course
 C:\Users\leosa\Downloads\PushHub\7. Structures and Introduction to OOP\7. Courses\StructuresAndOOP\Less00IntroToStructures\obj\Debug\net6.0\Less00IntroToStructures.pdb
 C:\Users\leosa\Downloads\PushHub\7. Structures and Introduction to OOP\7. Courses\StructuresAndOOP\Less00IntroToStructures\obj\Debug\net6.0\Less00IntroToStructures.genruntimeconfig.cache
 C:\Users\leosa\Downloads\PushHub\7. Structures and Introduction to OOP\7. Courses\StructuresAndOOP\Less00IntroToStructures\obj\Debug\net6.0\ref\Less00IntroToStructures.dll
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\07. Structures and OOP\7. Courses\Less00IntroToStructures\bin\Debug\net6.0\Less00IntroToStructures.exe
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\07. Structures and OOP\7. Courses\Less00IntroToStructures\bin\Debug\net6.0\Less00IntroToStructures.deps.json
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\07. Structures and OOP\7. Courses\Less00IntroToStructures\bin\Debug\net6.0\Less00IntroToStructures.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\07. Structures and OOP\7. Courses\Less00IntroToStructures\bin\Debug\net6.0\Less00IntroToStructures.dll
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\07. Structures and OOP\7. Courses\Less00IntroToStructures\bin\Debug\net6.0\Less00IntroToStructures.pdb
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\07. Structures and OOP\7. Courses\Less00IntroToStructures\obj\Debug\net6.0\Less00IntroToStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\07. Structures and OOP\7. Courses\Less00IntroToStructures\obj\Debug\net6.0\Less00IntroToStructures.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\07. Structures and OOP\7. Courses\Less00IntroToStructures\obj\Debug\net6.0\Less00IntroToStructures.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\07. Structures and OOP\7. Courses\Less00IntroToStructures\obj\Debug\net6.0\Less00IntroToStructures.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\07. Structures and OOP\7. Courses\Less00IntroToStructures\obj\Debug\net6.0\Less00IntroToStructures.dll
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\07. Structures and OOP\7. Courses\Less00IntroToStructures\obj\Debug\net6.0\refint\Less00IntroToStructures.dll
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\07. Structures and OOP\7. Courses\Less00IntroToStructures\obj\Debug\net6.0\Less00IntroToStructures.pdb
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\07. Structures and OOP\7. Courses\Less00IntroToStructures\obj\Debug\net6.0\Less00IntroToStructures.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Profession-CSharp-Developer\07. Structures and OOP\7. Courses\Less00IntroToStructures\obj\Debug\net6.0\ref\Less00IntroToStructures.dll

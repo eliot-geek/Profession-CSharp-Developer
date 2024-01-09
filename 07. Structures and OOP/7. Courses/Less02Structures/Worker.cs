@@ -48,13 +48,13 @@ namespace Less02Structures
         #region Constructor
 
         /// <summary>
-        /// Constructor
+        /// Constructor for the Worker class.
         /// </summary>
-        /// <param name="Position"></param>
-        /// <param name="Salary"></param>
-        /// <param name="FirstName"></param>
-        /// <param name="LastName"></param>
-        /// <param name="DateOfBirth"></param>
+        /// <param name="Position">The position or job title of the worker.</param>
+        /// <param name="Salary">The salary of the worker.</param>
+        /// <param name="FirstName">The first name of the worker.</param>
+        /// <param name="LastName">The last name of the worker.</param>
+        /// <param name="DateOfBirth">The date of birth of the worker.</param>
         public Worker(string Position, uint Salary, string FirstName, string LastName, DateTime DateOfBirth)
         {
             this.Position = Position;
@@ -69,13 +69,12 @@ namespace Less02Structures
         #region Constructor v 1.0
 
         ///// <summary>
-        ///// Constructor
+        ///// Constructor for the Worker class.
         ///// </summary>
-        ///// <param name="Position"></param>
-        ///// <param name="Salary"></param>
-        ///// <param name="FirstName"></param>
-        ///// <param name="LastName"></param>
-        ///// <param name="DateOfBirth"></param>
+        ///// <param name="Position">The position or job title of the worker.</param>
+        ///// <param name="Salary">The salary of the worker.</param>
+        ///// <param name="FirstName">The first name of the worker.</param>
+        ///// <param name="LastName">The last name of the worker.</param>
         //public Worker(string Position, uint Salary, string FirstName, string LastName)
         //{
         //    this.Position = Position;
@@ -87,13 +86,11 @@ namespace Less02Structures
 
 
         ///// <summary>
-        ///// Constructor
+        ///// Constructor for the Worker class.
         ///// </summary>
-        ///// <param name="Position"></param>
-        ///// <param name="Salary"></param>
-        ///// <param name="FirstName"></param>
-        ///// <param name="LastName"></param>
-        ///// <param name="DateOfBirth"></param>
+        ///// <param name="Position">The position or job title of the worker.</param>
+        ///// <param name="FirstName">The first name of the worker.</param>
+        ///// <param name="LastName">The last name of the worker.</param>
         //public Worker(string Position, string FirstName, string LastName)
         //{
         //    this.Position = Position;
@@ -105,11 +102,10 @@ namespace Less02Structures
 
 
         ///// <summary>
-        ///// Constructor
+        ///// Constructor for the Worker class.
         ///// </summary>
-        ///// <param name="Position"></param>
-        ///// <param name="FirstName"></param>
-        ///// <param name="LastName"></param>
+        ///// <param name="Position">The position or job title of the worker.</param>
+        ///// <param name="FirstName">The first name of the worker.</param>
         //public Worker(string Position, string FirstName)
         //{
         //    this.Position = Position;
@@ -121,9 +117,9 @@ namespace Less02Structures
 
 
         ///// <summary>
-        ///// Constructor
+        ///// Constructor for the Worker class.
         ///// </summary>
-        ///// <param name="FirstName"></param>
+        ///// <param name="FirstName">The first name of the worker.</param>
         //public Worker(string FirstName)
         //{
         //    this.Position = String.Empty;
@@ -138,12 +134,12 @@ namespace Less02Structures
         #region Constructor v 2.0
 
         /// <summary>
-        /// Constructor
+        /// Constructor for the Worker class.
         /// </summary>
-        /// <param name="Position"></param>
-        /// <param name="Salary"></param>
-        /// <param name="FirstName"></param>
-        /// <param name="LastName"></param>
+        /// <param name="Position">The position or job title of the worker.</param>
+        /// <param name="Salary">The salary of the worker.</param>
+        /// <param name="FirstName">The first name of the worker.</param>
+        /// <param name="LastName">The last name of the worker.</param>
         public Worker(string Position, uint Salary, string FirstName, string LastName) :
             this(Position, Salary, FirstName, LastName, new DateTime(1990, 2, 3, 0, 0, 0))
         {
@@ -151,11 +147,11 @@ namespace Less02Structures
         }
 
         /// <summary>
-        /// Constructor
+        /// Constructor for the Worker class.
         /// </summary>
-        /// <param name="Position"></param>
-        /// <param name="Salary"></param>
-        /// <param name="FirstName"></param>
+        /// <param name="Position">The position or job title of the worker.</param>
+        /// <param name="Salary">The salary of the worker.</param>
+        /// <param name="FirstName">The first name of the worker.</param>
         public Worker(string Position, uint Salary, string FirstName) :
             this(Position, Salary, FirstName, String.Empty, new DateTime(1990, 2, 3, 0, 0, 0))
         {
@@ -163,10 +159,10 @@ namespace Less02Structures
         }
 
         /// <summary>
-        /// Constructor
+        /// Constructor for the Worker class.
         /// </summary>
-        /// <param name="Position"></param>
-        /// <param name="FirstName"></param>
+        /// <param name="Position">The position or job title of the worker.</param>
+        /// <param name="FirstName">The first name of the worker.</param>
         public Worker(string Position, string FirstName) :
             this(Position, 0, FirstName, String.Empty, new DateTime(1990, 2, 3, 0, 0, 0))
         {
@@ -174,9 +170,9 @@ namespace Less02Structures
         }
 
         /// <summary>
-        /// Constructor
+        /// Constructor for the Worker class.
         /// </summary>
-        /// <param name="FirstName"></param>
+        /// <param name="FirstName">The first name of the worker.</param>
         public Worker(string FirstName) :
             this(String.Empty, 0, FirstName, String.Empty, new DateTime(1990, 2, 3, 0, 0, 0))
         {

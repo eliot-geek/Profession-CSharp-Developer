@@ -43,13 +43,13 @@ namespace Less06FileSolutionSave
         #region Constructor
 
         /// <summary>
-        /// Worker's creation
+        /// Constructor for creating a Worker.
         /// </summary>
-        /// <param name="firstName"></param>
-        /// <param name="lastName"></param>
-        /// <param name="position"></param>
-        /// <param name="department"></param>
-        /// <param name="salary"></param>
+        /// <param name="FirstName">The first name of the worker.</param>
+        /// <param name="LastName">The last name of the worker.</param>
+        /// <param name="Position">The position or job title of the worker.</param>
+        /// <param name="Salary">The salary of the worker.</param>
+        /// <param name="Department">The department to which the worker belongs.</param>
         public Worker(string FirstName, string LastName, string Position, uint Salary, string Department)
         {
             this.firstName = FirstName;
