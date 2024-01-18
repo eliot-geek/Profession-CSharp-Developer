@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Less11QueueDijkstraAlgorithm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27199409942ac6e37598c09787b3e866cc75c0ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("Less11QueueDijkstraAlgorithm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Less11QueueDijkstraAlgorithm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

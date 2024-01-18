@@ -6,22 +6,26 @@ namespace Less12SerializationIntroduction
     {
         static void Main(string[] args)
         {
-            // Serialization - the process of translating any data structure into a sequence of bits.
-            // Deserialization - the restoration of the initial state of a data structure from a bit sequence.
-            // For example, in video games, when you exit the game and return later to find yourself in the same place and at the same level where you left off, this continuity is achieved
-            // through serialization and deserialization. It involves storing game data and then, when you re-enter the game, retrieving that data to resume from where you last saved.
+            // Serialization is the process of converting any data structure into a sequence of bits.
+            // Deserialization is the restoration of the initial state of a data structure from a bit sequence.
+            // For instance, in video games, when you exit the game and return later to find yourself in the same location and at the same level where you left off, this continuity is achieved
+            // through serialization and deserialization. It entails storing game data and, upon re-entering the game, retrieving that data to resume from where you last saved.
+
 
             #region CSV (Comma-Separated Values)
 
-            /* CSV stands for Comma-Separated Values. It is a plain text format used to represent tabular data, such as a spreadsheet or a database.
-            - Each line represents a row of data.
-            - The values within each row are separated by commas.
-            - The first row typically contains headers, which represent the names of the columns or fields.
-            - Following rows contain the actual data, where each value corresponds to a specific column.
 
-            CSV files are widely used for data storage and exchange because of their simplicity and compatibility with various applications. 
+            /* CSV stands for Comma-Separated Values, a plain text format utilized to represent tabular data, similar to a spreadsheet or a database.
+            
+            - Each line in a CSV file signifies a row of data.
+            - The values within each row are separated by commas.
+            - The first row typically contains headers, representing the names of the columns or fields.
+            - Subsequent rows contain actual data, with each value corresponding to a specific column.
+
+            CSV files find widespread use for data storage and exchange due to their simplicity and compatibility with various applications. 
             They can be easily imported into spreadsheet software or processed by programs to work with the contained data. */
 
+            // Example CSV snippet
 
             // Name_1,LastName_1,Position_778,4931,Department_94
             // Name_2,LastName_2,Position_368,3838,Department_88
@@ -42,6 +46,7 @@ namespace Less12SerializationIntroduction
 
             /* XML (Extensible Markup Language) is a markup language used for representing structured data. 
             It uses tags to define elements and attributes, allowing for hierarchical and structured data representation.
+
             - Structure: XML provides a more structured way of representing data due to its hierarchical nature. 
             - Human-Readability: XML is more human-readable than CSV because it includes both data and labels (element and attribute names).
             - Extensibility: XML allows for custom-defined structures and data types, making it more flexible for various use cases.
@@ -54,6 +59,8 @@ namespace Less12SerializationIntroduction
             XML is preferred when you need a structured and hierarchical representation of data, 
             whereas CSV is more suitable for simple tabular data that needs to be efficiently processed and transmitted.  */
 
+
+            // Example XML snippet
 
             // <?xml version="1.0"?>
             // <ArrayOfWorker xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
@@ -101,6 +108,7 @@ namespace Less12SerializationIntroduction
 
             /* JSON (JavaScript Object Notation) is a lightweight data-interchange format. It is easy for humans to read and write and easy for machines to parse and generate. 
              * JSON is often used to transmit data between a server and a web application, as well as for configuration files and data storage.
+            
             - The data is represented as an array of objects enclosed in square brackets [].
             - Each object is enclosed in curly braces {} and contains key-value pairs.
             - The keys (e.g., "FirstName," etc..) are strings that serve as labels for the corresponding values.
@@ -158,6 +166,7 @@ namespace Less12SerializationIntroduction
             // ]
 
             #endregion
+
 
             // Each format has its strengths and weaknesses, and the choice between them should be based on the specific needs of your project.
             // Whether XML or CSV is "faster" depends on the specific use case and requirements. 

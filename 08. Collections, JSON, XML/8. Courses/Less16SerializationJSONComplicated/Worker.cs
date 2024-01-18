@@ -39,10 +39,7 @@ namespace Less16SerializationJSONComplicated
 
         #region Constructors
 
-        public Worker()
-        {
-
-        }
+        public Worker() { }
 
         /// <summary>
         /// Create worker

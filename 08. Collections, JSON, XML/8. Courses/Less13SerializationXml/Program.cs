@@ -30,14 +30,15 @@ namespace Less13SerializationXml
             Stream fStream = new FileStream(Path, FileMode.Open, FileAccess.Read);          // Create a file stream for reading data from the specified file.
             tempWorker = xmlSerializer.Deserialize(fStream) as Worker;                      // Deserialize the data from the file into the tempWorker object.
             fStream.Close();                                                                // Close the file stream.
+            
             return tempWorker;                                                              // Return the deserialized Worker object.
         }
 
         /// <summary>
-        /// Method to Serialize List<Worker>
+        /// Method to serialize a List of Worker objects.
         /// </summary>
-        /// <param name="ConcreteWorkerList"></param>
-        /// <param name="Path"></param>
+        /// <param name="concreteWorkerList">The List of Worker objects to be serialized.</param>
+        /// <param name="path">The file path where the serialization output will be saved.</param>
         static void SerializeWorkerList(List<Worker> ConcreteWorkerList, string Path)
         {
             XmlSerializer xmlSerializer = new XmlSerializer(typeof(List<Worker>));
@@ -47,10 +48,10 @@ namespace Less13SerializationXml
         }
 
         /// <summary>
-        /// Method to Deserialization List<Worker>
+        /// Method to deserialize a List of Worker objects from an XML file.
         /// </summary>
-        /// <param name="Path"></param>
-        /// <returns></returns>
+        /// <param name="path">The file path from which to deserialize the data.</param>
+        /// <returns>A List of Worker objects deserialized from the specified file.</returns>
         static List<Worker> DeserializeWorkerList(string Path)
         {
             //List<Worker> tempWorkerCol = new List<Worker>();
@@ -59,6 +60,7 @@ namespace Less13SerializationXml
             Stream fStream = new FileStream(Path, FileMode.Open, FileAccess.Read);
             tempWorkerCol = xmlSerializer.Deserialize(fStream) as List<Worker>;
             fStream.Close();
+
             return tempWorkerCol;
         }
 

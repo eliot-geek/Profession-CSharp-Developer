@@ -9,11 +9,14 @@ namespace Less16SerializationJSONComplicated
         {
             #region Parse
 
+            // Read the content of the "telegram.json" file into a string
             string json = File.ReadAllText("telegram.json");
+
             Console.WriteLine(json);
             Console.ReadLine();
             Console.Clear();
 
+            // Parse the JSON and display the value of the "ok" property.
             Console.WriteLine(JObject.Parse(json)["ok"].ToString());
             Console.ReadLine();
             Console.Clear();
@@ -36,11 +39,13 @@ namespace Less16SerializationJSONComplicated
 
             #region Create
 
+            // Create a JArray and a JObject to build a JSON structure.
             JArray array = new JArray();
             JObject mainTree = new JObject();
 
             mainTree["ok"] = true;
 
+            // Create a sample JObject for updates and add it to the JArray multiple times.
             JObject o = new JObject();
             o["update_id"] = 1880746;
             o["message_id"] = 886;
@@ -57,9 +62,10 @@ namespace Less16SerializationJSONComplicated
             userObj["username"] = "ac";
 
             mainTree["user"] = userObj;
+
             json = mainTree.ToString();
 
-            Console.WriteLine(json);
+            Console.WriteLine("Done!");
             Console.ReadLine();
             Console.Clear();
 
@@ -69,11 +75,14 @@ namespace Less16SerializationJSONComplicated
 
             List<Worker> list = new List<Worker>();
 
+            // Create a JObject to store data
             JObject data = new JObject();
             JArray jArray = new JArray();
 
+            // Populate the JArray with Worker objects
             for (uint i = 1; i <= 5; i++)
             {
+                // Create a JObject for each Worker and add it to the JArray
                 JObject obj = new JObject
                 {
                     ["FirstName"] = $"Name_{i}",
@@ -84,9 +93,12 @@ namespace Less16SerializationJSONComplicated
                 };
                 jArray.Add(obj);
             }
+
+            // Display the generated JSON string for the first set of Workers.
             Console.WriteLine(jArray.ToString());
             Console.ReadLine();
             Console.Clear();
+
 
             JArray jArray1 = new JArray();
             for (uint i = 1; i <= 3; i++)
@@ -99,6 +111,7 @@ namespace Less16SerializationJSONComplicated
                 obj["Salary"] = i * 1000;
                 jArray1.Add(obj);
             }
+
             Console.WriteLine(jArray1.ToString());
             Console.ReadKey();
 

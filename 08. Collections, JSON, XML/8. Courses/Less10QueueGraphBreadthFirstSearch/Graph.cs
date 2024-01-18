@@ -6,47 +6,52 @@ using System.Threading.Tasks;
 
 namespace Less10QueueGraphBreadthFirstSearch
 {
-    /// <summary>
-    /// Represent the graph and perform BFS
-    /// </summary>
     class Graph
     {
-        private int V;              // Number of vertices (Nodes)
-        private List<int>[] adj;    // Adjacency lists for each vertex (Edges)
+        /// <summary>
+        /// Represents the number of vertices (Nodes) in the graph.
+        /// </summary>
+        private int NumberOfVertices;
 
         /// <summary>
-        /// Constructor to initialize the graph with a given number of vertices
+        /// Represents the adjacency lists for each vertex (Edges).
         /// </summary>
-        /// <param name="v"></param>
-        public Graph(int v)
+        private List<int>[] AdjacencyLists;
+
+        /// <summary>
+        /// Constructor to initialize the graph with a given number of vertices.
+        /// </summary>
+        /// <param name="numberOfVertices">The number of vertices in the graph.</param>
+        public Graph(int numberOfVertices)
         {
-            V = v;
-            adj = new List<int>[v];
-            for (int i = 0; i < v; i++)
+            NumberOfVertices = numberOfVertices;
+            AdjacencyLists = new List<int>[numberOfVertices];
+
+            for (int i = 0; i < numberOfVertices; i++)
             {
-                adj[i] = new List<int>();
+                AdjacencyLists[i] = new List<int>();
             }
         }
 
-
         /// <summary>
-        /// Add an edge between vertices v and w
+        /// Add an edge between vertices v and w.
         /// </summary>
-        /// <param name="v"></param>
-        /// <param name="w"></param>
+        /// <param name="v">The source vertex.</param>
+        /// <param name="w">The destination vertex.</param>
         public void AddEdge(int v, int w)
         {
-            adj[v].Add(w);
+            AdjacencyLists[v].Add(w);
         }
 
+
         /// <summary>
-        /// Perform Breadth-First Search (BFS) starting from vertex s
+        /// Perform Breadth-First Search (BFS) starting from vertex s.
         /// </summary>
-        /// <param name="s"></param>
-        public void BFS(int s)
+        /// <param name="s">The starting vertex for BFS.</param>
+        public void BreadthFirstSearch(int s)
         {
-            bool[] visited = new bool[V];           
-            Queue<int> queue = new Queue<int>();    
+            bool[] visited = new bool[NumberOfVertices];
+            Queue<int> queue = new Queue<int>();
 
             visited[s] = true;                      
             queue.Enqueue(s);                       
@@ -57,13 +62,13 @@ namespace Less10QueueGraphBreadthFirstSearch
                 Console.Write(s + " ");
 
                 // Get all adjacent vertices of the dequeued vertex (neighbors)
-                foreach (int n in adj[s])
+                foreach (int neighbor in AdjacencyLists[s])
                 {
                     // If an adjacent vertex has not been visited, mark it as visited and enqueue it.
-                    if (!visited[n])
+                    if (!visited[neighbor])
                     {
-                        visited[n] = true;
-                        queue.Enqueue(n);
+                        visited[neighbor] = true;
+                        queue.Enqueue(neighbor);
                     }
                 }
             }
