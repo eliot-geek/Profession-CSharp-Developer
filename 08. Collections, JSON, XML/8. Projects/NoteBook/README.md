@@ -1,6 +1,7 @@
-# Task: Address Book
+# NoteBook / Address book
 
-## What to Do
+## Instructions
+
 The program asks the user for contact information:
 
 - Full Name
@@ -26,8 +27,8 @@ Using `XElement`, create an XML file that contains the entered information. The 
     </Person>
 ```
 
-## Tips and Recommendations
+## Recommendations
 Fill the XElement as you gather the data. Explore XElement capabilities in Microsoft's documentation.
 
-## What Is Evaluated
+## Evaluation Criteria
 The program creates an XML file containing all the contact information.
