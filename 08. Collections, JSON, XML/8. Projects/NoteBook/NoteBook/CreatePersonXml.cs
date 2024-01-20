@@ -9,6 +9,10 @@ namespace NoteBook
 {
     internal class CreatePersonXml
     {
+        /// <summary>
+        /// Creates an XML representation of a person by taking user input for person details.
+        /// </summary>
+        /// <returns>XElement representing the person's information.</returns>
         public static XElement CreateXmlPerson()
         {
             Console.Write("Enter Full Name: ");
@@ -29,6 +33,7 @@ namespace NoteBook
             Console.Write("Enter Home Phone: ");
             string homePhone = Console.ReadLine();
 
+            // Create an XElement representing the person with nested Address and Phones elements
             var personXml = new XElement("Person",
                 new XAttribute("name", fullName),
                 new XElement("Address",
