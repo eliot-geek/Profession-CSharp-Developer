@@ -1,10 +1,12 @@
-# Task: Checking for Duplicates
+# Checking For Duplicates
 
-## What to Do
-The user enters a number. The number is stored in a HashSet collection. If such a number already exists in the collection, the user is informed that the number was entered previously. If the number is not in the collection, a message appears indicating that the number has been successfully saved.
+## Instructions
+The user is prompted to input a number, which is then stored in a HashSet collection.  
+If the entered number already exists in the collection, the user is notified that the number was previously entered.  
+Conversely, if the number is not present in the collection, a confirmation message indicates that the number has been successfully saved.
 
-## Tips and Recommendations
-To add a number to a HashSet, use the [`Add`](https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.hashset-1.add?view=net-6.0) method.
+## Recommendations
+Utilize the [`Add`](https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.hashset-1.add?view=net-6.0) method to add a number to the HashSet.
 
-## What Is Evaluated
-The program uses a HashSet as the collection.
+## Evaluation Criteria
+The program is expected to employ a HashSet as the underlying collection for managing numbers.
