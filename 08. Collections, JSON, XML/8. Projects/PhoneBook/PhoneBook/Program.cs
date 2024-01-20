@@ -6,10 +6,12 @@
         {
             Console.WriteLine("Phone Book Application\n");
             Dictionary<string, string> phoneBook = new Dictionary<string, string>();
-            Phone.EnterPhoneNumbers(phoneBook);
+
+            Phone.EnterPhoneBookEntries(phoneBook);
             Phone.PrintPhoneBook(phoneBook);
             Phone.FindOwnerByPhoneNumber(phoneBook);
-            Console.ReadKey();
+            
+            Console.ReadLine();
         }
     }
 }

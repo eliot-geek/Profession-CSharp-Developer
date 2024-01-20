@@ -6,15 +6,13 @@ using System.Threading.Tasks;
 
 namespace PhoneBook
 {
-    /// <summary>
-    /// Phone Book
-    /// </summary>
     internal class Phone
     {
         /// <summary>
-        /// Method to enter phone numbers and full names 
+        /// Method to enter phone numbers and full names into the phone book.
         /// </summary>
-        public static void EnterPhoneNumbers(Dictionary<string, string> phoneBook)
+        /// <param name="phoneBook">The Dictionary representing the phone book.</param>
+        public static void EnterPhoneBookEntries(Dictionary<string, string> phoneBook)
         {
             while (true)
             {
@@ -32,8 +30,9 @@ namespace PhoneBook
         }
 
         /// <summary>
-        /// Find the owner by entering his phone number
+        /// Find the owner by entering their phone number.
         /// </summary>
+        /// <param name="phoneBook">The Dictionary representing the phone book.</param>
         public static void FindOwnerByPhoneNumber(Dictionary<string, string> phoneBook)
         {
             Console.Write("\nEnter a phone number to find the owner (or press Enter to exit): ");
@@ -58,8 +57,9 @@ namespace PhoneBook
         }
 
         /// <summary>
-        /// Print
+        /// Print the entries in the phone book.
         /// </summary>
+        /// <param name="phoneBook">The Dictionary representing the phone book.</param>
         public static void PrintPhoneBook(Dictionary<string, string> phoneBook)
         {
             Console.WriteLine("\nPhone Book Entries:");
@@ -69,4 +69,5 @@ namespace PhoneBook
             }
         }
     }
+
 }
