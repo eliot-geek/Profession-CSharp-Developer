@@ -10,20 +10,25 @@ namespace PrototypeInformationSystem
     internal class DepartmentWork
     {
         public List<Department> departments;
+
         public int count;
+
+        /// <summary>
+        /// Constructor for the DepartmentWork class.
+        /// </summary>
+        /// <param name="count">The initial count value for department creation.</param>
         public DepartmentWork(int count)
         {
             departments = new List<Department>();
             this.count = count;
-
         }
 
         /// <summary>
-        /// Department's creation
+        /// Adds a new department to the organizational structure.
         /// </summary>
-        /// <param name="Name"></param>
-        /// <param name="data"></param>
-        /// <param name="QuantityWorker"></param>
+        /// <param name="Name">The name of the department.</param>
+        /// <param name="data">The creation date of the department.</param>
+        /// <param name="QuantityWorker">The initial quantity of workers in the department.</param>
         public void AddDepartments(string Name, DateTime data, int QuantityWorker)
         {
             departments.Add(new Department(Name, data, QuantityWorker, count));
@@ -31,14 +36,16 @@ namespace PrototypeInformationSystem
         }
 
         /// <summary>
-        /// Displays Departments Info
+        /// Displays information about departments and employees.
         /// </summary>
         public void PrintFullInfoDepartments()
         {
             Console.Clear();
             Console.WriteLine("1 - Information about all departments and employees");
             Console.WriteLine("2 - Information about a separate department");
+
             int i = int.Parse(Console.ReadLine());
+            
             if (i == 1)
             {
                 Console.Clear();
@@ -59,7 +66,7 @@ namespace PrototypeInformationSystem
         }
 
         /// <summary>
-        /// Displays all information about departments without employees
+        /// Displays information about all departments without employees.
         /// </summary>
         public void PrintAllDepartments()
         {
@@ -72,11 +79,12 @@ namespace PrototypeInformationSystem
         }
 
         /// <summary>
-        /// Displays information about all employees in all departments
+        /// Displays information about all employees in all departments.
         /// </summary>
         public void PrintAllWorker()
         {
             List<Worker> workers = new List<Worker>();
+
             foreach (var item in departments)
             {
                 foreach (var item2 in item.workers)
@@ -85,17 +93,19 @@ namespace PrototypeInformationSystem
                 }
 
             }
+            
             int id = 0;
             foreach (var item in workers)
             {
                 item.Print();
                 id++;
             }
+            
             Console.WriteLine($"\nTotal number of employees in all departments : {id}");
         }
 
         /// <summary>
-        /// Editing Departments
+        /// Edits a department's information.
         /// </summary>
         public void EditDeparts()
         {
@@ -108,13 +118,14 @@ namespace PrototypeInformationSystem
         }
 
         /// <summary>
-        /// Editing worker
+        /// Edits an employee within a department.
         /// </summary>
         public void EditEmployee()
         {
             Console.Write("Enter the number of the department in which you want to edit the employee : ");
             int i = int.Parse(Console.ReadLine());
             i--;
+
             Console.Write("Enter the number of the employee you want to edit : ");
             int j = int.Parse(Console.ReadLine());
 
@@ -124,23 +135,25 @@ namespace PrototypeInformationSystem
         }
 
         /// <summary>
-        /// Delete Department
+        /// Deletes a department.
         /// </summary>
         public void RemoveDepartment()
         {
             Console.Write("Enter the department's number you want to delete : ");
             int i = int.Parse(Console.ReadLine());
+
             departments.RemoveAt(--i);
             count--;
         }
 
         /// <summary>
-        /// Delete Worker
+        /// Deletes an employee from a department.
         /// </summary>
         public void RemoveWorker()
         {
             Console.Write("Enter the number of the department in which you want to delete the employee : ");
             int i = int.Parse(Console.ReadLine());
+
             Console.Write("Enter the number of the employee you want to delete : ");
             int j = int.Parse(Console.ReadLine());
 
@@ -148,73 +161,79 @@ namespace PrototypeInformationSystem
         }
 
         /// <summary>
-        /// Sorting employees by salary
+        /// Sorts employees in a department by salary.
         /// </summary>
         public void SortWorkerBySalary()
         {
             Console.Write("Enter the number of the department in which you want to sort employees : ");
             int i = int.Parse(Console.ReadLine());
             i--;
+
             departments[i].SortedWorkersBySalary();
         }
 
         /// <summary>
-        /// Sorting employees by Age
+        /// Sorts employees in a department by age.
         /// </summary>
         public void SortWorkerByAge()
         {
             Console.Write("Enter the number of the department in which you want to sort employees : ");
             int i = int.Parse(Console.ReadLine());
             i--;
+
             departments[i].SortedWorkersByAge();
         }
 
         /// <summary>
-        /// Sorting employees by Name
+        /// Sorts employees in a department by name.
         /// </summary>
         public void SortWorkerByName()
         {
             Console.Write("Enter the number of the department in which you want to sort employees : ");
             int i = int.Parse(Console.ReadLine());
             i--;
+
             departments[i].SortedWorkersByName();
         }
 
         /// <summary>
-        /// Sorting employees by LastName
+        /// Sorts employees in a department by last name.
         /// </summary>
         public void SortWorkerByLastName()
         {
             Console.Write("Enter the number of the department in which you want to sort employees : ");
             int i = int.Parse(Console.ReadLine());
             i--;
+
             departments[i].SortedWorkersByLastName();
         }
 
         /// <summary>
-        /// Sorting employees by Department
+        /// Sorts employees in a department by department.
         /// </summary>
         public void SortWorkerByDepartment()
         {
             Console.Write("Enter the number of the department in which you want to sort employees : ");
             int i = int.Parse(Console.ReadLine());
             i--;
+
             departments[i].SortedWorkersByDepartment();
         }
 
         /// <summary>
-        /// Sorting employees by ID
+        /// Sorts employees in a department by ID.
         /// </summary>
         public void SortWorkerByID()
         {
             Console.Write("Enter the number of the department in which you want to sort employees : ");
             int i = int.Parse(Console.ReadLine());
             i--;
+
             departments[i].SortedWorkersByID();
         }
 
         /// <summary>
-        /// Converting data in Json file
+        /// Serializes the data to a JSON file.
         /// </summary>
         public void SerializeJson()
         {
@@ -224,7 +243,7 @@ namespace PrototypeInformationSystem
         }
 
         /// <summary>
-        /// Read data from Json
+        /// Deserializes data from a JSON file.
         /// </summary>
         public void DeserializeJson()
         {

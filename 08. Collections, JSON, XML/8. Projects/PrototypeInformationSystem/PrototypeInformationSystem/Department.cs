@@ -34,12 +34,12 @@ namespace PrototypeInformationSystem
         private int count;
 
         /// <summary>
-        /// Constructor
+        /// Constructor for the Department class.
         /// </summary>
-        /// <param name="Name"></param>
-        /// <param name="Date"></param>
-        /// <param name="QuantityWorker"></param>
-        /// <param name="Count"></param>
+        /// <param name="Name">The name of the department.</param>
+        /// <param name="Date">The creation date of the department.</param>
+        /// <param name="QuantityWorker">The total quantity of workers the department can have.</param>
+        /// <param name="Count">The initial count of workers to be added to the department.</param>
         public Department(string Name, DateTime Date, int QuantityWorker, int Count)
         {
             this.Name = Name;
@@ -53,15 +53,12 @@ namespace PrototypeInformationSystem
         }
 
         /// <summary>
-        /// Constructor By default
+        /// Default constructor for the Department class.
         /// </summary>
-        public Department()
-        {
-
-        }
+        public Department() { }
 
         /// <summary>
-        /// Displays all information about the department and employees
+        /// Displays comprehensive information about the department and its employees.
         /// </summary>
         public void PrintAllInfo()
         {
@@ -76,11 +73,12 @@ namespace PrototypeInformationSystem
             {
                 item.Print();
             }
+
             Console.WriteLine();
         }
 
         /// <summary>
-        /// Displays information about all departments
+        /// Displays information about the current department.
         /// </summary>
         public void PrintDepartments()
         {
@@ -90,23 +88,25 @@ namespace PrototypeInformationSystem
         }
 
         /// <summary>
-        /// Displays all employees from all departments
+        /// Displays information about all employees from all departments.
         /// </summary>
         public void PrintAllWorkers()
         {
             Console.WriteLine($"Id{"",5} Name{"",10} LastName{"",5} Age{"",5} Department{"",5}Salary{"",5}Projects");
+
             foreach (var item in workers)
             {
                 item.Print();
             }
+
             Console.WriteLine();
         }
 
         /// <summary>
-        /// Editing the department
+        /// Edits the department details.
         /// </summary>
-        /// <param name="department"></param>
-        /// <returns></returns>
+        /// <param name="department">The department to be edited.</param>
+        /// <returns>The updated Department object.</returns>
         public static Department EditDepartment(ref Department department)
         {
             Console.WriteLine("\tOld department data");
@@ -126,14 +126,16 @@ namespace PrototypeInformationSystem
         }
 
         /// <summary>
-        /// Sorting employees by salary
+        /// Sorts employees in the department by salary.
         /// </summary>
         public void SortedWorkersBySalary()
         {
             var SortBySalary = from s in workers
                                orderby s.Salary
                                select s;
+            
             int count = 0;
+
             foreach (var item in SortBySalary)
             {
                 workers[count] = item;
@@ -142,14 +144,16 @@ namespace PrototypeInformationSystem
         }
 
         /// <summary>
-        /// Sorting employees by age
+        /// Sorts employees in the department by age
         /// </summary>
         public void SortedWorkersByAge()
         {
             var SortByAge = from s in workers
                                orderby s.Age
                                select s;
+            
             int count = 0;
+
             foreach (var item in SortByAge)
             {
                 workers[count] = item;
@@ -158,14 +162,16 @@ namespace PrototypeInformationSystem
         }
 
         /// <summary>
-        /// Sorting employees by name
+        /// Sorts employees in the department alphabetically by name.
         /// </summary>
         public void SortedWorkersByName()
         {
             var SortByName = from s in workers
                                orderby s.Name
                                select s;
+            
             int count = 0;
+            
             foreach (var item in SortByName)
             {
                 workers[count] = item;
@@ -174,14 +180,16 @@ namespace PrototypeInformationSystem
         }
 
         /// <summary>
-        /// Sorting employees by salary
+        /// Sorts employees in the department alphabetically by last name.
         /// </summary>
         public void SortedWorkersByLastName()
         {
             var SortByLastName = from s in workers
                                orderby s.LastName
                                select s;
+            
             int count = 0;
+            
             foreach (var item in SortByLastName)
             {
                 workers[count] = item;
@@ -190,14 +198,16 @@ namespace PrototypeInformationSystem
         }
 
         /// <summary>
-        /// Sorting employees by Department
+        /// Sorts employees in the department alphabetically by department name.
         /// </summary>
         public void SortedWorkersByDepartment()
         {
             var SortByDepartment = from s in workers
                                orderby s.Department
                                select s;
+            
             int count = 0;
+            
             foreach (var item in SortByDepartment)
             {
                 workers[count] = item;
@@ -206,14 +216,16 @@ namespace PrototypeInformationSystem
         }
 
         /// <summary>
-        /// Sorting employees by ID
+        /// Sorts employees in the department by their ID in ascending order.
         /// </summary>
         public void SortedWorkersByID()
         {
             var SortByID = from s in workers
-                                   orderby s.Id
-                                   select s;
+                           orderby s.Id
+                           select s;
+
             int count = 0;
+
             foreach (var item in SortByID)
             {
                 workers[count] = item;
@@ -222,23 +234,24 @@ namespace PrototypeInformationSystem
         }
 
         /// <summary>
-        /// Name
+        /// Gets or sets the name of the department.
         /// </summary>
         public string Name { get { return this.name; } set { this.name = value; } }
-        
+
         /// <summary>
-        /// Date
+        /// Gets or sets the creation date of the department.
         /// </summary>
         public DateTime Date { get { return this.date; } set { this.date = value; } }
-        
+
         /// <summary>
-        /// Quantity Worker
+        /// Gets or sets the quantity of workers in the department.
         /// </summary>
         public int QuantityWorker { get { return this.quantityWorker; } set { this.quantityWorker = value; } }
-        
+
         /// <summary>
-        /// Count
+        /// Gets or sets the count value.
         /// </summary>
         public int Count { get { return this.count; } set { this.count = value; } }
+
     }
 }

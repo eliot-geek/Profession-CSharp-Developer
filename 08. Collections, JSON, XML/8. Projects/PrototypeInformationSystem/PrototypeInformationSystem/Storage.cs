@@ -6,22 +6,25 @@ using System.Threading.Tasks;
 
 namespace PrototypeInformationSystem
 {
+    /// <summary>
+    /// Storage class responsible for managing the creation and storage of workers.
+    /// </summary>
     internal class Storage
     {
         /// <summary>
-        /// List's creation of workers
+        /// List to store workers.
         /// </summary>
         public List<Worker> workers;
-        
+
         /// <summary>
-        /// index
+        /// Index representing the count of workers.
         /// </summary>
         public int index;
 
         /// <summary>
-        /// Storage (index)
+        /// Initializes a new instance of the Storage class with the specified index.
         /// </summary>
-        /// <param name="index"></param>
+        /// <param name="index">The index representing the count of workers.</param>
         public Storage(int index)
         {
             workers = new List<Worker>();
@@ -29,10 +32,10 @@ namespace PrototypeInformationSystem
         }
 
         /// <summary>
-        /// Creating employees in the department
+        /// Creates and adds a specified number of workers to the storage.
         /// </summary>
-        /// <param name="Count"></param>
-        /// <returns></returns>
+        /// <param name="Count">The number of workers to be added.</param>
+        /// <returns>A list of created workers.</returns>
         public List<Worker> Add(int Count)
         {
             Random random = new Random();
@@ -42,11 +45,12 @@ namespace PrototypeInformationSystem
                 workers.Add(new Worker(i, $"Name_{i}", $"LastName_{i}", Count, random.Next(20, 40),
                     random.Next(5000 * 100, 10000 * 100), random.Next(3, 6)));
             }
+
             return workers;
         }
 
         /// <summary>
-        /// Displays of all employees in the department
+        /// Displays information for all employees in the department.
         /// </summary>
         public void Print()
         {

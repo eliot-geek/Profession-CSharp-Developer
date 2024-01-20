@@ -9,42 +9,42 @@ namespace PrototypeInformationSystem
     internal class Worker
     {
         /// <summary>
-        /// ID
+        /// Gets or sets the ID of the worker.
         /// </summary>
         private int id;
-        
+
         /// <summary>
-        /// Name
+        /// Gets or sets the name of the worker.
         /// </summary>
         private string name;
-        
+
         /// <summary>
-        /// LastName
+        /// Gets or sets the last name of the worker.
         /// </summary>
         private string lastName;
-        
+
         /// <summary>
-        /// Department
+        /// Gets or sets the department of the worker.
         /// </summary>
         private int department;
-        
+
         /// <summary>
-        /// Age
+        /// Gets or sets the age of the worker.
         /// </summary>
         private int age;
-        
+
         /// <summary>
-        /// Salary
+        /// Gets or sets the salary of the worker.
         /// </summary>
         private int salary;
-        
+
         /// <summary>
-        /// Project
+        /// Gets or sets the project of the worker.
         /// </summary>
         private int project;
 
         /// <summary>
-        /// By default
+        /// Default constructor for the Worker class.
         /// </summary>
         public Worker()
         {
@@ -52,15 +52,15 @@ namespace PrototypeInformationSystem
         }
 
         /// <summary>
-        /// Worker's Constructor
+        /// Constructor for the Worker class.
         /// </summary>
-        /// <param name="Id"></param>
-        /// <param name="Name"></param>
-        /// <param name="LastName"></param>
-        /// <param name="Department"></param>
-        /// <param name="Age"></param>
-        /// <param name="Salary"></param>
-        /// <param name="Project"></param>
+        /// <param name="Id">The ID of the worker.</param>
+        /// <param name="Name">The name of the worker.</param>
+        /// <param name="LastName">The last name of the worker.</param>
+        /// <param name="Department">The department of the worker.</param>
+        /// <param name="Age">The age of the worker.</param>
+        /// <param name="Salary">The salary of the worker.</param>
+        /// <param name="Project">The project of the worker.</param>
         public Worker(int Id, string Name, string LastName, int Department, int Age, int Salary, int Project)
         {
             this.Id = Id;
@@ -73,19 +73,20 @@ namespace PrototypeInformationSystem
         }
 
         /// <summary>
-        /// Print Employees
+        /// Prints information about the worker.
         /// </summary>
-        /// <param name="worker"></param>
+        /// <param name="worker">The worker to be printed.</param>
         static void PrintWorkers(Worker worker)
         {
             worker.Print();
         }
 
+
         /// <summary>
-        /// Edit Employees
+        /// Edits employee information.
         /// </summary>
-        /// <param name="worker"></param>
-        /// <returns></returns>
+        /// <param name="worker">The worker object to be edited.</param>
+        /// <returns>The updated Worker object.</returns>
         public static Worker EditWorker(ref Worker worker)
         {
             Console.WriteLine("\tOld data : ");
@@ -108,7 +109,7 @@ namespace PrototypeInformationSystem
         }
 
         /// <summary>
-        /// Print
+        /// Prints the information of the employee.
         /// </summary>
         public void Print()
         {
@@ -117,37 +118,37 @@ namespace PrototypeInformationSystem
         }
 
         /// <summary>
-        /// ID
+        /// Gets or sets the ID of the employee.
         /// </summary>
         public int Id { get { return this.id; } set { this.id = value; } }
-        
+
         /// <summary>
-        /// Name
+        /// Gets or sets the name of the employee.
         /// </summary>
         public string Name { get { return this.name; } set { this.name = value; } }
-        
+
         /// <summary>
-        /// LastName
+        /// Gets or sets the last name of the employee.
         /// </summary>
         public string LastName { get { return this.lastName; } set { this.lastName = value; } }
-        
+
         /// <summary>
-        /// Department
+        /// Gets or sets the department ID of the employee.
         /// </summary>
         public int Department { get { return this.department; } set { this.department = value; } }
-        
+
         /// <summary>
-        /// Age
+        /// Gets or sets the age of the employee.
         /// </summary>
         public int Age { get { return this.age; } set { this.age = value; } }
-        
+
         /// <summary>
-        /// Salary
+        /// Gets or sets the salary of the employee.
         /// </summary>
         public int Salary { get { return this.salary; } set { this.salary = value; } }
-        
+
         /// <summary>
-        /// Project
+        /// Gets or sets the number of projects of the employee.
         /// </summary>
         public int Project { get { return this.project; } set { this.project = value; } }
 
