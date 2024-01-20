@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Checking for Duplicates\n");
+
             HashSet<int> numbersSet = new HashSet<int>();
 
             while (true)
@@ -15,6 +16,7 @@
                 if (string.IsNullOrEmpty(input))
                     break;
 
+                // Try to parse the input as an integer (boolean)
                 if (int.TryParse(input, out int number))
                 {
                     if (Repetition.AddNumberToSet(numbersSet, number))
@@ -31,6 +33,8 @@
                     Console.WriteLine("Invalid input. Please enter a valid number.");
                 }
             }
+
+            Repetition.DisplayNumbersSet(numbersSet);
             Console.WriteLine("\nChecking for Duplicates is now closed.");
         }
     }
