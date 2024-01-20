@@ -1,6 +1,6 @@
-# Task: Organizational Structure Information System
+# Organizational Structure Information System
 
-## Task Description
+## Instructions
 Create a prototype of an information system that facilitates working with the organizational structure.  
 This structure includes departments and employees.  
 Each department can have a maximum of 1,000,000 employees. 
