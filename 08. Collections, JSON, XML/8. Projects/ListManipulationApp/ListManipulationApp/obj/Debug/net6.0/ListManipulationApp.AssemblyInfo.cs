@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ListManipulationApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01d09ae8512e71dd5a396ed955a0f4804495d857")]
 [assembly: System.Reflection.AssemblyProductAttribute("ListManipulationApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ListManipulationApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

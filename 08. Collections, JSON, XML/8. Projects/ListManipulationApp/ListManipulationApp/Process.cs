@@ -6,15 +6,12 @@ using System.Threading.Tasks;
 
 namespace ListManipulationApp
 {
-    /// <summary>
-    /// Process the list
-    /// </summary>
     internal class Process
     {
         /// <summary>
-        /// Create a list of integers and fill with random numbers 
+        /// Create a list of integers and fill it with random numbers.
         /// </summary>
-        /// <returns></returns>
+        /// <returns>The generated list of integers.</returns>
         public static List<int> CreatedList()
         {
             List<int> collection = new List<int>();
@@ -22,15 +19,15 @@ namespace ListManipulationApp
 
             for (int i = 0; i < 100; i++)
             {
-                collection.Add(random.Next(0, 100));
+                collection.Add(random.Next(0, 101));
             }
             return collection;
         }
 
         /// <summary>
-        /// Display the collection
+        /// Display the elements of the collection.
         /// </summary>
-        /// <param name="collection"></param>
+        /// <param name="collection">The list of integers to be displayed.</param>
         public static void PrintList(List<int> collection)
         {
             Console.WriteLine($"The list contains {collection.Count} integers. ");
@@ -43,11 +40,18 @@ namespace ListManipulationApp
         /// <summary>
         /// Remove from the list numbers that are greater than 25, but less than 50.
         /// </summary>
-        /// <param name="collection"></param>
+        /// <param name="collection">The list of integers to be modified.</param>
         public static void RemoveCondition(List<int> collection)
         {
             Console.WriteLine("\n\nRemove numbers greater than 25, but less than 50");
-            collection.RemoveAll(e => e > 25 && e < 50);
+            for (int i = collection.Count - 1; i >= 0; i--)
+            {
+                if (collection[i] > 25 && collection[i] < 50)
+                {
+                    collection.RemoveAt(i);
+                }
+            }
         }
+
     }
 }
