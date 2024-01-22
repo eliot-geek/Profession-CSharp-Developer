@@ -1,4 +1,4 @@
-# Task: Create a VK Bot with File Storage and Retrieval Functionality
+# Create a VK Bot with File Storage and Retrieval Functionality
 
 ## The bot should have the following set of features:
 
