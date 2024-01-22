@@ -13,10 +13,10 @@ namespace TelegramBotApp
     internal class Program
     {
         /// <summary>
-        /// Read Token File
+        /// Reads the Telegram Bot API token from the specified file path.
         /// </summary>
-        /// <param name="path"></param>
-        /// <returns></returns>
+        /// <param name="path">The path to the file containing the API token.</param>
+        /// <returns>The Telegram Bot API token as a string.</returns>
         static string ReadToken(string path)
         {
             using (StreamReader reader = new StreamReader(path, System.Text.Encoding.Default))
@@ -139,11 +139,11 @@ namespace TelegramBotApp
         }
 
         /// <summary>
-        /// Download the file 
+        /// Downloads a file from the Telegram Bot API using the provided file ID and saves it to the specified path with the given file name.
         /// </summary>
-        /// <param name="fileId"></param>
-        /// <param name="fileName"></param>
-        /// <param name="path"></param>
+        /// <param name="fileId">The unique identifier of the file to be downloaded.</param>
+        /// <param name="fileName">The desired name for the downloaded file.</param>
+        /// <param name="path">The directory path where the file will be saved.</param>
         static async void Download(string fileId, string fileName, string path)
         {
             if (!Directory.Exists(path))
@@ -159,10 +159,10 @@ namespace TelegramBotApp
         }
 
         /// <summary>
-        /// Upload
+        /// Uploads a file to the Telegram Bot API with the specified file name and chat ID.
         /// </summary>
-        /// <param name="fileName"></param>
-        /// <param name="id"></param>
+        /// <param name="fileName">The name of the file to be uploaded.</param>
+        /// <param name="id">The unique identifier of the chat to which the file will be sent.</param>
         static async void Upload(string fileName, long id)
         {
             using (FileStream filestream = System.IO.File.OpenRead(fileName))
@@ -205,12 +205,12 @@ namespace TelegramBotApp
         }
 
         /// <summary>
-        /// HandleErrorAsync method is invoked in case of an error
+        /// Invoked to handle errors asynchronously in the Telegram Bot API communication.
         /// </summary>
-        /// <param name="telegramBot"></param>
-        /// <param name="exception"></param>
-        /// <param name="cancellationToken"></param>
-        /// <returns></returns>
+        /// <param name="telegramBot">The Telegram Bot client instance.</param>
+        /// <param name="exception">The exception that occurred.</param>
+        /// <param name="cancellationToken">A cancellation token that can be used to cancel the asynchronous operation.</param>
+        /// <returns>A Task representing the asynchronous error handling operation.</returns>
         static Task HandleErrorAsync(ITelegramBotClient telegramBot, Exception exception, CancellationToken cancellationToken)
         {
             var ErrorMessage = exception switch
