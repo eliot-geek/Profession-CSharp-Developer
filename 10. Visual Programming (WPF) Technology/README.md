@@ -1,4 +1,4 @@
-# 10. Visual Programming. Basics of Windows Presentation Foundation (WPF) Technology
+# 10. Visual Programming. Windows Presentation Foundation (WPF) Technology
 
 ## 10.1 Introduction to GUI Application Development: System.Windows Library. WPF Project Structure
 - Creating a Project
