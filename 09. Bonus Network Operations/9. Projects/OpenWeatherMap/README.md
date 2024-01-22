@@ -1,4 +1,8 @@
-## Task: The task involves creating a C# program that retrieves weather information from the OpenWeatherMap API and displays the temperature in Celsius for a specified location. 
+# Open Weather Map
+
+## Instructions
+
+The task involves creating a C# program that retrieves weather information from the OpenWeatherMap API and displays the temperature in Celsius for a specified location. 
 
 The program should also be able to handle potential errors gracefully. Here are the main components of the task:
 
