@@ -71,3 +71,4 @@ Upon completing the course, students will:
 ## Career Readiness
 This course prepares students for a successful career as a C# developer. With a strong foundation in C# programming, graduates will be well-equipped to tackle real-world development challenges and contribute effectively to the software development industry.
 Invest in your future as a C# developer with *Profession C# Developer* and unlock the doors to exciting opportunities in the world of programming.
+
