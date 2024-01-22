@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mSSRuFXHiPr6kYIUeR+CjwQTjMl32/gWwH87QGqkMEY/1sH4epBU9KkGQqEtRjhqXROUc2ltFSwgdFGNw1FzjQ==",
+  "dgSpecHash": "iKGxM92YDa1kY5HxrbuW65O6Qfzp/0uWtBG0Oa2QoP3OfdC2FZXToBdooVVX5XTH3RzcW/BFPcry/2K1uzpQ2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\9. Bonus Network Operations\\9. Courses\\NetworkOperations\\Less06TelegramBot\\Less06TelegramBot.csproj",
+  "projectFilePath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\09. Bonus Network Operations\\9. Courses\\Less06TelegramBot\\Less06TelegramBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leosa\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
     "C:\\Users\\leosa\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

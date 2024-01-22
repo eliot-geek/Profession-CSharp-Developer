@@ -11,12 +11,15 @@ namespace Less00IntroductionToNetworkDownload
 
             using (HttpClient httpClient = new HttpClient())
             {
+                // Define the base URL and the specific file URL
                 string baseUrl = "https://filesamples.com/samples/document/txt/";
                 string fileUrl = baseUrl + "sample3.txt";
 
                 try
                 {
+                    // Send an asynchronous GET request to the specified file URL
                     HttpResponseMessage response = await httpClient.GetAsync(fileUrl);
+
                     if (response.IsSuccessStatusCode)
                     {
                         byte[] fileBytes = await response.Content.ReadAsByteArrayAsync();
@@ -48,16 +51,17 @@ namespace Less00IntroductionToNetworkDownload
                 Encoding = Encoding.UTF8
             };
 
-            string url = @"audio_api.mp3";
-            webClient.BaseAddress = "http://jroyce.com/sb/";
-            webClient.DownloadFile(@"http://jroyce.com/jr/audio_api.mp3", "WebClientaudio_api.mp3");
-            webClient.DownloadFile(url, "WebClientaudio_api.mp3");
-            Console.WriteLine("WebClient - Audio File Downloaded!");
-            Console.ReadLine();
             webClient.BaseAddress = "https://filesamples.com/samples/document/txt/";
             webClient.DownloadFile(@"https://filesamples.com/samples/document/txt/sample3.txt", "WebClientsample3.txt");
             Console.WriteLine("WebClient - Text File Downloaded!");
             Console.ReadLine();
+
+            //string url = @"audio_api.mp3";
+            //webClient.BaseAddress = "http://jroyce.com/sb/";
+            //webClient.DownloadFile(@"http://jroyce.com/jr/audio_api.mp3", "WebClientaudio_api.mp3");
+            //webClient.DownloadFile(url, "WebClientaudio_api.mp3");
+            //Console.WriteLine("WebClient - Audio File Downloaded!");
+            //Console.ReadLine();
 
             #endregion
 

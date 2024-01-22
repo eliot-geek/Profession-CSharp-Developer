@@ -11,7 +11,7 @@ namespace Less06TelegramBot
     {
         static async Task Main(string[] args)
         {
-            string token = System.IO.File.ReadAllText(@"C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less03TelegramBotAPI\token");
+            string token = System.IO.File.ReadAllText(@"C:\Users\leosa\Downloads\token");
 
             // Add reference Telegram.Bot package.
             // Add reference Telegram.Bot.Extensions.Polling package.
@@ -51,6 +51,7 @@ namespace Less06TelegramBot
             async Task HandleUpdateAsync(ITelegramBotClient botClient, Update update, CancellationToken cancellationToken)
             {
                 // https://core.telegram.org/bots/api#message
+
                 if (update.Type != UpdateType.Message)
                     return;
                 if (update.Message!.Type != MessageType.Text)

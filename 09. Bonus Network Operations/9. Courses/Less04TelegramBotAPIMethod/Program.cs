@@ -20,7 +20,7 @@ namespace Less04TelegramBotAPIMethod
 
         static void BackgroundBot()
         {
-            string token = File.ReadAllText(@"C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less03TelegramBotAPI\token");
+            string token = File.ReadAllText(@"C:\Users\leosa\Downloads\token");
             WebClient webClient = new WebClient() { Encoding = Encoding.UTF8 };
 
             int update_id = 0;

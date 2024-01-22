@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Less07TelegramBotPlus
-build_property.ProjectDir = C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less07TelegramBotPlus\
+build_property.ProjectDir = C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\09. Bonus Network Operations\9. Courses\Less07TelegramBotPlus\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

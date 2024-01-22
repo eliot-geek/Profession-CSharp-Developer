@@ -22,7 +22,7 @@ namespace Less03TelegramBotAPI
 
             // BotName in Telegram - Jroyce
 
-            string token = File.ReadAllText(@"C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less03TelegramBotAPI\token");
+            string token = File.ReadAllText(@"C:\Users\leosa\Downloads\token");
             WebClient webClient = new WebClient() { Encoding = Encoding.UTF8 };
 
             int update_id = 0;
@@ -60,6 +60,7 @@ namespace Less03TelegramBotAPI
                         Console.WriteLine(webClient.DownloadString(url));
                     }
                 }
+
                 Thread.Sleep(100);
             }
         }

@@ -9,7 +9,7 @@ namespace Less05TelegramBotFileCloud
 
         static void Main(string[] args)
         {
-            string token = File.ReadAllText(@"C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less03TelegramBotAPI\token");
+            string token = File.ReadAllText(@"C:\Users\leosa\Downloads\token");
 
             #region Obselete - Proxy Method
 

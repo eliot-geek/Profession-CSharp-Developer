@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\9. Bonus Network Operations\\9. Courses\\NetworkOperations\\Less05TelegramBotFileCloud\\Less05TelegramBotFileCloud.csproj": {}
+    "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\09. Bonus Network Operations\\9. Courses\\Less05TelegramBotFileCloud\\Less05TelegramBotFileCloud.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\9. Bonus Network Operations\\9. Courses\\NetworkOperations\\Less05TelegramBotFileCloud\\Less05TelegramBotFileCloud.csproj": {
+    "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\09. Bonus Network Operations\\9. Courses\\Less05TelegramBotFileCloud\\Less05TelegramBotFileCloud.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\9. Bonus Network Operations\\9. Courses\\NetworkOperations\\Less05TelegramBotFileCloud\\Less05TelegramBotFileCloud.csproj",
+        "projectUniqueName": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\09. Bonus Network Operations\\9. Courses\\Less05TelegramBotFileCloud\\Less05TelegramBotFileCloud.csproj",
         "projectName": "Less05TelegramBotFileCloud",
-        "projectPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\9. Bonus Network Operations\\9. Courses\\NetworkOperations\\Less05TelegramBotFileCloud\\Less05TelegramBotFileCloud.csproj",
+        "projectPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\09. Bonus Network Operations\\9. Courses\\Less05TelegramBotFileCloud\\Less05TelegramBotFileCloud.csproj",
         "packagesPath": "C:\\Users\\leosa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\9. Bonus Network Operations\\9. Courses\\NetworkOperations\\Less05TelegramBotFileCloud\\obj\\",
+        "outputPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\09. Bonus Network Operations\\9. Courses\\Less05TelegramBotFileCloud\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

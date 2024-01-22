@@ -13,6 +13,7 @@ namespace Less02StreamsAndFiles
                 try
                 {
                     HttpResponseMessage response = await httpClient.GetAsync("https://filesamples.com/samples/document/txt/sample3.txt");
+
                     if (response.IsSuccessStatusCode)
                     {
                         string content = await response.Content.ReadAsStringAsync();
@@ -29,6 +30,7 @@ namespace Less02StreamsAndFiles
                     Console.WriteLine($"An error occurred: {ex.Message}");
                 }
             }
+
             Console.ReadLine();
 
             #endregion
@@ -48,6 +50,7 @@ namespace Less02StreamsAndFiles
                     }
                 }
             }
+
             Console.WriteLine("\n\n\n\nYES!!\nWebClient - File download");
             Console.ReadKey();
 

@@ -9,7 +9,7 @@ namespace Less08TelegramBotId
     {
         static async Task Main(string[] args)
         {
-            string token = System.IO.File.ReadAllText(@"C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less03TelegramBotAPI\token");
+            string token = System.IO.File.ReadAllText(@"C:\Users\leosa\Downloads\token");
             var botClient = new TelegramBotClient(token);
             using var cts = new CancellationTokenSource();
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O8Ce7xQnmmo/J7Qea4pnAJEQhAKDjO1n1EXxTpxocRZatFlI+Cd+9pEdyh9448z8r+YUWmJXBlpT65Jgnqd7fg==",
+  "dgSpecHash": "UiDEigIDv01IRQbuoViBZGUYrVYFdKDIijVRR3W8gEY20q4VqXei/P42SqY3g+MlVArkh9EdprsVzdtwxD39Eg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\9. Bonus Network Operations\\9. Courses\\NetworkOperations\\Less03TelegramBotAPI\\Less03TelegramBotAPI.csproj",
+  "projectFilePath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\09. Bonus Network Operations\\9. Courses\\Less03TelegramBotAPI\\Less03TelegramBotAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leosa\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

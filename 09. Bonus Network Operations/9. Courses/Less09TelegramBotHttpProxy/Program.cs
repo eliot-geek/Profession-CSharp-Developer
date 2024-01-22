@@ -13,7 +13,7 @@ namespace Less09TelegramBotHttpProxy
             //var proxy = new HttpToSocks5Proxy("155.94.128.90", 1080); // { Timeout = TimeSpan.FromSeconds(10) };
             // https://spys.one/proxys/US/
 
-            string token = System.IO.File.ReadAllText(@"C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\9. Bonus Network Operations\9. Courses\NetworkOperations\Less03TelegramBotAPI\token");
+            string token = System.IO.File.ReadAllText(@"C:\Users\leosa\Downloads\token");
             botClient = new TelegramBotClient(token);
 
             var webProxy = new WebProxy(Host: "https://example.org/", Port: 8080)

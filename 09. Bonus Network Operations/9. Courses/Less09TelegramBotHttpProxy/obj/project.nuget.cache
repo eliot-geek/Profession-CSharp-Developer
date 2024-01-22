@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+Yqoe6/dvD7ytF0RndzUgMrab3Xkobb86UIvPoBk0gl0XVCLfU12TR4DaNi+9eCmIkknyLPIWN0rR7J5gBbaVg==",
+  "dgSpecHash": "pXGpn8SE8EbhvfNbURDnv546H09U5v0j3iQuGYIzw9UqODCTBIv00NBanooACFglKi1gxDM1vpWZTdqDjS6gdQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\9. Bonus Network Operations\\9. Courses\\NetworkOperations\\Less09TelegramBotHttpProxy\\Less09TelegramBotHttpProxy.csproj",
+  "projectFilePath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\09. Bonus Network Operations\\9. Courses\\Less09TelegramBotHttpProxy\\Less09TelegramBotHttpProxy.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leosa\\.nuget\\packages\\httptosocks5proxy\\1.4.0\\httptosocks5proxy.1.4.0.nupkg.sha512",
     "C:\\Users\\leosa\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
