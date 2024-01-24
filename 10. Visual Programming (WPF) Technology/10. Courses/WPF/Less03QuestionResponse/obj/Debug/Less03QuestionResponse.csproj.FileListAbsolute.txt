@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\WPF\Less03QuestionResponse\bin\Debug\Less03QuestionResponse.exe.config
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\WPF\Less03QuestionResponse\bin\Debug\Less03QuestionResponse.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\WPF\Less03QuestionResponse\bin\Debug\Less03QuestionResponse.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\WPF\Less03QuestionResponse\obj\Debug\Less03QuestionResponse.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\WPF\Less03QuestionResponse\obj\Debug\MainWindow.g.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\WPF\Less03QuestionResponse\obj\Debug\App.g.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\WPF\Less03QuestionResponse\obj\Debug\Less03QuestionResponse_MarkupCompile.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\WPF\Less03QuestionResponse\obj\Debug\Less03QuestionResponse_MarkupCompile.lref
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\WPF\Less03QuestionResponse\obj\Debug\MainWindow.baml
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\WPF\Less03QuestionResponse\obj\Debug\Less03QuestionResponse.g.resources
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\WPF\Less03QuestionResponse\obj\Debug\Less03QuestionResponse.Properties.Resources.resources
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\WPF\Less03QuestionResponse\obj\Debug\Less03QuestionResponse.csproj.GenerateResource.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\WPF\Less03QuestionResponse\obj\Debug\Less03QuestionResponse.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\WPF\Less03QuestionResponse\obj\Debug\Less03QuestionResponse.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\WPF\Less03QuestionResponse\obj\Debug\Less03QuestionResponse.pdb

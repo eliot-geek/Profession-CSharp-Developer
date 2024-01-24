@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\WPF\WPF\obj\Debug\WPF.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\WPF\WPF\obj\Debug\MainWindow.g.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\WPF\WPF\obj\Debug\App.g.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\WPF\WPF\obj\Debug\WPF_MarkupCompile.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\WPF\WPF\obj\Debug\WPF_MarkupCompile.lref
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\WPF\WPF\bin\Debug\WPF.exe.config
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\WPF\WPF\bin\Debug\WPF.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\WPF\WPF\bin\Debug\WPF.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\WPF\WPF\obj\Debug\MainWindow.baml
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\WPF\WPF\obj\Debug\WPF.g.resources
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\WPF\WPF\obj\Debug\WPF.Properties.Resources.resources
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\WPF\WPF\obj\Debug\WPF.csproj.GenerateResource.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\WPF\WPF\obj\Debug\WPF.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\WPF\WPF\obj\Debug\WPF.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\WPF\WPF\obj\Debug\WPF.pdb
