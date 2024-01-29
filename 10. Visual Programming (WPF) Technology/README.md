@@ -50,13 +50,13 @@
 - Creating Multiple Windows within a Project
 - Exploring the StackPanel Container
 
-![WPF](images/wpf11.png)
-
 ![WPF](images/wpf12.png)
+
+![WPF](images/wpf13.png)
 
 - Exploring the Canvas Container
 
-![WPF](images/wpf13.png)
+![WPF](images/wpf11.png)
 
 - Exploring the GridSplitter Container
 
