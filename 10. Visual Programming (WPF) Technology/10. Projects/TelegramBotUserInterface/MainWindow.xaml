@@ -1,0 +1,199 @@
+﻿<Window x:Class="TelegramBotUserInterface.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TelegramBotUserInterface"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" MinHeight="450" Width="800" MinWidth="800">
+    <Window.Resources>
+        <LinearGradientBrush StartPoint="0,0" EndPoint="1,0" x:Key="ChatBackGround">
+            <GradientStop Offset="0" Color="DeepSkyBlue"/>
+            <GradientStop Offset="0.5" Color="MediumSpringGreen"/>
+            <GradientStop Offset="1" Color="Aquamarine"/>
+        </LinearGradientBrush>
+        <Style TargetType="Border" x:Key="TelegramChat">
+            <Style.Triggers>
+                <DataTrigger Binding="{Binding Path=IsBotMsg}" Value="True">
+                    <Setter Property="Background" Value="Aqua"></Setter>
+                    <Setter Property="HorizontalAlignment" Value="Right"></Setter>
+                </DataTrigger>
+                <DataTrigger Binding="{Binding Path=IsBotMsg}" Value="False">
+                    <Setter Property="Background" Value="AliceBlue"></Setter>
+                    <Setter Property="HorizontalAlignment" Value="Left"></Setter>
+                </DataTrigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+
+    <Grid ShowGridLines="False">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="70*"></RowDefinition>
+            <RowDefinition Height="30*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="30*"></ColumnDefinition>
+            <ColumnDefinition Width="Auto"></ColumnDefinition>
+            <ColumnDefinition Width="70*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <ListBox x:Name="UserList"
+                 Grid.Column="0"
+                 Grid.RowSpan="2"
+                 HorizontalAlignment="Stretch"
+                 VerticalAlignment="Stretch"
+                 HorizontalContentAlignment="Stretch"
+                 Margin="5"
+                 >
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Border BorderBrush="Black" Margin="5" BorderThickness="1" CornerRadius="10" >
+                        <StackPanel Margin="5" >
+                            <DockPanel>
+                                <TextBlock DockPanel.Dock="Left" Text="{Binding Path=Name}" FontSize="20" Foreground="Black" TextAlignment="Left" />
+                                <StackPanel DockPanel.Dock="Right" HorizontalAlignment="Right">
+                                    <Grid HorizontalAlignment="Right">
+                                        <Rectangle Fill="LightGray" 
+                                                   RadiusX="10" 
+                                                   RadiusY="10"
+                                                   MinWidth="20"
+                                                   />
+                                        <TextBlock Text="{Binding Path=MessageCount, UpdateSourceTrigger=PropertyChanged}" 
+                                                   FontSize="20" 
+                                                   Foreground="Black" 
+                                                   HorizontalAlignment="Center" 
+                                                   VerticalAlignment="Center" 
+                                                   />
+                                    </Grid>
+                                </StackPanel>
+                            </DockPanel>
+                            <StackPanel Orientation="Horizontal" >
+                                <TextBlock Text="{Binding Path=LastMessage, UpdateSourceTrigger=PropertyChanged}" FontSize="10" Foreground="Gray" TextAlignment="Left"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" >
+                                <TextBlock Text="{Binding Path=Nick, UpdateSourceTrigger=PropertyChanged}" FontSize="10" Foreground="Gray" TextAlignment="Right" Visibility="Visible"/>
+                            </StackPanel>
+                        </StackPanel>
+                    </Border>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <StackPanel>
+            <Button>
+
+            </Button>
+        </StackPanel>
+
+        <GridSplitter Grid.Column="1"
+                      Grid.RowSpan="2"
+                      HorizontalAlignment="Stretch"
+                      VerticalAlignment="Stretch"
+                      Background="Black"
+                      Opacity="0"
+                      Width="3">
+
+        </GridSplitter>
+
+        <ListBox x:Name="LogList"
+                 Grid.Column="2"
+                 Grid.Row="0"
+                 HorizontalAlignment="Stretch"
+                 VerticalAlignment="Stretch"
+                 HorizontalContentAlignment="Stretch"
+                 Margin="5,7,4.6,3.4"
+                 Background="{StaticResource ChatBackGround}"
+                 ItemsSource="{Binding ElementName=UserList, Path=SelectedItem.Messages}">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Border Style="{StaticResource TelegramChat}" 
+                            BorderBrush="Black" 
+                            Margin="5" 
+                            BorderThickness="1" 
+                            CornerRadius="10" >
+                        <StackPanel Margin="10" HorizontalAlignment="Right" >
+                            <TextBlock Text="{Binding Path=Name}" Margin="0" FontSize="10"/>
+                            <TextBlock Text="{Binding Path=Text}" Margin="0" FontSize="20"/>
+                            <TextBlock Text="{Binding Path=Time}" Margin="0" FontSize="10" Foreground="Gray" TextAlignment="Right"/>
+                            <TextBlock Text="{Binding Path=IsBotMsg}" Margin="0" FontSize="10" Foreground="Gray" Visibility="Collapsed"/>
+                        </StackPanel>
+                    </Border>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+        <GroupBox Grid.Column="2" 
+                  Grid.Row="1" 
+                  FontSize="20" 
+                  Header="Write here your message" 
+                  HorizontalAlignment="Stretch"
+                  VerticalAlignment="Stretch"
+                  Margin="5">
+            <StackPanel>
+                <TextBox x:Name="txtMsgSend" 
+                         FontSize="15" 
+                         Margin="3,1"/>
+                <Button x:Name="btnMsgSend" 
+                        FontSize="15" 
+                        Content="Send" 
+                        Margin="3,1"
+                        Click="btnMsgSendClick"/>
+                <Button x:Name="SaveHistory" 
+                        Content="Save all messages" 
+                        FontSize="15" 
+                        Click="SaveHistory_Click" 
+                        VerticalContentAlignment="Center" 
+                        Margin="3,1"
+                    />
+            </StackPanel>
+        </GroupBox>
+    </Grid>
+</Window>
+
+<!--<Window x:Class="Example_1042.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Example_1042"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid ShowGridLines="True">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <ListBox x:Name="logList" 
+                 Grid.Column="0"
+                 HorizontalAlignment="Stretch" 
+                 Margin="5" 
+                 VerticalAlignment="Stretch" 
+                 >
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Border BorderBrush="Black" Margin="5" BorderThickness="1" CornerRadius="10">
+                        <StackPanel Margin="10">
+                            <TextBlock Text="{Binding FirstName}" Margin="0" FontSize="15"/>
+                            <TextBlock Text="{Binding Msg}" Margin="0" FontSize="20"/>
+                            <TextBlock Text="{Binding Time}" Margin="10 0" FontSize="10" Foreground="Gray" TextAlignment="Right"/>
+                        </StackPanel>
+                    </Border>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+        <GroupBox Grid.Column="1" 
+                  FontSize="20"
+                  Header="Отправка сообщения"
+                  HorizontalAlignment="Stretch" 
+                  Margin="5"
+                  VerticalAlignment="Stretch" 
+                  >
+            <StackPanel>
+                <TextBlock x:Name="TargetSend" Text="{Binding ElementName=logList, Path=SelectedItem.Id}" FontSize="20" Margin="5"/>
+                <TextBox x:Name="txtMsgSend" FontSize="20" Margin="5"/>
+                <Button x:Name="btnMsgSend" FontSize="20" Content="Отправить" Margin="5" Click="btnMsgSendClick"/>
+            </StackPanel>
+        </GroupBox>
+    </Grid>
+</Window>-->

@@ -1,0 +1,77 @@
+D:\ Work\SkillBox\CodeSource\Theme_10\Example_1042\bin\Debug\Example_1042.exe.config
+D:\ Work\SkillBox\CodeSource\Theme_10\Example_1042\bin\Debug\Example_1042.exe
+D:\ Work\SkillBox\CodeSource\Theme_10\Example_1042\bin\Debug\Example_1042.pdb
+D:\ Work\SkillBox\CodeSource\Theme_10\Example_1042\bin\Debug\Newtonsoft.Json.dll
+D:\ Work\SkillBox\CodeSource\Theme_10\Example_1042\bin\Debug\Telegram.Bot.dll
+D:\ Work\SkillBox\CodeSource\Theme_10\Example_1042\bin\Debug\Newtonsoft.Json.xml
+D:\ Work\SkillBox\CodeSource\Theme_10\Example_1042\bin\Debug\Telegram.Bot.xml
+D:\ Work\SkillBox\CodeSource\Theme_10\Example_1042\obj\Debug\Example_1042.csprojAssemblyReference.cache
+D:\ Work\SkillBox\CodeSource\Theme_10\Example_1042\obj\Debug\MainWindow.g.cs
+D:\ Work\SkillBox\CodeSource\Theme_10\Example_1042\obj\Debug\App.g.cs
+D:\ Work\SkillBox\CodeSource\Theme_10\Example_1042\obj\Debug\Example_1042_MarkupCompile.cache
+D:\ Work\SkillBox\CodeSource\Theme_10\Example_1042\obj\Debug\Example_1042_MarkupCompile.lref
+D:\ Work\SkillBox\CodeSource\Theme_10\Example_1042\obj\Debug\MainWindow.baml
+D:\ Work\SkillBox\CodeSource\Theme_10\Example_1042\obj\Debug\Example_1042.g.resources
+D:\ Work\SkillBox\CodeSource\Theme_10\Example_1042\obj\Debug\Example_1042.Properties.Resources.resources
+D:\ Work\SkillBox\CodeSource\Theme_10\Example_1042\obj\Debug\Example_1042.csproj.GenerateResource.cache
+D:\ Work\SkillBox\CodeSource\Theme_10\Example_1042\obj\Debug\Example_1042.csproj.CoreCompileInputs.cache
+D:\ Work\SkillBox\CodeSource\Theme_10\Example_1042\obj\Debug\Example_1042.csproj.CopyComplete
+D:\ Work\SkillBox\CodeSource\Theme_10\Example_1042\obj\Debug\Example_1042.exe
+D:\ Work\SkillBox\CodeSource\Theme_10\Example_1042\obj\Debug\Example_1042.pdb
+C:\Skillbox2\10. Визуальное программирование. Основы технологии Windows Presentation Foundation\10. Визуальное программирование. Основы технологии Windows Presentation Foundation\Theme_10\Example_1042\obj\Debug\Example_1042.csproj.AssemblyReference.cache
+C:\Skillbox2\10. Визуальное программирование. Основы технологии Windows Presentation Foundation\10. Визуальное программирование. Основы технологии Windows Presentation Foundation\Theme_10\Example_1042\obj\Debug\MainWindow.g.cs
+C:\Skillbox2\10. Визуальное программирование. Основы технологии Windows Presentation Foundation\10. Визуальное программирование. Основы технологии Windows Presentation Foundation\Theme_10\Example_1042\obj\Debug\App.g.cs
+C:\Skillbox2\10. Визуальное программирование. Основы технологии Windows Presentation Foundation\10. Визуальное программирование. Основы технологии Windows Presentation Foundation\Theme_10\Example_1042\obj\Debug\Example_1042_MarkupCompile.cache
+C:\Skillbox2\10. Визуальное программирование. Основы технологии Windows Presentation Foundation\10. Визуальное программирование. Основы технологии Windows Presentation Foundation\Theme_10\Example_1042\obj\Debug\Example_1042_MarkupCompile.lref
+C:\Skillbox2\10. Визуальное программирование. Основы технологии Windows Presentation Foundation\10. Визуальное программирование. Основы технологии Windows Presentation Foundation\Theme_10\Example_1042\obj\Debug\MainWindow.baml
+C:\Skillbox2\10. Визуальное программирование. Основы технологии Windows Presentation Foundation\10. Визуальное программирование. Основы технологии Windows Presentation Foundation\Theme_10\Example_1042\obj\Debug\Example_1042.g.resources
+C:\Skillbox2\10. Визуальное программирование. Основы технологии Windows Presentation Foundation\10. Визуальное программирование. Основы технологии Windows Presentation Foundation\Theme_10\Example_1042\obj\Debug\Example_1042.Properties.Resources.resources
+C:\Skillbox2\10. Визуальное программирование. Основы технологии Windows Presentation Foundation\10. Визуальное программирование. Основы технологии Windows Presentation Foundation\Theme_10\Example_1042\obj\Debug\Example_1042.csproj.GenerateResource.cache
+C:\Skillbox2\10. Визуальное программирование. Основы технологии Windows Presentation Foundation\10. Визуальное программирование. Основы технологии Windows Presentation Foundation\Theme_10\Example_1042\obj\Debug\Example_1042.csproj.CoreCompileInputs.cache
+C:\Skillbox2\10. Визуальное программирование. Основы технологии Windows Presentation Foundation\10. Визуальное программирование. Основы технологии Windows Presentation Foundation\Theme_10\Example_1042\obj\Debug\Example_1042.pdb
+C:\Example_1042\bin\Debug\Example_1042.exe.config
+C:\Example_1042\bin\Debug\Example_1042.exe
+C:\Example_1042\bin\Debug\Example_1042.pdb
+C:\Example_1042\bin\Debug\Newtonsoft.Json.xml
+C:\Example_1042\bin\Debug\Telegram.Bot.xml
+C:\Example_1042\obj\Debug\Example_1042.csproj.AssemblyReference.cache
+C:\Example_1042\obj\Debug\MainWindow.g.cs
+C:\Example_1042\obj\Debug\App.g.cs
+C:\Example_1042\obj\Debug\Example_1042_MarkupCompile.cache
+C:\Example_1042\obj\Debug\Example_1042_MarkupCompile.lref
+C:\Example_1042\obj\Debug\MainWindow.baml
+C:\Example_1042\obj\Debug\Example_1042.g.resources
+C:\Example_1042\obj\Debug\Example_1042.Properties.Resources.resources
+C:\Example_1042\obj\Debug\Example_1042.csproj.GenerateResource.cache
+C:\Example_1042\obj\Debug\Example_1042.csproj.CoreCompileInputs.cache
+C:\Example_1042\obj\Debug\Example_1042.csproj.CopyComplete
+C:\Example_1042\obj\Debug\Example_1042.exe
+C:\Example_1042\obj\Debug\Example_1042.pdb
+C:\Example_1042\bin\Debug\Telegram.Bot.dll
+C:\Example_1042\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Example_1042\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Example_1042\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Example_1042\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\10. Windows Presentation Foundation\My_Self_10\SkillWorkHome10\bin\Debug\Example_1042.exe.config
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\10. Windows Presentation Foundation\My_Self_10\SkillWorkHome10\bin\Debug\Example_1042.exe
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\10. Windows Presentation Foundation\My_Self_10\SkillWorkHome10\bin\Debug\Example_1042.pdb
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\10. Windows Presentation Foundation\My_Self_10\SkillWorkHome10\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\10. Windows Presentation Foundation\My_Self_10\SkillWorkHome10\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\10. Windows Presentation Foundation\My_Self_10\SkillWorkHome10\bin\Debug\Telegram.Bot.dll
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\10. Windows Presentation Foundation\My_Self_10\SkillWorkHome10\bin\Debug\Newtonsoft.Json.xml
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\10. Windows Presentation Foundation\My_Self_10\SkillWorkHome10\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\10. Windows Presentation Foundation\My_Self_10\SkillWorkHome10\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\10. Windows Presentation Foundation\My_Self_10\SkillWorkHome10\bin\Debug\Telegram.Bot.xml
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\10. Windows Presentation Foundation\My_Self_10\SkillWorkHome10\obj\Debug\Example_1042.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\10. Windows Presentation Foundation\My_Self_10\SkillWorkHome10\obj\Debug\MainWindow.g.cs
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\10. Windows Presentation Foundation\My_Self_10\SkillWorkHome10\obj\Debug\App.g.cs
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\10. Windows Presentation Foundation\My_Self_10\SkillWorkHome10\obj\Debug\Example_1042_MarkupCompile.cache
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\10. Windows Presentation Foundation\My_Self_10\SkillWorkHome10\obj\Debug\Example_1042_MarkupCompile.lref
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\10. Windows Presentation Foundation\My_Self_10\SkillWorkHome10\obj\Debug\MainWindow.baml
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\10. Windows Presentation Foundation\My_Self_10\SkillWorkHome10\obj\Debug\Example_1042.g.resources
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\10. Windows Presentation Foundation\My_Self_10\SkillWorkHome10\obj\Debug\Example_1042.Properties.Resources.resources
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\10. Windows Presentation Foundation\My_Self_10\SkillWorkHome10\obj\Debug\Example_1042.csproj.GenerateResource.cache
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\10. Windows Presentation Foundation\My_Self_10\SkillWorkHome10\obj\Debug\Example_1042.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\10. Windows Presentation Foundation\My_Self_10\SkillWorkHome10\obj\Debug\Example_1042.csproj.CopyComplete
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\10. Windows Presentation Foundation\My_Self_10\SkillWorkHome10\obj\Debug\Example_1042.exe
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\10. Windows Presentation Foundation\My_Self_10\SkillWorkHome10\obj\Debug\Example_1042.pdb
