@@ -1,0 +1,50 @@
+﻿<Window x:Class="Less04CanvasGridSplitterStackPanel.WindowGrid"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Less04CanvasGridSplitterStackPanel"
+        mc:Ignorable="d"
+        Title="WindowGrid" Height="350" Width="600">
+    <Grid ShowGridLines="True">
+        <!-- Row Definitions -->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <!-- Row 0 with fixed height of 50 units -->
+            <RowDefinition Height="*"/>
+            <!-- Row 1 with dynamic height based on available space -->
+            <RowDefinition Height="*"/>
+            <!-- Row 2 with dynamic height based on available space -->
+            <RowDefinition Height="*"/>
+            <!-- Row 3 with dynamic height based on available space -->
+        </Grid.RowDefinitions>
+
+        <!-- Column Definitions -->
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="50"/>
+            <!-- Column 0 with fixed width of 50 units -->
+            <ColumnDefinition Width="*"/>
+            <!-- Column 1 with dynamic width based on available space -->
+            <ColumnDefinition Width="*"/>
+            <!-- Column 2 with dynamic width based on available space -->
+            <ColumnDefinition Width="*"/>
+            <!-- Column 3 with dynamic width based on available space -->
+        </Grid.ColumnDefinitions>
+
+        <!-- Button in Column 3, Row 1 -->
+        <Button Grid.Column="3"
+            Grid.Row="1"
+            Margin="5,10,15,5"
+            FontSize="30"
+            Content="Button 1"
+            />
+
+        <!-- Button in Column 2, Row 1 -->
+        <Button Grid.Column="2"
+            Grid.Row="1"
+            Margin="5"
+            FontSize="30"
+            Content="Button 2"
+            />
+    </Grid>
+</Window>
