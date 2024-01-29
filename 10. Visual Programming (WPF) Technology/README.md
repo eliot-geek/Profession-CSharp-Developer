@@ -43,16 +43,33 @@
 - Exploring the Grid Component
 - Example of Automatic Grid Creation
 - Example of Manual Grid Creation
+
+![WPF](images/wpf10.png)
+
 - Exploring the Button Element
 - Creating Multiple Windows within a Project
 - Exploring the StackPanel Container
+
+![WPF](images/wpf11.png)
+
+![WPF](images/wpf12.png)
+
 - Exploring the Canvas Container
+
+![WPF](images/wpf13.png)
+
 - Exploring the GridSplitter Container
+
+![WPF](images/wpf14.png)
+
 - Exploring the TextBlock Component
 - Exploring the Label Component
 - Exploring the Padding Component
 - Exploring the RadioButton Component
 - Exploring the TextBox and Slider Components
+
+![WPF](images/wpf14.png)
+
 - Conclusion
 
 > What is Binding?
