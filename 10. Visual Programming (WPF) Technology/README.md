@@ -68,7 +68,7 @@
 - Exploring the RadioButton Component
 - Exploring the TextBox and Slider Components
 
-![WPF](images/wpf14.png)
+![WPF](images/wpf15.png)
 
 - Conclusion
 
