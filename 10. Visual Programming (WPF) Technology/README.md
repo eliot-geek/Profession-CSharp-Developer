@@ -78,17 +78,36 @@
 
 ## 10.3 Application Resources
 - Example 1: Displaying an Image in the Application
+
+![WPF](images/wpf16.png)
+
 - Implementation of Tab Switching
+
+![WPF](images/wpf17.png)
+
+![WPF](images/wpf18.png)
+
 - Description of Resources at the Application Level
 - Example 2: Specifying a Set of Components
 - Example 3: Applications with Navigation
+
+![WPF](images/wpf19.png)
+
+![WPF](images/wpf20.png)
+
 - Exploring Grid and Button
 - Exploring Frame
 - Consequences of Skipping Page
+
+![WPF](images/wpf21.png)
+
 - Example 4: Dynamically Changing Data
 - Specifying Display Templates
 - Implementation of Display Variant in Margin
 - Data Formatting
+
+![WPF](images/wpf22.png)
+
 - Conclusion
 
 ## 10.4 Accelerated Development of Windows Applications with GUI
