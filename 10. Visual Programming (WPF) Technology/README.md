@@ -15,6 +15,17 @@
 - Example 4: Event Handling
 - Conclusion
 
+![WPF](images/wpf00.png)
+![WPF](images/wpf01.png)
+![WPF](images/wpf02.png)
+![WPF](images/wpf03.png)
+![WPF](images/wpf04.png)
+![WPF](images/wpf05.png)
+![WPF](images/wpf06.png)
+![WPF](images/wpf07.png)
+![WPF](images/wpf08.png)
+![WPF](images/wpf09.png)
+
 ## 10.2 Basic Components of WPF
 - Example Analysis
 - Exploring the Grid Component
