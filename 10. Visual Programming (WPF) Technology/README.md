@@ -5,9 +5,15 @@
 - Project Components
 - Interaction Logic for MainWindow.xaml
 - Exploring the Main Window Component
+![WPF](images/wpf00.png)
+
 - Importing Namespace
 - Window Properties and Events
 - Locating Button Events
+![WPF](images/wpf01.png)
+
+![WPF](images/wpf02.png)
+
 - Events for Multi-Touch and Touch Screens
 - Example 1: Event Handling
 - Example 2: Event Handling
@@ -15,9 +21,6 @@
 - Example 4: Event Handling
 - Conclusion
 
-![WPF](images/wpf00.png)
-![WPF](images/wpf01.png)
-![WPF](images/wpf02.png)
 ![WPF](images/wpf03.png)
 ![WPF](images/wpf04.png)
 ![WPF](images/wpf05.png)
