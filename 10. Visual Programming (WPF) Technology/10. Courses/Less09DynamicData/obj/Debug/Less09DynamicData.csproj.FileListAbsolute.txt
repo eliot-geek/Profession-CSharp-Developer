@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\Less09DynamicData\obj\Debug\Less09DynamicData.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\Less09DynamicData\obj\Debug\MainWindow.g.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\Less09DynamicData\obj\Debug\App.g.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\Less09DynamicData\obj\Debug\Less09DynamicData_MarkupCompile.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\Less09DynamicData\obj\Debug\Less09DynamicData_MarkupCompile.lref
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\Less09DynamicData\bin\Debug\Less09DynamicData.exe.config
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\Less09DynamicData\bin\Debug\Less09DynamicData.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\Less09DynamicData\bin\Debug\Less09DynamicData.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\Less09DynamicData\obj\Debug\MainWindow.baml
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\Less09DynamicData\obj\Debug\Less09DynamicData.g.resources
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\Less09DynamicData\obj\Debug\Less09DynamicData.Properties.Resources.resources
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\Less09DynamicData\obj\Debug\Less09DynamicData.csproj.GenerateResource.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\Less09DynamicData\obj\Debug\Less09DynamicData.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\Less09DynamicData\obj\Debug\Less09DynamicData.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\Less09DynamicData\obj\Debug\Less09DynamicData.pdb

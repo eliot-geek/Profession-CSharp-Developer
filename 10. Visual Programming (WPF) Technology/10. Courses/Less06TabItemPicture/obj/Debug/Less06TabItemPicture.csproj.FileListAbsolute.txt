@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\Less06TabItemPicture\bin\Debug\Less06TabItemPicture.exe.config
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\Less06TabItemPicture\bin\Debug\Less06TabItemPicture.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\Less06TabItemPicture\bin\Debug\Less06TabItemPicture.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\Less06TabItemPicture\obj\Debug\Less06TabItemPicture.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\Less06TabItemPicture\obj\Debug\MainWindow.g.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\Less06TabItemPicture\obj\Debug\App.g.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\Less06TabItemPicture\obj\Debug\Less06TabItemPicture_MarkupCompile.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\Less06TabItemPicture\obj\Debug\Less06TabItemPicture_MarkupCompile.lref
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\Less06TabItemPicture\obj\Debug\MainWindow.baml
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\Less06TabItemPicture\obj\Debug\Less06TabItemPicture.g.resources
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\Less06TabItemPicture\obj\Debug\Less06TabItemPicture.Properties.Resources.resources
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\Less06TabItemPicture\obj\Debug\Less06TabItemPicture.csproj.GenerateResource.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\Less06TabItemPicture\obj\Debug\Less06TabItemPicture.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\Less06TabItemPicture\obj\Debug\Less06TabItemPicture.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\10. Visual Programming (WPF) Technology\10. Courses\Less06TabItemPicture\obj\Debug\Less06TabItemPicture.pdb
