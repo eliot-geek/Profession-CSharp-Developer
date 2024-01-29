@@ -117,9 +117,15 @@
 - Example 2: Analyzing the Structure of MessageLog
 - Analyzing the Structure of TelegramBotClient Class
 - Exploring ListBox, GroupBox, and StackPanel Components
+
+![WPF](images/wpf23.png)
+
 - Analyzing ObservedCollection Collection
 - Analyzing MessageLog Instance
 - Retrieving Selected Item
 - Analyzing the Code Structure of TelegramMessageClient
+
+![WPF](images/wpf24.png)
+
 - Demonstration of the Snoop Program
 - Conclusion
