@@ -5,11 +5,13 @@
 - Project Components
 - Interaction Logic for MainWindow.xaml
 - Exploring the Main Window Component
+
 ![WPF](images/wpf00.png)
 
 - Importing Namespace
 - Window Properties and Events
 - Locating Button Events
+
 ![WPF](images/wpf01.png)
 
 ![WPF](images/wpf02.png)
@@ -19,15 +21,22 @@
 - Example 2: Event Handling
 - Example 3: Event Handling
 - Example 4: Event Handling
-- Conclusion
 
 ![WPF](images/wpf03.png)
+
 ![WPF](images/wpf04.png)
+
 ![WPF](images/wpf05.png)
+
 ![WPF](images/wpf06.png)
+
 ![WPF](images/wpf07.png)
+
 ![WPF](images/wpf08.png)
+
 ![WPF](images/wpf09.png)
+
+- Conclusion
 
 ## 10.2 Basic Components of WPF
 - Example Analysis
