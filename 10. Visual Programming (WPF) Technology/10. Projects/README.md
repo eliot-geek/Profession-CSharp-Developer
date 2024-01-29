@@ -22,4 +22,4 @@
 - Create a WPF UI for the bot, allowing users to interact with the bot visually.
 - Implement the functionality to save the history of messages received by the bot in a JSON file.
 
-![WPF](images/wpf25.png)
+![WPF](../images/wpf25.png)
