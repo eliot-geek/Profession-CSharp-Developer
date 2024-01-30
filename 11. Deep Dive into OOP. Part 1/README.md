@@ -1,7 +1,7 @@
 # 11. Deep Dive into OOP. Part 1
 
-## 11.1 OOP Terminology: Class, Structure, Interface, Inheritance
-### Object-Oriented Programming (OOP): Understanding Terminology, Classes, Structures, Interfaces, and the Pillars of OOP
+## 11.1 Object-Oriented Programming Terminology: Class, Structure, Interface, Inheritance
+### Object-Oriented Programming (OOP): Understanding Terminology, Classes, Structures, Interfaces
 #### Ideological Foundations of Object-Oriented Programming
 - Abstraction
 - Encapsulation
