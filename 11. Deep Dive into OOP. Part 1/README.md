@@ -4,50 +4,50 @@
 
 ### Object-Oriented Programming (OOP): Understanding Terminology, Classes, Structures, Interfaces
 
-#### Ideological Foundations of Object-Oriented Programming
+### Ideological Foundations of Object-Oriented Programming
 - Abstraction
 - Encapsulation
 - Inheritance
 - Polymorphism
 
-#### Class in Object-Oriented Programming
+### Class in Object-Oriented Programming
 - Blueprint for creating objects
 - Describes structure and algorithms
 
-#### Object (Instance of a Class)
+### Object (Instance of a Class)
 - Entity in the digital space
 - Possesses state and behavior
 - Has fields and methods
   
-#### Attributes in Object-Oriented Programming
+### Attributes in Object-Oriented Programming
 - Data members
 - Instance variables
 
-#### Attributes (Variable-Member, Data Member, Class Field, Instance Variable) in OOP
+### Attributes (Variable-Member, Data Member, Class Field, Instance Variable) in OOP
 - Represent the state of an object
 - Also known as data members or instance variables
 
-#### Interfaces
+### Interfaces
 - Data types without implementation
 - Inherited by classes for method implementation
 
-#### Why Interfaces are Necessary
+### Why Interfaces are Necessary
 - Define a type with attributes and methods
 - Enable multiple inheritance
 
-#### Inheritance of Interfaces
+### Inheritance of Interfaces
 - A mechanism in OOP languages
 - Allows a class to inherit multiple interfaces
 
-#### Abstract Classes
+### Abstract Classes
 - Classes without implementation for one or more methods
 
-#### Advantages of Object-Oriented Programming
+### Advantages of Object-Oriented Programming
 - Modularity
 - Flexibility
 - Time Savings
 
-#### Disadvantages of Object-Oriented Programming
+### Disadvantages of Object-Oriented Programming
 - Steep Learning Curve
 - Performance Impact
 - Increased Code Size
@@ -71,9 +71,38 @@
 
 
 ## 11.3 Encapsulation, Properties, Constructors
+- Analysis of the first example in ILDASM
+- Analysis of the second example of encapsulation: structure
+- Analysis of creating instances of classes
+- Why the damage and health system is poorly described
+- How to rewrite the healing logic
+- How to rewrite the attack method logic
+- Problem of creating heroes with the same names
+- How to describe logic to eliminate the problem
+- Other applications of encapsulation
+- Conclusion
 
 
 ## 11.4 Encapsulation or Hiding?
+### Concept of Encapsulation
+- Encapsulation
+
+- **Public**: Accessible from anywhere.
+- **Private**: Accessible only within the defining class.
+- **Protected**: Accessible within the defining class and its subclasses.
+- **Internal**: Accessible within the same assembly.
+- **Protected Internal**: Accessible within the same assembly and its subclasses.
+- **Private Protected**: Accessible within the same assembly and its subclasses, but only if they are in the same namespace.
+
+- Explicit Use of Access Modifiers (involves specifying the access modifier directly)
+- Implicit Use of Access Modifiers (relies on the default access level)
+
+- Example of Encapsulation
+- Ensuring Encapsulation in C#
+
+## Conclusions
+> The goal of encapsulation is to hide implementation details, providing a secure and reliable way to interact with objects.  
+> It promotes code organization, reduces errors, and facilitates proper program functioning.
 
 
 ## 11.5 Inheritance
