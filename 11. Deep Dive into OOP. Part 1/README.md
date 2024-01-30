@@ -84,31 +84,70 @@
 
 
 ## 11.4 Encapsulation or Hiding?
-### Concept of Encapsulation
 - Encapsulation
-
+- Access Modifiers
 - **Public**: Accessible from anywhere.
 - **Private**: Accessible only within the defining class.
 - **Protected**: Accessible within the defining class and its subclasses.
 - **Internal**: Accessible within the same assembly.
 - **Protected Internal**: Accessible within the same assembly and its subclasses.
 - **Private Protected**: Accessible within the same assembly and its subclasses, but only if they are in the same namespace.
-
 - Explicit Use of Access Modifiers (involves specifying the access modifier directly)
 - Implicit Use of Access Modifiers (relies on the default access level)
-
 - Example of Encapsulation
 - Ensuring Encapsulation in C#
-
-## Conclusions
-> The goal of encapsulation is to hide implementation details, providing a secure and reliable way to interact with objects.  
-> It promotes code organization, reduces errors, and facilitates proper program functioning.
+- Conclusions
 
 
 ## 11.5 Inheritance
+- Analysis of an example
+- Breakdown of the implementation of the Druid class
+- Breakdown of the implementation of the Hunter class
+- Breakdown of the implementation of the Warrior class
+- Code demonstration
+- Evaluation of the hero system's description
+- Making changes to the code
+- Analysis of the inheritance of the Druid class from the Hero class
+- Analysis of the inheritance of the Hunter class from the Hero class
+- Analysis of the inheritance of the Warrior class from the Hero class
+- Code demonstration
+- Identifying issues in the inheritance of the Druid class
+- Conclusion
 
 
 ## 11.6 Polymorphism
+- Analysis of the first example
+- Exploring the creation of 20 random heroes
+- Running and verifying the code
+- Understanding polymorphism
+- Implementing polymorphism in the example
+- Creating a team considering polymorphism
+- Running and checking the code
+- Implementation of type checking
+- Running and checking the code
+- Analysis of the second example
+- Introducing code with a focus on polymorphism
+- Running and checking the code
+- Editing the code for more accurate behavior
+- Running and checking the code
+- How to precisely identify what can be overridden
+- Conclusion
 
 
 ## 11.7 Abstractions, Interfaces
+- Analysis of the first example: abstraction
+- Prohibiting instance creation through abstraction
+- Creating an abstract method
+- Analysis of the second example: abstraction
+- Understanding the concept of an interface
+- Reasons for disallowing multiple inheritance
+- Contents of interfaces
+- Purpose of interfaces
+- Unspoken rule of 20 lines of code
+- Analysis of an example: interface
+- Analysis of polymorphism from a class perspective
+- Analysis of the implementation of the iRampage variable in the example
+- Running and checking the code
+- Creating the iRampage collection
+- Properly describing interaction logic
+- Conclusion
