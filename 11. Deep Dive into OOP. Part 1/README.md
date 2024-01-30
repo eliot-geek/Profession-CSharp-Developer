@@ -1,7 +1,9 @@
 # 11. Deep Dive into OOP. Part 1
 
 ## 11.1 Object-Oriented Programming Terminology: Class, Structure, Interface, Inheritance
+
 ### Object-Oriented Programming (OOP): Understanding Terminology, Classes, Structures, Interfaces
+
 #### Ideological Foundations of Object-Oriented Programming
 - Abstraction
 - Encapsulation
@@ -52,6 +54,20 @@
 
 
 ## 11.2 Concept of Class, Object, Instance of a Class
+- Concept of a class
+- Concept of an instance of a class
+- Concept of state and behavior
+- Concept of Object-Oriented Programming (OOP)
+- Concept of encapsulation
+- Concept of inheritance
+- Concept of polymorphism
+- Concepts of composition, aggregation, abstraction
+- Creating a class
+- Analyzing the content of the Cat class
+- Transforming a property into behavior
+- Analyzing the content of the House class
+- Creating an instance of a class
+- Conclusion
 
 
 ## 11.3 Encapsulation, Properties, Constructors
