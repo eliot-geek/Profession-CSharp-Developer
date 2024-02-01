@@ -17,48 +17,48 @@ Managers' payment is 15% of the total amount paid to all employees in their depa
 
 ```
 - OAO "Best Coders"
-  - Department_1
-    - Department_11
-    - Department_12
-  - Department_2
-    - Department_21
-    - Department_22
-    - Department_23
-    - Department_24
-  - Department_3
-    - Department_31
-  - Department_4
-    - Department_41
-    - Department_42
-    - Department_43
-    - Department_44
-    - Department_45
-    - Department_46
-    - Department_47
-    - Department_48
-  - Department_5 (Head: Manager_5)
-    - Department_51 (Head: Manager_51)
-      - Department_511 (Head: Manager_511)
-        - Department_5111 (Head: Manager_5111)
-          - Department_51111 (Head: Manager_51111)
-            - Employee 1
-            - Employee 2
-            - Employee 3
-            - Intern 1
-            - Intern 2
-          - Department_51112
-          - Department_51113
-          - Department_51114
-        - Department_5112
-        - Department_5113
-      - Department_512
-    - Department_52
-      - Department_521
-      - Department_522
-      - Department_523
-    - Department_53
-      - Department_531
-    - Department_54
+    - Department_1
+      - Department_11
+      - Department_12
+    - Department_2
+      - Department_21
+      - Department_22
+      - Department_23
+      - Department_24
+    - Department_3
+      - Department_31
+    - Department_4
+      - Department_41
+      - Department_42
+      - Department_43
+      - Department_44
+      - Department_45
+      - Department_46
+      - Department_47
+      - Department_48
+    - Department_5             (Head: Manager_5)
+      - Department_51          (Head: Manager_51)
+        - Department_511       (Head: Manager_511)
+          - Department_5111    (Head: Manager_5111)
+            - Department_51111 (Head: Manager_51111)
+              - Employee 1
+              - Employee 2
+              - Employee 3
+              - Intern 1
+              - Intern 2
+            - Department_51112
+            - Department_51113
+            - Department_51114
+          - Department_5112
+          - Department_5113
+        - Department_512
+      - Department_52
+        - Department_521
+        - Department_522
+        - Department_523
+      - Department_53
+        - Department_531
+      - Department_54
 
 ```
 
