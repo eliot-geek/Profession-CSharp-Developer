@@ -60,3 +60,11 @@ You can use either a console application or an application with a graphical user
 - Presence of interfaces.
 - Correct description of data in the class.
 - Presence of a constructor in the classes.
+
+
+
+# Result (UI) WPF
+
+![ClientData](../../images/ClientData.jpg)
+
+![ClientData](../../images/ClientData01.jpg)
