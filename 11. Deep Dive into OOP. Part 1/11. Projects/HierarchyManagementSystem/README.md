@@ -75,3 +75,20 @@ Managers' payment is 15% of the total amount paid to all employees in their depa
 ## Implementation and Demonstration
 - Implement and demonstrate the operation of the information system.
 - Display the results in the console or using a UI.
+
+
+# Result
+
+![MyCompany](../images/MyCompany.png)
+
+![MyCompany](../images/MyCompany00.png)
+
+![MyCompany](../images/MyCompany01.png)
+
+![MyCompany](../images/MyCompany02.png)
+
+![MyCompany](../images/MyCompany03.png)
+
+![MyCompany](../images/MyCompany04.png)
+
+
