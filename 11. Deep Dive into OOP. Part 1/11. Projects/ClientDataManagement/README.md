@@ -65,6 +65,6 @@ You can use either a console application or an application with a graphical user
 
 # Result (UI) WPF
 
-![ClientData](../../images/ClientData.jpg)
+![ClientData](../../images/ClientData.png)
 
-![ClientData](../../images/ClientData01.jpg)
+![ClientData](../../images/ClientData01.png)
