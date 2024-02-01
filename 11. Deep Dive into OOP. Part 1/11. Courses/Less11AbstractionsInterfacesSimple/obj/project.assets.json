@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\11. Deep Dive into OOP. Part 1\\11. Courses\\DeepDiveIntoOOP1\\Less11AbstractionsInterfacesSimple\\Less11AbstractionsInterfacesSimple.csproj",
+      "projectUniqueName": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\11. Deep Dive into OOP. Part 1\\11. Courses\\Less11AbstractionsInterfacesSimple\\Less11AbstractionsInterfacesSimple.csproj",
       "projectName": "Less11AbstractionsInterfacesSimple",
-      "projectPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\11. Deep Dive into OOP. Part 1\\11. Courses\\DeepDiveIntoOOP1\\Less11AbstractionsInterfacesSimple\\Less11AbstractionsInterfacesSimple.csproj",
+      "projectPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\11. Deep Dive into OOP. Part 1\\11. Courses\\Less11AbstractionsInterfacesSimple\\Less11AbstractionsInterfacesSimple.csproj",
       "packagesPath": "C:\\Users\\leosa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\11. Deep Dive into OOP. Part 1\\11. Courses\\DeepDiveIntoOOP1\\Less11AbstractionsInterfacesSimple\\obj\\",
+      "outputPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\11. Deep Dive into OOP. Part 1\\11. Courses\\Less11AbstractionsInterfacesSimple\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

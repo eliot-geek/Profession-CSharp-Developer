@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Less14InterfacesClasses")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4833bc725463bbb8cd1f9e4f0423e373bb2ba46")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+161dbafb9a8102274223e06216da87217513d8e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Less14InterfacesClasses")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Less14InterfacesClasses")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

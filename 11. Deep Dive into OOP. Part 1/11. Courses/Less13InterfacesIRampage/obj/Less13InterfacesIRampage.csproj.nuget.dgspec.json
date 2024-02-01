@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\11. Deep Dive into OOP. Part 1\\11. Courses\\DeepDiveIntoOOP1\\Less13InterfacesIRampage\\Less13InterfacesIRampage.csproj": {}
+    "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\11. Deep Dive into OOP. Part 1\\11. Courses\\Less13InterfacesIRampage\\Less13InterfacesIRampage.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\11. Deep Dive into OOP. Part 1\\11. Courses\\DeepDiveIntoOOP1\\Less13InterfacesIRampage\\Less13InterfacesIRampage.csproj": {
+    "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\11. Deep Dive into OOP. Part 1\\11. Courses\\Less13InterfacesIRampage\\Less13InterfacesIRampage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\11. Deep Dive into OOP. Part 1\\11. Courses\\DeepDiveIntoOOP1\\Less13InterfacesIRampage\\Less13InterfacesIRampage.csproj",
+        "projectUniqueName": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\11. Deep Dive into OOP. Part 1\\11. Courses\\Less13InterfacesIRampage\\Less13InterfacesIRampage.csproj",
         "projectName": "Less13InterfacesIRampage",
-        "projectPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\11. Deep Dive into OOP. Part 1\\11. Courses\\DeepDiveIntoOOP1\\Less13InterfacesIRampage\\Less13InterfacesIRampage.csproj",
+        "projectPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\11. Deep Dive into OOP. Part 1\\11. Courses\\Less13InterfacesIRampage\\Less13InterfacesIRampage.csproj",
         "packagesPath": "C:\\Users\\leosa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\11. Deep Dive into OOP. Part 1\\11. Courses\\DeepDiveIntoOOP1\\Less13InterfacesIRampage\\obj\\",
+        "outputPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\11. Deep Dive into OOP. Part 1\\11. Courses\\Less13InterfacesIRampage\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

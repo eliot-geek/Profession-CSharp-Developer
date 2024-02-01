@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\11. Deep Dive into OOP. Part 1\\11. Courses\\DeepDiveIntoOOP1\\Less01Encapsulation\\Less01Encapsulation.csproj",
+      "projectUniqueName": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\11. Deep Dive into OOP. Part 1\\11. Courses\\Less01Encapsulation\\Less01Encapsulation.csproj",
       "projectName": "Less01Encapsulation",
-      "projectPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\11. Deep Dive into OOP. Part 1\\11. Courses\\DeepDiveIntoOOP1\\Less01Encapsulation\\Less01Encapsulation.csproj",
+      "projectPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\11. Deep Dive into OOP. Part 1\\11. Courses\\Less01Encapsulation\\Less01Encapsulation.csproj",
       "packagesPath": "C:\\Users\\leosa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\11. Deep Dive into OOP. Part 1\\11. Courses\\DeepDiveIntoOOP1\\Less01Encapsulation\\obj\\",
+      "outputPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\11. Deep Dive into OOP. Part 1\\11. Courses\\Less01Encapsulation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

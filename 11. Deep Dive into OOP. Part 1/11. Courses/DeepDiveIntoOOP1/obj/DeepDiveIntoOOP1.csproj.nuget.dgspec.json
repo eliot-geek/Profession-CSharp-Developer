@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\11. Deep Dive into OOP. Part 1\\11. Courses\\DeepDiveIntoOOP1\\DeepDiveIntoOOP1\\DeepDiveIntoOOP1.csproj": {}
+    "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\11. Deep Dive into OOP. Part 1\\11. Courses\\DeepDiveIntoOOP1\\DeepDiveIntoOOP1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\11. Deep Dive into OOP. Part 1\\11. Courses\\DeepDiveIntoOOP1\\DeepDiveIntoOOP1\\DeepDiveIntoOOP1.csproj": {
+    "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\11. Deep Dive into OOP. Part 1\\11. Courses\\DeepDiveIntoOOP1\\DeepDiveIntoOOP1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\11. Deep Dive into OOP. Part 1\\11. Courses\\DeepDiveIntoOOP1\\DeepDiveIntoOOP1\\DeepDiveIntoOOP1.csproj",
+        "projectUniqueName": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\11. Deep Dive into OOP. Part 1\\11. Courses\\DeepDiveIntoOOP1\\DeepDiveIntoOOP1.csproj",
         "projectName": "DeepDiveIntoOOP1",
-        "projectPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\11. Deep Dive into OOP. Part 1\\11. Courses\\DeepDiveIntoOOP1\\DeepDiveIntoOOP1\\DeepDiveIntoOOP1.csproj",
+        "projectPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\11. Deep Dive into OOP. Part 1\\11. Courses\\DeepDiveIntoOOP1\\DeepDiveIntoOOP1.csproj",
         "packagesPath": "C:\\Users\\leosa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\11. Deep Dive into OOP. Part 1\\11. Courses\\DeepDiveIntoOOP1\\DeepDiveIntoOOP1\\obj\\",
+        "outputPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\11. Deep Dive into OOP. Part 1\\11. Courses\\DeepDiveIntoOOP1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

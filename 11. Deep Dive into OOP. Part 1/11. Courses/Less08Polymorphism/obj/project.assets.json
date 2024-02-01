@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\11. Deep Dive into OOP. Part 1\\11. Courses\\DeepDiveIntoOOP1\\Less08Polymorphism\\Less08Polymorphism.csproj",
+      "projectUniqueName": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\11. Deep Dive into OOP. Part 1\\11. Courses\\Less08Polymorphism\\Less08Polymorphism.csproj",
       "projectName": "Less08Polymorphism",
-      "projectPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\11. Deep Dive into OOP. Part 1\\11. Courses\\DeepDiveIntoOOP1\\Less08Polymorphism\\Less08Polymorphism.csproj",
+      "projectPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\11. Deep Dive into OOP. Part 1\\11. Courses\\Less08Polymorphism\\Less08Polymorphism.csproj",
       "packagesPath": "C:\\Users\\leosa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\11. Deep Dive into OOP. Part 1\\11. Courses\\DeepDiveIntoOOP1\\Less08Polymorphism\\obj\\",
+      "outputPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\11. Deep Dive into OOP. Part 1\\11. Courses\\Less08Polymorphism\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
