@@ -1,0 +1,225 @@
+﻿<Window x:Name="window" x:Class="ClientDataManagement.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:fa="http://schemas.fontawesome.com/icons/"
+        xmlns:vm="clr-namespace:ClientDataManagement.ViewModels"
+        xmlns:cmd="clr-namespace:ClientDataManagement.ViewModels.Commands"
+        xmlns:local="clr-namespace:ClientDataManagement"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:converter="clr-namespace:ClientDataManagement.ViewModels.Commands"
+        Title="{Binding Title}" Height="500" Width="550"
+        WindowStyle="None"  WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+
+    <Window.DataContext>
+        <vm:MainWindowViewModel/>
+    </Window.DataContext>
+
+    <Window.Resources>
+        <cmd:CloseApplicationCommand x:Key="CloseApplicationCommand"/>
+        <converter:InvertBoolConverter x:Key="InvertBoolConverter"/>
+
+        <Style TargetType="Button" x:Key="ButtonManagement">
+            <Setter Property="Width" Value="25"/>
+            <Setter Property="Height" Value="25"/>
+            <Setter Property="Margin" Value="2"/>
+            <Setter Property="Background" Value="Black"/>
+            <Setter Property="BorderBrush" Value="White"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="Cursor" Value="ScrollAll"/>
+        </Style>
+
+        <Style TargetType="Button" x:Key="Button">
+            <Setter Property="Width" Value="100"/>
+            <Setter Property="Height" Value="25"/>
+            <Setter Property="Margin" Value="10"/>
+            <Setter Property="Padding" Value="0"/>
+            <Setter Property="Background" Value="Black"/>
+            <Setter Property="BorderBrush" Value="White"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="FontFamily" Value="Cursive"/>
+            <Setter Property="Cursor" Value="ScrollAll"/>
+        </Style>
+
+        <Style TargetType="TextBlock" >
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontSize" Value="25"/>
+            <Setter Property="FontFamily" Value="Cursive"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+        </Style>
+
+        <Style TargetType="TextBlock" x:Key="TextBlockListClient">
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontSize" Value="10"/>
+            <Setter Property="FontFamily" Value="Cursive"/>
+            <Setter Property="FontStyle" Value="Normal"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+        </Style>
+
+    </Window.Resources>
+
+    <Grid ShowGridLines="False" >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.ColumnSpan="2" Background="Blue"  MouseDown="Grid_MouseDown">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="10,0">
+                <Button Command="{Binding CloseApplicationCommand}"
+                    Style="{StaticResource ButtonManagement}">
+                    <materialDesign:PackIcon Kind="Power"/>
+                </Button>
+            </StackPanel>
+        </Grid>
+        
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="50"/>
+            </Grid.RowDefinitions>
+            <Grid.Effect>
+                <DropShadowEffect RenderingBias="Quality" ShadowDepth="1" Color="#FFCAAFAF"/>
+            </Grid.Effect>
+            <Grid Background="Blue">
+                <TextBlock Text="Customers"/>
+            </Grid>
+            
+            <ListBox x:Name="ListBoxClients"
+                     Grid.Row="1"
+                     HorizontalAlignment="Center"
+                     ItemsSource="{Binding Repository.Clients}"
+                     SelectedItem="{Binding SelectedClient}">
+                <ListBox.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="White" Offset="3"/>
+                        <GradientStop Color="#FFA2A2A2" Offset="0"/>
+                    </LinearGradientBrush>
+                </ListBox.Background>
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <Border BorderBrush="White"
+                                BorderThickness="5"
+                                CornerRadius="30"
+                                HorizontalAlignment="Stretch"
+                                Width="150">
+                            <StackPanel Margin="10">
+                                <TextBlock Text="{Binding Path=FirstName}"
+                                           Style="{StaticResource TextBlockListClient}"/>
+                                <TextBlock Text="{Binding LastName}"
+                                           Style="{StaticResource TextBlockListClient}"/>
+                                <TextBlock Text="{Binding MiddleName}" 
+                                           Style="{StaticResource TextBlockListClient}"/>
+                                <TextBlock Text="{Binding PhoneNumber}" 
+                                           Style="{StaticResource TextBlockListClient}"/>
+                                <TextBlock Text="{Binding Passport}" 
+                                           Style="{StaticResource TextBlockListClient}"/>
+                            </StackPanel>
+                        </Border>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+            
+            <StackPanel Grid.Row="2" VerticalAlignment="Center">
+                <Grid Background="Blue">
+                    <TextBlock Text="User's Choice"/>
+                </Grid>
+                <ComboBox ItemsSource="{Binding Path=Users}"
+                          DisplayMemberPath="DisplayValue"
+                          SelectedValuePath="Value"
+                          SelectedValue="{Binding Path=User}">
+                </ComboBox>
+            </StackPanel>
+        </Grid>
+        
+        <Grid Grid.Row="1" Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="50"/>
+            </Grid.RowDefinitions>
+            <Grid.Effect>
+                <DropShadowEffect RenderingBias="Quality" ShadowDepth="1" Color="#FFFDFDFD"/>
+            </Grid.Effect>
+            <Grid Background="Blue">
+                <TextBlock Text="Customer's Information"/>
+            </Grid>
+            <Grid Grid.Column="1" Grid.Row="1">
+                <Grid.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FFCACACA" Offset="1"/>
+                        <GradientStop Color="#FFA2A2A2" Offset="0"/>
+                    </LinearGradientBrush>
+                </Grid.Background>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="3*"/>
+                    <ColumnDefinition Width="2*"/>
+                </Grid.ColumnDefinitions>
+                
+                <StackPanel DataContext="{Binding SelectedClient}">
+                    <StackPanel.Resources>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="Foreground" Value="White"/>
+                            <Setter Property="FontSize" Value="20"/>
+                            <Setter Property="Margin" Value="8"/>
+                            <Setter Property="FontFamily" Value="Cursive"/>
+                            <Setter Property="VerticalAlignment" Value="Center"/>
+                            <Setter Property="HorizontalAlignment" Value="Center"/>
+                        </Style>
+                        <Style TargetType="TextBox">
+                            <Setter Property="FontSize" Value="16"/>
+                            <Setter Property="Margin" Value="3"/>
+                            <Setter Property="Height" Value="25"/>
+                            <Setter Property="FontFamily" Value="Cursive"/>
+                            <Setter Property="VerticalAlignment" Value="Center"/>
+                            <Setter Property="HorizontalAlignment" Value="Stretch"/>
+                        </Style>
+                    </StackPanel.Resources>
+                    <TextBlock Text="First Name"/>
+                    <TextBox Text="{Binding Path=FirstName, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+                    <TextBlock Text="Last Name"/>
+                    <TextBox Text="{Binding Path=LastName, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+                    <TextBlock Text="Middle Name"/>
+                    <TextBox Text="{Binding Path=MiddleName, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+                    <TextBlock Text="Phone Number"/>
+                    <TextBox Text="{Binding Path=PhoneNumber, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+                    <TextBlock Text="Passport"/>
+                    <TextBox Text="{Binding Path=Passport, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+                </StackPanel>
+                
+                <StackPanel Grid.Column="1"
+                            Orientation="Vertical"
+                            HorizontalAlignment="Stretch"
+                            VerticalAlignment="Center">
+                    <Button Content="New Client"
+                            Command="{Binding AddClientCommand}"
+                            Style="{StaticResource Button}"/>
+                    <Button Content="Save"
+                            Command="{Binding SaveDateClient}"
+                            Style="{StaticResource Button}"/>
+                    <Button Content="Cancel"  
+                            Style="{StaticResource Button}"/>
+                </StackPanel>
+            </Grid>
+            
+            <StackPanel Orientation="Horizontal"
+                    Grid.Row="2" Grid.Column="1"
+                    VerticalAlignment="Center"
+                    HorizontalAlignment="Right">
+                <Button Content="Exit"
+                        Command="{Binding Path=CloseApplicationCommand}"
+                        Style="{StaticResource Button}" Cursor="ScrollAll"/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

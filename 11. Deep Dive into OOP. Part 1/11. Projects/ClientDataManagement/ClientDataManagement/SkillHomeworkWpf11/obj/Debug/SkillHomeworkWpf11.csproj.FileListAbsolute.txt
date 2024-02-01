@@ -1,0 +1,64 @@
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11\SkillHomeworkWpf11\bin\Debug\SkillHomeworkWpf11.exe.config
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11\SkillHomeworkWpf11\bin\Debug\SkillHomeworkWpf11.exe
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11\SkillHomeworkWpf11\bin\Debug\SkillHomeworkWpf11.pdb
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11\SkillHomeworkWpf11\obj\Debug\SkillHomeworkWpf11.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11\SkillHomeworkWpf11\obj\Debug\MainWindow.g.cs
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11\SkillHomeworkWpf11\obj\Debug\App.g.cs
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11\SkillHomeworkWpf11\obj\Debug\SkillHomeworkWpf11_MarkupCompile.cache
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11\SkillHomeworkWpf11\obj\Debug\SkillHomeworkWpf11_MarkupCompile.lref
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11\SkillHomeworkWpf11\obj\Debug\MainWindow.baml
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11\SkillHomeworkWpf11\obj\Debug\SkillHomeworkWpf11.g.resources
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11\SkillHomeworkWpf11\obj\Debug\SkillHomeworkWpf11.Properties.Resources.resources
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11\SkillHomeworkWpf11\obj\Debug\SkillHomeworkWpf11.csproj.GenerateResource.cache
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11\SkillHomeworkWpf11\obj\Debug\SkillHomeworkWpf11.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11\SkillHomeworkWpf11\obj\Debug\SkillHomeworkWpf11.exe
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11\SkillHomeworkWpf11\obj\Debug\SkillHomeworkWpf11.pdb
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11\SkillHomeworkWpf11\bin\Debug\FontAwesome5.dll
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11\SkillHomeworkWpf11\bin\Debug\FontAwesome5.Net.dll
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11\SkillHomeworkWpf11\bin\Debug\MaterialDesignColors.dll
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11\SkillHomeworkWpf11\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11\SkillHomeworkWpf11\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11\SkillHomeworkWpf11\bin\Debug\Newtonsoft.Json.dll
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11\SkillHomeworkWpf11\bin\Debug\FontAwesome5.xml
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11\SkillHomeworkWpf11\bin\Debug\FontAwesome5.Net.xml
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11\SkillHomeworkWpf11\bin\Debug\MaterialDesignColors.pdb
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11\SkillHomeworkWpf11\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11\SkillHomeworkWpf11\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11\SkillHomeworkWpf11\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11\SkillHomeworkWpf11\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11\SkillHomeworkWpf11\bin\Debug\Newtonsoft.Json.xml
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11\SkillHomeworkWpf11\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11\SkillHomeworkWpf11\obj\Debug\SkillHomeworkWpf11.csproj.CopyComplete
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11\SkillHomeworkWpf11\obj\Debug\App.baml
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11 - Copy\SkillHomeworkWpf11\bin\Debug\SkillHomeworkWpf11.exe.config
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11 - Copy\SkillHomeworkWpf11\bin\Debug\SkillHomeworkWpf11.exe
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11 - Copy\SkillHomeworkWpf11\bin\Debug\SkillHomeworkWpf11.pdb
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11 - Copy\SkillHomeworkWpf11\bin\Debug\FontAwesome5.dll
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11 - Copy\SkillHomeworkWpf11\bin\Debug\FontAwesome5.Net.dll
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11 - Copy\SkillHomeworkWpf11\bin\Debug\MaterialDesignColors.dll
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11 - Copy\SkillHomeworkWpf11\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11 - Copy\SkillHomeworkWpf11\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11 - Copy\SkillHomeworkWpf11\bin\Debug\Newtonsoft.Json.dll
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11 - Copy\SkillHomeworkWpf11\bin\Debug\FontAwesome5.xml
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11 - Copy\SkillHomeworkWpf11\bin\Debug\FontAwesome5.Net.xml
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11 - Copy\SkillHomeworkWpf11\bin\Debug\MaterialDesignColors.pdb
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11 - Copy\SkillHomeworkWpf11\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11 - Copy\SkillHomeworkWpf11\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11 - Copy\SkillHomeworkWpf11\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11 - Copy\SkillHomeworkWpf11\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11 - Copy\SkillHomeworkWpf11\bin\Debug\Newtonsoft.Json.xml
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11 - Copy\SkillHomeworkWpf11\obj\Debug\SkillHomeworkWpf11.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11 - Copy\SkillHomeworkWpf11\obj\Debug\MainWindow.g.cs
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11 - Copy\SkillHomeworkWpf11\obj\Debug\App.g.cs
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11 - Copy\SkillHomeworkWpf11\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11 - Copy\SkillHomeworkWpf11\obj\Debug\SkillHomeworkWpf11_MarkupCompile.cache
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11 - Copy\SkillHomeworkWpf11\obj\Debug\SkillHomeworkWpf11_MarkupCompile.lref
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11 - Copy\SkillHomeworkWpf11\obj\Debug\App.baml
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11 - Copy\SkillHomeworkWpf11\obj\Debug\MainWindow.baml
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11 - Copy\SkillHomeworkWpf11\obj\Debug\SkillHomeworkWpf11.g.resources
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11 - Copy\SkillHomeworkWpf11\obj\Debug\SkillHomeworkWpf11.Properties.Resources.resources
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11 - Copy\SkillHomeworkWpf11\obj\Debug\SkillHomeworkWpf11.csproj.GenerateResource.cache
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11 - Copy\SkillHomeworkWpf11\obj\Debug\SkillHomeworkWpf11.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11 - Copy\SkillHomeworkWpf11\obj\Debug\SkillHomeworkWpf11.csproj.CopyComplete
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11 - Copy\SkillHomeworkWpf11\obj\Debug\SkillHomeworkWpf11.exe
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\11. ООП. Часть 1\My_Self_11\SkillHomeworkWpf11 - Copy\SkillHomeworkWpf11\obj\Debug\SkillHomeworkWpf11.pdb
