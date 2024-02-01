@@ -14,6 +14,8 @@ For workers, the payment is hourly and determined upon hiring (e.g., $12 per hou
 Managers' payment is 15% of the total amount paid to all employees in their department, but not less than $1300.
 
 ## Organization Structure:
+
+```
 - OAO "Best Coders"
   - Department_1
     - Department_11
@@ -57,6 +59,8 @@ Managers' payment is 15% of the total amount paid to all employees in their depa
     - Department_53
       - Department_531
     - Department_54
+
+```
 
 ## Employee Payment:
 - Interns: Fixed payment (e.g., $500 per month).
