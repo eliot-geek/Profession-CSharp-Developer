@@ -77,7 +77,7 @@ Managers' payment is 15% of the total amount paid to all employees in their depa
 - Display the results in the console or using a UI.
 
 
-# Result
+# Result (UI) WPF
 
 ![MyCompany](../../images/MyCompany.png)
 
