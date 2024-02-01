@@ -22,6 +22,6 @@
 - Implement the functionality to save the history of messages received by the bot in a JSON file.
 
 
-### Bot 
+# Result (Bot) WPF 
 
 ![WPF](../images/wpf25.png)
