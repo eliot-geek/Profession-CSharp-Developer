@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less07InheritanceSimple\bin\Debug\net8.0\Less07InheritanceSimple.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less07InheritanceSimple\bin\Debug\net8.0\Less07InheritanceSimple.deps.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less07InheritanceSimple\bin\Debug\net8.0\Less07InheritanceSimple.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less07InheritanceSimple\bin\Debug\net8.0\Less07InheritanceSimple.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less07InheritanceSimple\bin\Debug\net8.0\Less07InheritanceSimple.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less07InheritanceSimple\obj\Debug\net8.0\Less07InheritanceSimple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less07InheritanceSimple\obj\Debug\net8.0\Less07InheritanceSimple.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less07InheritanceSimple\obj\Debug\net8.0\Less07InheritanceSimple.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less07InheritanceSimple\obj\Debug\net8.0\Less07InheritanceSimple.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less07InheritanceSimple\obj\Debug\net8.0\Less07InheritanceSimple.sourcelink.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less07InheritanceSimple\obj\Debug\net8.0\Less07InheritanceSimple.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less07InheritanceSimple\obj\Debug\net8.0\refint\Less07InheritanceSimple.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less07InheritanceSimple\obj\Debug\net8.0\Less07InheritanceSimple.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less07InheritanceSimple\obj\Debug\net8.0\Less07InheritanceSimple.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less07InheritanceSimple\obj\Debug\net8.0\ref\Less07InheritanceSimple.dll

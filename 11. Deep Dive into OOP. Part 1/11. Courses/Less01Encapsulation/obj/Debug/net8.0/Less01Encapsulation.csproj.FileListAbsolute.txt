@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less01Encapsulation\bin\Debug\net8.0\Less01Encapsulation.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less01Encapsulation\bin\Debug\net8.0\Less01Encapsulation.deps.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less01Encapsulation\bin\Debug\net8.0\Less01Encapsulation.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less01Encapsulation\bin\Debug\net8.0\Less01Encapsulation.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less01Encapsulation\bin\Debug\net8.0\Less01Encapsulation.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less01Encapsulation\obj\Debug\net8.0\Less01Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less01Encapsulation\obj\Debug\net8.0\Less01Encapsulation.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less01Encapsulation\obj\Debug\net8.0\Less01Encapsulation.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less01Encapsulation\obj\Debug\net8.0\Less01Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less01Encapsulation\obj\Debug\net8.0\Less01Encapsulation.sourcelink.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less01Encapsulation\obj\Debug\net8.0\Less01Encapsulation.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less01Encapsulation\obj\Debug\net8.0\refint\Less01Encapsulation.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less01Encapsulation\obj\Debug\net8.0\Less01Encapsulation.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less01Encapsulation\obj\Debug\net8.0\Less01Encapsulation.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less01Encapsulation\obj\Debug\net8.0\ref\Less01Encapsulation.dll

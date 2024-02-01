@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less14InterfacesClasses\bin\Debug\net8.0\Less14InterfacesClasses.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less14InterfacesClasses\bin\Debug\net8.0\Less14InterfacesClasses.deps.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less14InterfacesClasses\bin\Debug\net8.0\Less14InterfacesClasses.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less14InterfacesClasses\bin\Debug\net8.0\Less14InterfacesClasses.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less14InterfacesClasses\bin\Debug\net8.0\Less14InterfacesClasses.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less14InterfacesClasses\obj\Debug\net8.0\Less14InterfacesClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less14InterfacesClasses\obj\Debug\net8.0\Less14InterfacesClasses.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less14InterfacesClasses\obj\Debug\net8.0\Less14InterfacesClasses.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less14InterfacesClasses\obj\Debug\net8.0\Less14InterfacesClasses.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less14InterfacesClasses\obj\Debug\net8.0\Less14InterfacesClasses.sourcelink.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less14InterfacesClasses\obj\Debug\net8.0\Less14InterfacesClasses.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less14InterfacesClasses\obj\Debug\net8.0\refint\Less14InterfacesClasses.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less14InterfacesClasses\obj\Debug\net8.0\Less14InterfacesClasses.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less14InterfacesClasses\obj\Debug\net8.0\Less14InterfacesClasses.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less14InterfacesClasses\obj\Debug\net8.0\ref\Less14InterfacesClasses.dll

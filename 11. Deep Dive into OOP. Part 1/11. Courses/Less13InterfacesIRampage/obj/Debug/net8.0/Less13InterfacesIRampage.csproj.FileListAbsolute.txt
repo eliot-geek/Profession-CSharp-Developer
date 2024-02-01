@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less13InterfacesIRampage\bin\Debug\net8.0\Less13InterfacesIRampage.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less13InterfacesIRampage\bin\Debug\net8.0\Less13InterfacesIRampage.deps.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less13InterfacesIRampage\bin\Debug\net8.0\Less13InterfacesIRampage.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less13InterfacesIRampage\bin\Debug\net8.0\Less13InterfacesIRampage.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less13InterfacesIRampage\bin\Debug\net8.0\Less13InterfacesIRampage.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less13InterfacesIRampage\obj\Debug\net8.0\Less13InterfacesIRampage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less13InterfacesIRampage\obj\Debug\net8.0\Less13InterfacesIRampage.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less13InterfacesIRampage\obj\Debug\net8.0\Less13InterfacesIRampage.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less13InterfacesIRampage\obj\Debug\net8.0\Less13InterfacesIRampage.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less13InterfacesIRampage\obj\Debug\net8.0\Less13InterfacesIRampage.sourcelink.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less13InterfacesIRampage\obj\Debug\net8.0\Less13InterfacesIRampage.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less13InterfacesIRampage\obj\Debug\net8.0\refint\Less13InterfacesIRampage.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less13InterfacesIRampage\obj\Debug\net8.0\Less13InterfacesIRampage.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less13InterfacesIRampage\obj\Debug\net8.0\Less13InterfacesIRampage.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less13InterfacesIRampage\obj\Debug\net8.0\ref\Less13InterfacesIRampage.dll

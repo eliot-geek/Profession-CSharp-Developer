@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less02HeroesGame\bin\Debug\net8.0\Less02HeroesGame.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less02HeroesGame\bin\Debug\net8.0\Less02HeroesGame.deps.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less02HeroesGame\bin\Debug\net8.0\Less02HeroesGame.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less02HeroesGame\bin\Debug\net8.0\Less02HeroesGame.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less02HeroesGame\bin\Debug\net8.0\Less02HeroesGame.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less02HeroesGame\obj\Debug\net8.0\Less02HeroesGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less02HeroesGame\obj\Debug\net8.0\Less02HeroesGame.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less02HeroesGame\obj\Debug\net8.0\Less02HeroesGame.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less02HeroesGame\obj\Debug\net8.0\Less02HeroesGame.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less02HeroesGame\obj\Debug\net8.0\Less02HeroesGame.sourcelink.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less02HeroesGame\obj\Debug\net8.0\Less02HeroesGame.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less02HeroesGame\obj\Debug\net8.0\refint\Less02HeroesGame.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less02HeroesGame\obj\Debug\net8.0\Less02HeroesGame.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less02HeroesGame\obj\Debug\net8.0\Less02HeroesGame.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\11. Deep Dive into OOP. Part 1\11. Courses\DeepDiveIntoOOP1\Less02HeroesGame\obj\Debug\net8.0\ref\Less02HeroesGame.dll

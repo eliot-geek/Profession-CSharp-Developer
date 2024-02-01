@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Less02HeroesGame/1.0.0": {
+        "runtime": {
+          "Less02HeroesGame.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Less02HeroesGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
