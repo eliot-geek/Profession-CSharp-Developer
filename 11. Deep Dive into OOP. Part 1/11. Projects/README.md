@@ -1,153 +1,73 @@
-# 11. Deep Dive into OOP. Part 1
+# Corporate Hierarchy Management System
 
-## 11.1 Object-Oriented Programming Terminology: Class, Structure, Interface, Inheritance
+## Design an information system to work with the following structure:
+- Organization with departments and employees.
+- Populate employees and departments automatically from a file, preferably in *.xml or *.json format.
 
-### Object-Oriented Programming (OOP): Understanding Terminology, Classes, Structures, Interfaces
+## Employees are divided into several groups based on positions and salaries:
+1. Managers (e.g., Director, First Deputy Director, Department Head).
+2. Workers.
+3. Interns.
 
-### Ideological Foundations of Object-Oriented Programming
-- Abstraction
-- Encapsulation
-- Inheritance
-- Polymorphism
+The payment for interns is fixed and determined upon hiring (e.g., $500 per month).
+For workers, the payment is hourly and determined upon hiring (e.g., $12 per hour).
+Managers' payment is 15% of the total amount paid to all employees in their department, but not less than $1300.
 
-### Class in Object-Oriented Programming
-- Blueprint for creating objects
-- Describes structure and algorithms
+## Organization Structure:
+- OAO "Best Coders"
+  - Department_1
+    - Department_11
+    - Department_12
+  - Department_2
+    - Department_21
+    - Department_22
+    - Department_23
+    - Department_24
+  - Department_3
+    - Department_31
+  - Department_4
+    - Department_41
+    - Department_42
+    - Department_43
+    - Department_44
+    - Department_45
+    - Department_46
+    - Department_47
+    - Department_48
+  - Department_5 (Head: Manager_5)
+    - Department_51 (Head: Manager_51)
+      - Department_511 (Head: Manager_511)
+        - Department_5111 (Head: Manager_5111)
+          - Department_51111 (Head: Manager_51111)
+            - Employee 1
+            - Employee 2
+            - Employee 3
+            - Intern 1
+            - Intern 2
+          - Department_51112
+          - Department_51113
+          - Department_51114
+        - Department_5112
+        - Department_5113
+      - Department_512
+    - Department_52
+      - Department_521
+      - Department_522
+      - Department_523
+    - Department_53
+      - Department_531
+    - Department_54
 
-### Object (Instance of a Class)
-- Entity in the digital space
-- Possesses state and behavior
-- Has fields and methods
-  
-### Attributes in Object-Oriented Programming
-- Data members
-- Instance variables
+## Employee Payment:
+- Interns: Fixed payment (e.g., $500 per month).
+- Workers: Hourly payment (e.g., $12 per hour).
+- Managers: 15% of the total payment to all employees in their department, but not less than $1300.
 
-### Attributes (Variable-Member, Data Member, Class Field, Instance Variable) in OOP
-- Represent the state of an object
-- Also known as data members or instance variables
+## Structure of the Organization:
+- Organization: Consists of departments organized into departments.
+- Each department and unit has its own head.
+- The Director leads the Organization.
 
-### Interfaces
-- Data types without implementation
-- Inherited by classes for method implementation
-
-### Why Interfaces are Necessary
-- Define a type with attributes and methods
-- Enable multiple inheritance
-
-### Inheritance of Interfaces
-- A mechanism in OOP languages
-- Allows a class to inherit multiple interfaces
-
-### Abstract Classes
-- Classes without implementation for one or more methods
-
-### Advantages of Object-Oriented Programming
-- Modularity
-- Flexibility
-- Time Savings
-
-### Disadvantages of Object-Oriented Programming
-- Steep Learning Curve
-- Performance Impact
-- Increased Code Size
-
-
-## 11.2 Concept of Class, Object, Instance of a Class
-- Concept of a class
-- Concept of an instance of a class
-- Concept of state and behavior
-- Concept of Object-Oriented Programming (OOP)
-- Concept of encapsulation
-- Concept of inheritance
-- Concept of polymorphism
-- Concepts of composition, aggregation, abstraction
-- Creating a class
-- Analyzing the content of the Cat class
-- Transforming a property into behavior
-- Analyzing the content of the House class
-- Creating an instance of a class
-- Conclusion
-
-
-## 11.3 Encapsulation, Properties, Constructors
-- Analysis of the first example in ILDASM
-- Analysis of the second example of encapsulation: structure
-- Analysis of creating instances of classes
-- Why the damage and health system is poorly described
-- How to rewrite the healing logic
-- How to rewrite the attack method logic
-- Problem of creating heroes with the same names
-- How to describe logic to eliminate the problem
-- Other applications of encapsulation
-- Conclusion
-
-
-## 11.4 Encapsulation or Hiding?
-- Encapsulation
-- Access Modifiers
-- **Public**: Accessible from anywhere.
-- **Private**: Accessible only within the defining class.
-- **Protected**: Accessible within the defining class and its subclasses.
-- **Internal**: Accessible within the same assembly.
-- **Protected Internal**: Accessible within the same assembly and its subclasses.
-- **Private Protected**: Accessible within the same assembly and its subclasses, but only if they are in the same namespace.
-- Explicit Use of Access Modifiers (involves specifying the access modifier directly)
-- Implicit Use of Access Modifiers (relies on the default access level)
-- Example of Encapsulation
-- Ensuring Encapsulation in C#
-- Conclusions
-
-
-## 11.5 Inheritance
-- Analysis of an example
-- Breakdown of the implementation of the Druid class
-- Breakdown of the implementation of the Hunter class
-- Breakdown of the implementation of the Warrior class
-- Code demonstration
-- Evaluation of the hero system's description
-- Making changes to the code
-- Analysis of the inheritance of the Druid class from the Hero class
-- Analysis of the inheritance of the Hunter class from the Hero class
-- Analysis of the inheritance of the Warrior class from the Hero class
-- Code demonstration
-- Identifying issues in the inheritance of the Druid class
-- Conclusion
-
-
-## 11.6 Polymorphism
-- Analysis of the first example
-- Exploring the creation of 20 random heroes
-- Running and verifying the code
-- Understanding polymorphism
-- Implementing polymorphism in the example
-- Creating a team considering polymorphism
-- Running and checking the code
-- Implementation of type checking
-- Running and checking the code
-- Analysis of the second example
-- Introducing code with a focus on polymorphism
-- Running and checking the code
-- Editing the code for more accurate behavior
-- Running and checking the code
-- How to precisely identify what can be overridden
-- Conclusion
-
-
-## 11.7 Abstractions, Interfaces
-- Analysis of the first example: abstraction
-- Prohibiting instance creation through abstraction
-- Creating an abstract method
-- Analysis of the second example: abstraction
-- Understanding the concept of an interface
-- Reasons for disallowing multiple inheritance
-- Contents of interfaces
-- Purpose of interfaces
-- Unspoken rule of 20 lines of code
-- Analysis of an example: interface
-- Analysis of polymorphism from a class perspective
-- Analysis of the implementation of the iRampage variable in the example
-- Running and checking the code
-- Creating the iRampage collection
-- Properly describing interaction logic
-- Conclusion
+## Implementation and Demonstration
+- Implement and demonstrate the operation of the information system.
+- Display the results in the console or using a UI.
