@@ -43,7 +43,7 @@
 - Code Improvement
 - Conclusion
 
-## 11.5 Using WPF in Problem Solving. Example of Application Architecture Organization
+## 12.5 Using WPF in Problem Solving. Example of Application Architecture Organization
 
 - What You Will Learn in the Video
 - Analysis of the Layout
@@ -53,7 +53,7 @@
 - Partial Task Solution Using UI
 - Conclusion
 
-# 12.6 IEnumerable, IEnumerator: What They Are and How to Use Them
+## 12.6 IEnumerable, IEnumerator: What They Are and How to Use Them
 
 - What is IEnumerable and IEnumerator in C#
 - IEnumerator
