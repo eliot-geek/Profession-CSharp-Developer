@@ -55,7 +55,7 @@
 
 ## 12.6 IEnumerable, IEnumerator: What They Are and How to Use Them
 
-- What is IEnumerable and IEnumerator in C#
+- What is IEnumerable and IEnumerator
 - IEnumerator
   - Example of IEnumerator Usage
 - IEnumerable
