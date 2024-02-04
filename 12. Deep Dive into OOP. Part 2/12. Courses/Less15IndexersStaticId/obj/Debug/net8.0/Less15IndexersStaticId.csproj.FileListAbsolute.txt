@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less15IndexersStaticId\bin\Debug\net8.0\Less15IndexersStaticId.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less15IndexersStaticId\bin\Debug\net8.0\Less15IndexersStaticId.deps.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less15IndexersStaticId\bin\Debug\net8.0\Less15IndexersStaticId.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less15IndexersStaticId\bin\Debug\net8.0\Less15IndexersStaticId.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less15IndexersStaticId\bin\Debug\net8.0\Less15IndexersStaticId.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less15IndexersStaticId\obj\Debug\net8.0\Less15IndexersStaticId.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less15IndexersStaticId\obj\Debug\net8.0\Less15IndexersStaticId.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less15IndexersStaticId\obj\Debug\net8.0\Less15IndexersStaticId.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less15IndexersStaticId\obj\Debug\net8.0\Less15IndexersStaticId.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less15IndexersStaticId\obj\Debug\net8.0\Less15IndexersStaticId.sourcelink.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less15IndexersStaticId\obj\Debug\net8.0\Less15IndexersStaticId.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less15IndexersStaticId\obj\Debug\net8.0\refint\Less15IndexersStaticId.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less15IndexersStaticId\obj\Debug\net8.0\Less15IndexersStaticId.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less15IndexersStaticId\obj\Debug\net8.0\Less15IndexersStaticId.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less15IndexersStaticId\obj\Debug\net8.0\ref\Less15IndexersStaticId.dll

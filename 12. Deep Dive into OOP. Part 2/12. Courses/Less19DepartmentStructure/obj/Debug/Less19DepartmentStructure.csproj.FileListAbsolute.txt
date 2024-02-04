@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less19DepartmentStructure\obj\Debug\Less19DepartmentStructure.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less19DepartmentStructure\obj\Debug\MainWindow.g.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less19DepartmentStructure\obj\Debug\App.g.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less19DepartmentStructure\obj\Debug\Less19DepartmentStructure_MarkupCompile.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less19DepartmentStructure\obj\Debug\Less19DepartmentStructure_MarkupCompile.lref
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less19DepartmentStructure\bin\Debug\Less19DepartmentStructure.exe.config
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less19DepartmentStructure\bin\Debug\Less19DepartmentStructure.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less19DepartmentStructure\bin\Debug\Less19DepartmentStructure.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less19DepartmentStructure\obj\Debug\MainWindow.baml
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less19DepartmentStructure\obj\Debug\Less19DepartmentStructure.g.resources
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less19DepartmentStructure\obj\Debug\Less19DepartmentStructure.Properties.Resources.resources
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less19DepartmentStructure\obj\Debug\Less19DepartmentStructure.csproj.GenerateResource.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less19DepartmentStructure\obj\Debug\Less19DepartmentStructure.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less19DepartmentStructure\obj\Debug\Less19DepartmentStructure.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less19DepartmentStructure\obj\Debug\Less19DepartmentStructure.pdb

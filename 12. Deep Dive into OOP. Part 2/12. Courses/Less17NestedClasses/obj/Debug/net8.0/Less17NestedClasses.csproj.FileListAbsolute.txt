@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less17NestedClasses\bin\Debug\net8.0\Less17NestedClasses.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less17NestedClasses\bin\Debug\net8.0\Less17NestedClasses.deps.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less17NestedClasses\bin\Debug\net8.0\Less17NestedClasses.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less17NestedClasses\bin\Debug\net8.0\Less17NestedClasses.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less17NestedClasses\bin\Debug\net8.0\Less17NestedClasses.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less17NestedClasses\obj\Debug\net8.0\Less17NestedClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less17NestedClasses\obj\Debug\net8.0\Less17NestedClasses.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less17NestedClasses\obj\Debug\net8.0\Less17NestedClasses.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less17NestedClasses\obj\Debug\net8.0\Less17NestedClasses.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less17NestedClasses\obj\Debug\net8.0\Less17NestedClasses.sourcelink.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less17NestedClasses\obj\Debug\net8.0\Less17NestedClasses.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less17NestedClasses\obj\Debug\net8.0\refint\Less17NestedClasses.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less17NestedClasses\obj\Debug\net8.0\Less17NestedClasses.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less17NestedClasses\obj\Debug\net8.0\Less17NestedClasses.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less17NestedClasses\obj\Debug\net8.0\ref\Less17NestedClasses.dll

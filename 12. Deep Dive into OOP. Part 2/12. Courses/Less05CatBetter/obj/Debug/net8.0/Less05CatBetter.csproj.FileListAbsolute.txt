@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less05CatBetter\bin\Debug\net8.0\Less05CatBetter.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less05CatBetter\bin\Debug\net8.0\Less05CatBetter.deps.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less05CatBetter\bin\Debug\net8.0\Less05CatBetter.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less05CatBetter\bin\Debug\net8.0\Less05CatBetter.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less05CatBetter\bin\Debug\net8.0\Less05CatBetter.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less05CatBetter\obj\Debug\net8.0\Less05CatBetter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less05CatBetter\obj\Debug\net8.0\Less05CatBetter.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less05CatBetter\obj\Debug\net8.0\Less05CatBetter.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less05CatBetter\obj\Debug\net8.0\Less05CatBetter.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less05CatBetter\obj\Debug\net8.0\Less05CatBetter.sourcelink.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less05CatBetter\obj\Debug\net8.0\Less05CatBetter.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less05CatBetter\obj\Debug\net8.0\refint\Less05CatBetter.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less05CatBetter\obj\Debug\net8.0\Less05CatBetter.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less05CatBetter\obj\Debug\net8.0\Less05CatBetter.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less05CatBetter\obj\Debug\net8.0\ref\Less05CatBetter.dll

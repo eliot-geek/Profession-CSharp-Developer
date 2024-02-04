@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Less14IndexersWorkerProgram/1.0.0": {
+        "runtime": {
+          "Less14IndexersWorkerProgram.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Less14IndexersWorkerProgram/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

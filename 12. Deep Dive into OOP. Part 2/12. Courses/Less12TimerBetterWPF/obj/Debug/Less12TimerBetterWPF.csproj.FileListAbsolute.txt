@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less12TimerBetterWPF\bin\Debug\Less12TimerBetterWPF.exe.config
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less12TimerBetterWPF\bin\Debug\Less12TimerBetterWPF.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less12TimerBetterWPF\bin\Debug\Less12TimerBetterWPF.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less12TimerBetterWPF\obj\Debug\Less12TimerBetterWPF.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less12TimerBetterWPF\obj\Debug\MainWindow.g.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less12TimerBetterWPF\obj\Debug\App.g.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less12TimerBetterWPF\obj\Debug\Less12TimerBetterWPF_MarkupCompile.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less12TimerBetterWPF\obj\Debug\Less12TimerBetterWPF_MarkupCompile.lref
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less12TimerBetterWPF\obj\Debug\MainWindow.baml
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less12TimerBetterWPF\obj\Debug\Less12TimerBetterWPF.g.resources
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less12TimerBetterWPF\obj\Debug\Less12TimerBetterWPF.Properties.Resources.resources
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less12TimerBetterWPF\obj\Debug\Less12TimerBetterWPF.csproj.GenerateResource.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less12TimerBetterWPF\obj\Debug\Less12TimerBetterWPF.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less12TimerBetterWPF\obj\Debug\Less12TimerBetterWPF.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less12TimerBetterWPF\obj\Debug\Less12TimerBetterWPF.pdb

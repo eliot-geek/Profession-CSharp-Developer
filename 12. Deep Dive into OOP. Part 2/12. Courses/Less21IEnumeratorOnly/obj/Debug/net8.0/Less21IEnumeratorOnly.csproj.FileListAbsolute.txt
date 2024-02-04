@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less21IEnumeratorOnly\bin\Debug\net8.0\Less21IEnumeratorOnly.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less21IEnumeratorOnly\bin\Debug\net8.0\Less21IEnumeratorOnly.deps.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less21IEnumeratorOnly\bin\Debug\net8.0\Less21IEnumeratorOnly.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less21IEnumeratorOnly\bin\Debug\net8.0\Less21IEnumeratorOnly.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less21IEnumeratorOnly\bin\Debug\net8.0\Less21IEnumeratorOnly.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less21IEnumeratorOnly\obj\Debug\net8.0\Less21IEnumeratorOnly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less21IEnumeratorOnly\obj\Debug\net8.0\Less21IEnumeratorOnly.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less21IEnumeratorOnly\obj\Debug\net8.0\Less21IEnumeratorOnly.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less21IEnumeratorOnly\obj\Debug\net8.0\Less21IEnumeratorOnly.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less21IEnumeratorOnly\obj\Debug\net8.0\Less21IEnumeratorOnly.sourcelink.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less21IEnumeratorOnly\obj\Debug\net8.0\Less21IEnumeratorOnly.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less21IEnumeratorOnly\obj\Debug\net8.0\refint\Less21IEnumeratorOnly.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less21IEnumeratorOnly\obj\Debug\net8.0\Less21IEnumeratorOnly.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less21IEnumeratorOnly\obj\Debug\net8.0\Less21IEnumeratorOnly.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\12. Deep Dive into OOP. Part 2\12. Courses\DeepDiveIntoOOP2\Less21IEnumeratorOnly\obj\Debug\net8.0\ref\Less21IEnumeratorOnly.dll

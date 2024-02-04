@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Less18NestedClassesBetter/1.0.0": {
+        "runtime": {
+          "Less18NestedClassesBetter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Less18NestedClassesBetter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
