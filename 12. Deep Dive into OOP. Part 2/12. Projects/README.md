@@ -79,16 +79,16 @@ Managers' payment is 15% of the total amount paid to all employees in their depa
 
 # Result (UI) WPF
 
-![MyCompany](../../images/MyCompany.png)
+![MyCompany](../images/MyCompany.png)
 
-![MyCompany](../../images/MyCompany00.png)
+![MyCompany](../images/MyCompany00.png)
 
-![MyCompany](../../images/MyCompany01.png)
+![MyCompany](../images/MyCompany01.png)
 
-![MyCompany](../../images/MyCompany02.png)
+![MyCompany](../images/MyCompany02.png)
 
-![MyCompany](../../images/MyCompany03.png)
+![MyCompany](../images/MyCompany03.png)
 
-![MyCompany](../../images/MyCompany04.png)
+![MyCompany](../images/MyCompany04.png)
 
 
