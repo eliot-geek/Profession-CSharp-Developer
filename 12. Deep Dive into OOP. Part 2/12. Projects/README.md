@@ -98,4 +98,8 @@ Managers' payment is 15% of the total amount paid to all employees in their depa
 
 ![MyCompany](../images/MyCompany04.png)
 
+![MyCompany](../images/MyCompany05.png)
+
+![MyCompany](../images/MyCompany06.png)
+
 
