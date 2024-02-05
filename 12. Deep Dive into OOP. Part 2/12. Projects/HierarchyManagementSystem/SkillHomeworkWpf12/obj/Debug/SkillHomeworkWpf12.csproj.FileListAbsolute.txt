@@ -1,0 +1,36 @@
+C:\Users\leosa\Downloads\SkillHomeworkWpf12\SkillHomeworkWpf12\bin\Debug\SkillHomeworkWpf12.exe.config
+C:\Users\leosa\Downloads\SkillHomeworkWpf12\SkillHomeworkWpf12\bin\Debug\SkillHomeworkWpf12.exe
+C:\Users\leosa\Downloads\SkillHomeworkWpf12\SkillHomeworkWpf12\bin\Debug\SkillHomeworkWpf12.pdb
+C:\Users\leosa\Downloads\SkillHomeworkWpf12\SkillHomeworkWpf12\bin\Debug\Newtonsoft.Json.dll
+C:\Users\leosa\Downloads\SkillHomeworkWpf12\SkillHomeworkWpf12\bin\Debug\Newtonsoft.Json.xml
+C:\Users\leosa\Downloads\SkillHomeworkWpf12\SkillHomeworkWpf12\obj\Debug\SkillHomeworkWpf12.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\SkillHomeworkWpf12\SkillHomeworkWpf12\obj\Debug\MainWindow.g.cs
+C:\Users\leosa\Downloads\SkillHomeworkWpf12\SkillHomeworkWpf12\obj\Debug\App.g.cs
+C:\Users\leosa\Downloads\SkillHomeworkWpf12\SkillHomeworkWpf12\obj\Debug\SkillHomeworkWpf12_MarkupCompile.cache
+C:\Users\leosa\Downloads\SkillHomeworkWpf12\SkillHomeworkWpf12\obj\Debug\SkillHomeworkWpf12_MarkupCompile.lref
+C:\Users\leosa\Downloads\SkillHomeworkWpf12\SkillHomeworkWpf12\obj\Debug\MainWindow.baml
+C:\Users\leosa\Downloads\SkillHomeworkWpf12\SkillHomeworkWpf12\obj\Debug\SkillHomeworkWpf12.g.resources
+C:\Users\leosa\Downloads\SkillHomeworkWpf12\SkillHomeworkWpf12\obj\Debug\SkillHomeworkWpf12.Properties.Resources.resources
+C:\Users\leosa\Downloads\SkillHomeworkWpf12\SkillHomeworkWpf12\obj\Debug\SkillHomeworkWpf12.csproj.GenerateResource.cache
+C:\Users\leosa\Downloads\SkillHomeworkWpf12\SkillHomeworkWpf12\obj\Debug\SkillHomeworkWpf12.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\SkillHomeworkWpf12\SkillHomeworkWpf12\obj\Debug\SkillHomeworkWpf12.csproj.CopyComplete
+C:\Users\leosa\Downloads\SkillHomeworkWpf12\SkillHomeworkWpf12\obj\Debug\SkillHomeworkWpf12.exe
+C:\Users\leosa\Downloads\SkillHomeworkWpf12\SkillHomeworkWpf12\obj\Debug\SkillHomeworkWpf12.pdb
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\12. ООП. Часть 2\My_Self_12\SkillHomeworkWpf12\SkillHomeworkWpf12\bin\Debug\SkillHomeworkWpf12.exe.config
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\12. ООП. Часть 2\My_Self_12\SkillHomeworkWpf12\SkillHomeworkWpf12\bin\Debug\SkillHomeworkWpf12.exe
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\12. ООП. Часть 2\My_Self_12\SkillHomeworkWpf12\SkillHomeworkWpf12\bin\Debug\SkillHomeworkWpf12.pdb
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\12. ООП. Часть 2\My_Self_12\SkillHomeworkWpf12\SkillHomeworkWpf12\bin\Debug\Newtonsoft.Json.dll
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\12. ООП. Часть 2\My_Self_12\SkillHomeworkWpf12\SkillHomeworkWpf12\bin\Debug\Newtonsoft.Json.xml
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\12. ООП. Часть 2\My_Self_12\SkillHomeworkWpf12\SkillHomeworkWpf12\obj\Debug\SkillHomeworkWpf12.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\12. ООП. Часть 2\My_Self_12\SkillHomeworkWpf12\SkillHomeworkWpf12\obj\Debug\MainWindow.g.cs
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\12. ООП. Часть 2\My_Self_12\SkillHomeworkWpf12\SkillHomeworkWpf12\obj\Debug\App.g.cs
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\12. ООП. Часть 2\My_Self_12\SkillHomeworkWpf12\SkillHomeworkWpf12\obj\Debug\SkillHomeworkWpf12_MarkupCompile.cache
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\12. ООП. Часть 2\My_Self_12\SkillHomeworkWpf12\SkillHomeworkWpf12\obj\Debug\SkillHomeworkWpf12_MarkupCompile.lref
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\12. ООП. Часть 2\My_Self_12\SkillHomeworkWpf12\SkillHomeworkWpf12\obj\Debug\MainWindow.baml
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\12. ООП. Часть 2\My_Self_12\SkillHomeworkWpf12\SkillHomeworkWpf12\obj\Debug\SkillHomeworkWpf12.g.resources
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\12. ООП. Часть 2\My_Self_12\SkillHomeworkWpf12\SkillHomeworkWpf12\obj\Debug\SkillHomeworkWpf12.Properties.Resources.resources
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\12. ООП. Часть 2\My_Self_12\SkillHomeworkWpf12\SkillHomeworkWpf12\obj\Debug\SkillHomeworkWpf12.csproj.GenerateResource.cache
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\12. ООП. Часть 2\My_Self_12\SkillHomeworkWpf12\SkillHomeworkWpf12\obj\Debug\SkillHomeworkWpf12.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\12. ООП. Часть 2\My_Self_12\SkillHomeworkWpf12\SkillHomeworkWpf12\obj\Debug\SkillHomeworkWpf12.csproj.CopyComplete
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\12. ООП. Часть 2\My_Self_12\SkillHomeworkWpf12\SkillHomeworkWpf12\obj\Debug\SkillHomeworkWpf12.exe
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\12. ООП. Часть 2\My_Self_12\SkillHomeworkWpf12\SkillHomeworkWpf12\obj\Debug\SkillHomeworkWpf12.pdb
