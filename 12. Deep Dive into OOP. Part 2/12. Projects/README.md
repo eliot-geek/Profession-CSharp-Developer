@@ -72,6 +72,13 @@ Managers' payment is 15% of the total amount paid to all employees in their depa
 - Each department and unit has its own head.
 - The Director leads the Organization.
 
+## Add the ability
+- To modify
+- To delete
+- To edit
+- To sort
+- Instances of Worker and Department
+
 ## Implementation and Demonstration
 - Implement and demonstrate the operation of the information system.
 - Display the results in the console or using a UI.
