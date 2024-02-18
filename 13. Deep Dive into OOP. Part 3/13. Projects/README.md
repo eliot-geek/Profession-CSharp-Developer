@@ -93,3 +93,25 @@ It's up to you where and how the data will be stored when implementing the progr
 ## Project Demonstration
 
 The operation of the created system will be demonstrated to showcase its functionality and efficiency.
+
+# Result (UI) Windows Presentation Foundation
+
+![MyBank](../Pictures/bank.png)
+
+![MyBank](../Pictures/bank00.png)
+
+![MyBank](../Pictures/bank01.png)
+
+![MyBank](../Pictures/bank02.png)
+
+![MyBank](../Pictures/bank03.png)
+
+![MyBank](../Pictures/bank04.png)
+
+![MyBank](../Pictures/bank05.png)
+
+![MyBank](../Pictures/bank06.png)
+
+![MyBank](../Pictures/bank07.png)
+
+![MyBank](../Pictures/bank08.png)
