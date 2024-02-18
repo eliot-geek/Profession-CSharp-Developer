@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Less07LimitationsGenerics/1.0.0": {
+        "dependencies": {
+          "Less06LimitationsGenericsTypes": "1.0.0"
+        },
+        "runtime": {
+          "Less07LimitationsGenerics.dll": {}
+        }
+      },
+      "Less06LimitationsGenericsTypes/1.0.0": {
+        "runtime": {
+          "Less06LimitationsGenericsTypes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Less07LimitationsGenerics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Less06LimitationsGenericsTypes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

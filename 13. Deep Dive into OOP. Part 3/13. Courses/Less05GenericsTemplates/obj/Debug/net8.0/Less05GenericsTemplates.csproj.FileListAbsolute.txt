@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\13. Deep Dive into OOP. Part 3\13. Courses\DeepDiveIntoOOP3\Less05GenericsTemplates\bin\Debug\net8.0\Less05GenericsTemplates.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\13. Deep Dive into OOP. Part 3\13. Courses\DeepDiveIntoOOP3\Less05GenericsTemplates\bin\Debug\net8.0\Less05GenericsTemplates.deps.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\13. Deep Dive into OOP. Part 3\13. Courses\DeepDiveIntoOOP3\Less05GenericsTemplates\bin\Debug\net8.0\Less05GenericsTemplates.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\13. Deep Dive into OOP. Part 3\13. Courses\DeepDiveIntoOOP3\Less05GenericsTemplates\bin\Debug\net8.0\Less05GenericsTemplates.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\13. Deep Dive into OOP. Part 3\13. Courses\DeepDiveIntoOOP3\Less05GenericsTemplates\bin\Debug\net8.0\Less05GenericsTemplates.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\13. Deep Dive into OOP. Part 3\13. Courses\DeepDiveIntoOOP3\Less05GenericsTemplates\obj\Debug\net8.0\Less05GenericsTemplates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\13. Deep Dive into OOP. Part 3\13. Courses\DeepDiveIntoOOP3\Less05GenericsTemplates\obj\Debug\net8.0\Less05GenericsTemplates.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\13. Deep Dive into OOP. Part 3\13. Courses\DeepDiveIntoOOP3\Less05GenericsTemplates\obj\Debug\net8.0\Less05GenericsTemplates.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\13. Deep Dive into OOP. Part 3\13. Courses\DeepDiveIntoOOP3\Less05GenericsTemplates\obj\Debug\net8.0\Less05GenericsTemplates.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\13. Deep Dive into OOP. Part 3\13. Courses\DeepDiveIntoOOP3\Less05GenericsTemplates\obj\Debug\net8.0\Less05GenericsTemplates.sourcelink.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\13. Deep Dive into OOP. Part 3\13. Courses\DeepDiveIntoOOP3\Less05GenericsTemplates\obj\Debug\net8.0\Less05GenericsTemplates.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\13. Deep Dive into OOP. Part 3\13. Courses\DeepDiveIntoOOP3\Less05GenericsTemplates\obj\Debug\net8.0\refint\Less05GenericsTemplates.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\13. Deep Dive into OOP. Part 3\13. Courses\DeepDiveIntoOOP3\Less05GenericsTemplates\obj\Debug\net8.0\Less05GenericsTemplates.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\13. Deep Dive into OOP. Part 3\13. Courses\DeepDiveIntoOOP3\Less05GenericsTemplates\obj\Debug\net8.0\Less05GenericsTemplates.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\13. Deep Dive into OOP. Part 3\13. Courses\DeepDiveIntoOOP3\Less05GenericsTemplates\obj\Debug\net8.0\ref\Less05GenericsTemplates.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Less13Covariance/1.0.0": {
+        "runtime": {
+          "Less13Covariance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Less13Covariance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

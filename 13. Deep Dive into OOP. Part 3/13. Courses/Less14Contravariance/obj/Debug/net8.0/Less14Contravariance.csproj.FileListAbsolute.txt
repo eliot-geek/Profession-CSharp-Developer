@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\13. Deep Dive into OOP. Part 3\13. Courses\DeepDiveIntoOOP3\Less14Contravariance\bin\Debug\net8.0\Less14Contravariance.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\13. Deep Dive into OOP. Part 3\13. Courses\DeepDiveIntoOOP3\Less14Contravariance\bin\Debug\net8.0\Less14Contravariance.deps.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\13. Deep Dive into OOP. Part 3\13. Courses\DeepDiveIntoOOP3\Less14Contravariance\bin\Debug\net8.0\Less14Contravariance.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\13. Deep Dive into OOP. Part 3\13. Courses\DeepDiveIntoOOP3\Less14Contravariance\bin\Debug\net8.0\Less14Contravariance.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\13. Deep Dive into OOP. Part 3\13. Courses\DeepDiveIntoOOP3\Less14Contravariance\bin\Debug\net8.0\Less14Contravariance.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\13. Deep Dive into OOP. Part 3\13. Courses\DeepDiveIntoOOP3\Less14Contravariance\obj\Debug\net8.0\Less14Contravariance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\13. Deep Dive into OOP. Part 3\13. Courses\DeepDiveIntoOOP3\Less14Contravariance\obj\Debug\net8.0\Less14Contravariance.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\13. Deep Dive into OOP. Part 3\13. Courses\DeepDiveIntoOOP3\Less14Contravariance\obj\Debug\net8.0\Less14Contravariance.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\13. Deep Dive into OOP. Part 3\13. Courses\DeepDiveIntoOOP3\Less14Contravariance\obj\Debug\net8.0\Less14Contravariance.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\13. Deep Dive into OOP. Part 3\13. Courses\DeepDiveIntoOOP3\Less14Contravariance\obj\Debug\net8.0\Less14Contravariance.sourcelink.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\13. Deep Dive into OOP. Part 3\13. Courses\DeepDiveIntoOOP3\Less14Contravariance\obj\Debug\net8.0\Less14Contravariance.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\13. Deep Dive into OOP. Part 3\13. Courses\DeepDiveIntoOOP3\Less14Contravariance\obj\Debug\net8.0\refint\Less14Contravariance.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\13. Deep Dive into OOP. Part 3\13. Courses\DeepDiveIntoOOP3\Less14Contravariance\obj\Debug\net8.0\Less14Contravariance.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\13. Deep Dive into OOP. Part 3\13. Courses\DeepDiveIntoOOP3\Less14Contravariance\obj\Debug\net8.0\Less14Contravariance.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\13. Deep Dive into OOP. Part 3\13. Courses\DeepDiveIntoOOP3\Less14Contravariance\obj\Debug\net8.0\ref\Less14Contravariance.dll
