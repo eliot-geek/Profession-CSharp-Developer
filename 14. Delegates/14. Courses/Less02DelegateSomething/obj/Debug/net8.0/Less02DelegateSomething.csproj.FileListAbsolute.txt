@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less02DelegateSomething\bin\Debug\net8.0\Less02DelegateSomething.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less02DelegateSomething\bin\Debug\net8.0\Less02DelegateSomething.deps.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less02DelegateSomething\bin\Debug\net8.0\Less02DelegateSomething.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less02DelegateSomething\bin\Debug\net8.0\Less02DelegateSomething.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less02DelegateSomething\bin\Debug\net8.0\Less02DelegateSomething.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less02DelegateSomething\obj\Debug\net8.0\Less02DelegateSomething.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less02DelegateSomething\obj\Debug\net8.0\Less02DelegateSomething.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less02DelegateSomething\obj\Debug\net8.0\Less02DelegateSomething.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less02DelegateSomething\obj\Debug\net8.0\Less02DelegateSomething.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less02DelegateSomething\obj\Debug\net8.0\Less02DelegateSomething.sourcelink.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less02DelegateSomething\obj\Debug\net8.0\Less02DelegateSomething.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less02DelegateSomething\obj\Debug\net8.0\refint\Less02DelegateSomething.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less02DelegateSomething\obj\Debug\net8.0\Less02DelegateSomething.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less02DelegateSomething\obj\Debug\net8.0\Less02DelegateSomething.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less02DelegateSomething\obj\Debug\net8.0\ref\Less02DelegateSomething.dll

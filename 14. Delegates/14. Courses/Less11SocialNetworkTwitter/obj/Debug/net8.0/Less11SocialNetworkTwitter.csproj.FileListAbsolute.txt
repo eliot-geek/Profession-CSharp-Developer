@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less11SocialNetworkTwitter\bin\Debug\net8.0\Less11SocialNetworkTwitter.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less11SocialNetworkTwitter\bin\Debug\net8.0\Less11SocialNetworkTwitter.deps.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less11SocialNetworkTwitter\bin\Debug\net8.0\Less11SocialNetworkTwitter.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less11SocialNetworkTwitter\bin\Debug\net8.0\Less11SocialNetworkTwitter.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less11SocialNetworkTwitter\bin\Debug\net8.0\Less11SocialNetworkTwitter.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less11SocialNetworkTwitter\obj\Debug\net8.0\Less11SocialNetworkTwitter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less11SocialNetworkTwitter\obj\Debug\net8.0\Less11SocialNetworkTwitter.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less11SocialNetworkTwitter\obj\Debug\net8.0\Less11SocialNetworkTwitter.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less11SocialNetworkTwitter\obj\Debug\net8.0\Less11SocialNetworkTwitter.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less11SocialNetworkTwitter\obj\Debug\net8.0\Less11SocialNetworkTwitter.sourcelink.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less11SocialNetworkTwitter\obj\Debug\net8.0\Less11SocialNetworkTwitter.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less11SocialNetworkTwitter\obj\Debug\net8.0\refint\Less11SocialNetworkTwitter.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less11SocialNetworkTwitter\obj\Debug\net8.0\Less11SocialNetworkTwitter.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less11SocialNetworkTwitter\obj\Debug\net8.0\Less11SocialNetworkTwitter.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less11SocialNetworkTwitter\obj\Debug\net8.0\ref\Less11SocialNetworkTwitter.dll

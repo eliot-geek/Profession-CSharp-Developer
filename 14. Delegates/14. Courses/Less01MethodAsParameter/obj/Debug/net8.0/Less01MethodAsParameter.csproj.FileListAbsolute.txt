@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less01MethodAsParameter\bin\Debug\net8.0\Less01MethodAsParameter.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less01MethodAsParameter\bin\Debug\net8.0\Less01MethodAsParameter.deps.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less01MethodAsParameter\bin\Debug\net8.0\Less01MethodAsParameter.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less01MethodAsParameter\bin\Debug\net8.0\Less01MethodAsParameter.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less01MethodAsParameter\bin\Debug\net8.0\Less01MethodAsParameter.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less01MethodAsParameter\obj\Debug\net8.0\Less01MethodAsParameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less01MethodAsParameter\obj\Debug\net8.0\Less01MethodAsParameter.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less01MethodAsParameter\obj\Debug\net8.0\Less01MethodAsParameter.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less01MethodAsParameter\obj\Debug\net8.0\Less01MethodAsParameter.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less01MethodAsParameter\obj\Debug\net8.0\Less01MethodAsParameter.sourcelink.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less01MethodAsParameter\obj\Debug\net8.0\Less01MethodAsParameter.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less01MethodAsParameter\obj\Debug\net8.0\refint\Less01MethodAsParameter.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less01MethodAsParameter\obj\Debug\net8.0\Less01MethodAsParameter.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less01MethodAsParameter\obj\Debug\net8.0\Less01MethodAsParameter.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less01MethodAsParameter\obj\Debug\net8.0\ref\Less01MethodAsParameter.dll

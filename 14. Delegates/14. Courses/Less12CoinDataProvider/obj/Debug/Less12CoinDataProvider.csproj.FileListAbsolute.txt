@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less12CoinDataProvider\bin\Debug\Less12CoinDataProvider.exe.config
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less12CoinDataProvider\bin\Debug\Less12CoinDataProvider.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less12CoinDataProvider\bin\Debug\Less12CoinDataProvider.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less12CoinDataProvider\obj\Debug\Less12CoinDataProvider.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less12CoinDataProvider\obj\Debug\MainWindow.g.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less12CoinDataProvider\obj\Debug\App.g.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less12CoinDataProvider\obj\Debug\Less12CoinDataProvider_MarkupCompile.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less12CoinDataProvider\obj\Debug\Less12CoinDataProvider_MarkupCompile.lref
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less12CoinDataProvider\obj\Debug\MainWindow.baml
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less12CoinDataProvider\obj\Debug\Less12CoinDataProvider.g.resources
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less12CoinDataProvider\obj\Debug\Less12CoinDataProvider.Properties.Resources.resources
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less12CoinDataProvider\obj\Debug\Less12CoinDataProvider.csproj.GenerateResource.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less12CoinDataProvider\obj\Debug\Less12CoinDataProvider.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less12CoinDataProvider\obj\Debug\Less12CoinDataProvider.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less12CoinDataProvider\obj\Debug\Less12CoinDataProvider.pdb

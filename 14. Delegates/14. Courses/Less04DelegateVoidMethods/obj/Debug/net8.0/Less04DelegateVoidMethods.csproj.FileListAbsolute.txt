@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less04DelegateVoidMethods\bin\Debug\net8.0\Less04DelegateVoidMethods.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less04DelegateVoidMethods\bin\Debug\net8.0\Less04DelegateVoidMethods.deps.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less04DelegateVoidMethods\bin\Debug\net8.0\Less04DelegateVoidMethods.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less04DelegateVoidMethods\bin\Debug\net8.0\Less04DelegateVoidMethods.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less04DelegateVoidMethods\bin\Debug\net8.0\Less04DelegateVoidMethods.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less04DelegateVoidMethods\obj\Debug\net8.0\Less04DelegateVoidMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less04DelegateVoidMethods\obj\Debug\net8.0\Less04DelegateVoidMethods.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less04DelegateVoidMethods\obj\Debug\net8.0\Less04DelegateVoidMethods.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less04DelegateVoidMethods\obj\Debug\net8.0\Less04DelegateVoidMethods.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less04DelegateVoidMethods\obj\Debug\net8.0\Less04DelegateVoidMethods.sourcelink.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less04DelegateVoidMethods\obj\Debug\net8.0\Less04DelegateVoidMethods.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less04DelegateVoidMethods\obj\Debug\net8.0\refint\Less04DelegateVoidMethods.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less04DelegateVoidMethods\obj\Debug\net8.0\Less04DelegateVoidMethods.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less04DelegateVoidMethods\obj\Debug\net8.0\Less04DelegateVoidMethods.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less04DelegateVoidMethods\obj\Debug\net8.0\ref\Less04DelegateVoidMethods.dll

@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less03DelegateAPIService\bin\Debug\net8.0\Less03DelegateAPIService.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less03DelegateAPIService\bin\Debug\net8.0\Less03DelegateAPIService.deps.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less03DelegateAPIService\bin\Debug\net8.0\Less03DelegateAPIService.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less03DelegateAPIService\bin\Debug\net8.0\Less03DelegateAPIService.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less03DelegateAPIService\bin\Debug\net8.0\Less03DelegateAPIService.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less03DelegateAPIService\obj\Debug\net8.0\Less03DelegateAPIService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less03DelegateAPIService\obj\Debug\net8.0\Less03DelegateAPIService.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less03DelegateAPIService\obj\Debug\net8.0\Less03DelegateAPIService.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less03DelegateAPIService\obj\Debug\net8.0\Less03DelegateAPIService.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less03DelegateAPIService\obj\Debug\net8.0\Less03DelegateAPIService.sourcelink.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less03DelegateAPIService\obj\Debug\net8.0\Less03DelegateAPIService.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less03DelegateAPIService\obj\Debug\net8.0\refint\Less03DelegateAPIService.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less03DelegateAPIService\obj\Debug\net8.0\Less03DelegateAPIService.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less03DelegateAPIService\obj\Debug\net8.0\Less03DelegateAPIService.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less03DelegateAPIService\obj\Debug\net8.0\ref\Less03DelegateAPIService.dll

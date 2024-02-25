@@ -1,0 +1,29 @@
+﻿<Window x:Class="Less12CoinDataProvider.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Less12CoinDataProvider"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ListBox x:Name="listBox" Margin="0,0,237,0">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding CoinName}" Margin="5" Width="50" FontSize="20"/>
+                        <TextBlock Text="{Binding Delta}" Margin="5" Width="50" FontSize="20"/>
+                        <Rectangle Width="{Binding Value}" Height="20" Fill="Red" Margin="5"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <!--<Button Content="Update" 
+                HorizontalAlignment="Left" 
+                Margin="627,51,0,0"
+                VerticalAlignment="Top" 
+                Width="100" 
+                FontSize="20" 
+                Click="Button_Click"/>-->
+    </Grid>
+</Window>

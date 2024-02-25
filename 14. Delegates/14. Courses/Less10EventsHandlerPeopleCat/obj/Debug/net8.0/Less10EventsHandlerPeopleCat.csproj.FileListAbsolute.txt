@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less10EventsHandlerPeopleCat\bin\Debug\net8.0\Less10EventsHandlerPeopleCat.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less10EventsHandlerPeopleCat\bin\Debug\net8.0\Less10EventsHandlerPeopleCat.deps.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less10EventsHandlerPeopleCat\bin\Debug\net8.0\Less10EventsHandlerPeopleCat.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less10EventsHandlerPeopleCat\bin\Debug\net8.0\Less10EventsHandlerPeopleCat.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less10EventsHandlerPeopleCat\bin\Debug\net8.0\Less10EventsHandlerPeopleCat.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less10EventsHandlerPeopleCat\obj\Debug\net8.0\Less10EventsHandlerPeopleCat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less10EventsHandlerPeopleCat\obj\Debug\net8.0\Less10EventsHandlerPeopleCat.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less10EventsHandlerPeopleCat\obj\Debug\net8.0\Less10EventsHandlerPeopleCat.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less10EventsHandlerPeopleCat\obj\Debug\net8.0\Less10EventsHandlerPeopleCat.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less10EventsHandlerPeopleCat\obj\Debug\net8.0\Less10EventsHandlerPeopleCat.sourcelink.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less10EventsHandlerPeopleCat\obj\Debug\net8.0\Less10EventsHandlerPeopleCat.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less10EventsHandlerPeopleCat\obj\Debug\net8.0\refint\Less10EventsHandlerPeopleCat.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less10EventsHandlerPeopleCat\obj\Debug\net8.0\Less10EventsHandlerPeopleCat.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less10EventsHandlerPeopleCat\obj\Debug\net8.0\Less10EventsHandlerPeopleCat.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less10EventsHandlerPeopleCat\obj\Debug\net8.0\ref\Less10EventsHandlerPeopleCat.dll

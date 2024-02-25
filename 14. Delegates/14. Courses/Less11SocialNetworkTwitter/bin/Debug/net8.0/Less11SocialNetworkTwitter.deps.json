@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Less11SocialNetworkTwitter/1.0.0": {
+        "runtime": {
+          "Less11SocialNetworkTwitter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Less11SocialNetworkTwitter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

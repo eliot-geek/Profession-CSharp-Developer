@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less08EventsDrivenModel\bin\Debug\Less08EventsDrivenModel.exe.config
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less08EventsDrivenModel\bin\Debug\Less08EventsDrivenModel.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less08EventsDrivenModel\bin\Debug\Less08EventsDrivenModel.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less08EventsDrivenModel\obj\Debug\Less08EventsDrivenModel.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less08EventsDrivenModel\obj\Debug\MainWindow.g.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less08EventsDrivenModel\obj\Debug\App.g.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less08EventsDrivenModel\obj\Debug\Less08EventsDrivenModel_MarkupCompile.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less08EventsDrivenModel\obj\Debug\Less08EventsDrivenModel_MarkupCompile.lref
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less08EventsDrivenModel\obj\Debug\MainWindow.baml
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less08EventsDrivenModel\obj\Debug\Less08EventsDrivenModel.g.resources
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less08EventsDrivenModel\obj\Debug\Less08EventsDrivenModel.Properties.Resources.resources
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less08EventsDrivenModel\obj\Debug\Less08EventsDrivenModel.csproj.GenerateResource.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less08EventsDrivenModel\obj\Debug\Less08EventsDrivenModel.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less08EventsDrivenModel\obj\Debug\Less08EventsDrivenModel.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less08EventsDrivenModel\obj\Debug\Less08EventsDrivenModel.pdb

@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less07AnonymousMethodsLambda\bin\Debug\net8.0\Less07AnonymousMethodsLambda.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less07AnonymousMethodsLambda\bin\Debug\net8.0\Less07AnonymousMethodsLambda.deps.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less07AnonymousMethodsLambda\bin\Debug\net8.0\Less07AnonymousMethodsLambda.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less07AnonymousMethodsLambda\bin\Debug\net8.0\Less07AnonymousMethodsLambda.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less07AnonymousMethodsLambda\bin\Debug\net8.0\Less07AnonymousMethodsLambda.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less07AnonymousMethodsLambda\obj\Debug\net8.0\Less07AnonymousMethodsLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less07AnonymousMethodsLambda\obj\Debug\net8.0\Less07AnonymousMethodsLambda.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less07AnonymousMethodsLambda\obj\Debug\net8.0\Less07AnonymousMethodsLambda.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less07AnonymousMethodsLambda\obj\Debug\net8.0\Less07AnonymousMethodsLambda.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less07AnonymousMethodsLambda\obj\Debug\net8.0\Less07AnonymousMethodsLambda.sourcelink.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less07AnonymousMethodsLambda\obj\Debug\net8.0\Less07AnonymousMethodsLambda.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less07AnonymousMethodsLambda\obj\Debug\net8.0\refint\Less07AnonymousMethodsLambda.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less07AnonymousMethodsLambda\obj\Debug\net8.0\Less07AnonymousMethodsLambda.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less07AnonymousMethodsLambda\obj\Debug\net8.0\Less07AnonymousMethodsLambda.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less07AnonymousMethodsLambda\obj\Debug\net8.0\ref\Less07AnonymousMethodsLambda.dll

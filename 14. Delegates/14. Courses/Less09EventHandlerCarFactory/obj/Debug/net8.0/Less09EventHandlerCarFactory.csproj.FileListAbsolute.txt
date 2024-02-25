@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less09EventHandlerCarFactory\bin\Debug\net8.0\Less09EventHandlerCarFactory.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less09EventHandlerCarFactory\bin\Debug\net8.0\Less09EventHandlerCarFactory.deps.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less09EventHandlerCarFactory\bin\Debug\net8.0\Less09EventHandlerCarFactory.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less09EventHandlerCarFactory\bin\Debug\net8.0\Less09EventHandlerCarFactory.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less09EventHandlerCarFactory\bin\Debug\net8.0\Less09EventHandlerCarFactory.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less09EventHandlerCarFactory\obj\Debug\net8.0\Less09EventHandlerCarFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less09EventHandlerCarFactory\obj\Debug\net8.0\Less09EventHandlerCarFactory.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less09EventHandlerCarFactory\obj\Debug\net8.0\Less09EventHandlerCarFactory.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less09EventHandlerCarFactory\obj\Debug\net8.0\Less09EventHandlerCarFactory.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less09EventHandlerCarFactory\obj\Debug\net8.0\Less09EventHandlerCarFactory.sourcelink.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less09EventHandlerCarFactory\obj\Debug\net8.0\Less09EventHandlerCarFactory.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less09EventHandlerCarFactory\obj\Debug\net8.0\refint\Less09EventHandlerCarFactory.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less09EventHandlerCarFactory\obj\Debug\net8.0\Less09EventHandlerCarFactory.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less09EventHandlerCarFactory\obj\Debug\net8.0\Less09EventHandlerCarFactory.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less09EventHandlerCarFactory\obj\Debug\net8.0\ref\Less09EventHandlerCarFactory.dll

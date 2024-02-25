@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less06ActionFuncPredicate\bin\Debug\net8.0\Less06ActionFuncPredicate.exe
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less06ActionFuncPredicate\bin\Debug\net8.0\Less06ActionFuncPredicate.deps.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less06ActionFuncPredicate\bin\Debug\net8.0\Less06ActionFuncPredicate.runtimeconfig.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less06ActionFuncPredicate\bin\Debug\net8.0\Less06ActionFuncPredicate.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less06ActionFuncPredicate\bin\Debug\net8.0\Less06ActionFuncPredicate.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less06ActionFuncPredicate\obj\Debug\net8.0\Less06ActionFuncPredicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less06ActionFuncPredicate\obj\Debug\net8.0\Less06ActionFuncPredicate.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less06ActionFuncPredicate\obj\Debug\net8.0\Less06ActionFuncPredicate.AssemblyInfo.cs
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less06ActionFuncPredicate\obj\Debug\net8.0\Less06ActionFuncPredicate.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less06ActionFuncPredicate\obj\Debug\net8.0\Less06ActionFuncPredicate.sourcelink.json
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less06ActionFuncPredicate\obj\Debug\net8.0\Less06ActionFuncPredicate.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less06ActionFuncPredicate\obj\Debug\net8.0\refint\Less06ActionFuncPredicate.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less06ActionFuncPredicate\obj\Debug\net8.0\Less06ActionFuncPredicate.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less06ActionFuncPredicate\obj\Debug\net8.0\Less06ActionFuncPredicate.genruntimeconfig.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\14. Delegates\14. Courses\Less06ActionFuncPredicate\obj\Debug\net8.0\ref\Less06ActionFuncPredicate.dll
