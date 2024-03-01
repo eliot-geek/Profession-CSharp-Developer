@@ -1,0 +1,6 @@
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\15. Additional Material\15. Courses\Less05LibraryProgramClassLibrary1\bin\Debug\Less05LibraryProgramClassLibrary1.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\15. Additional Material\15. Courses\Less05LibraryProgramClassLibrary1\bin\Debug\Less05LibraryProgramClassLibrary1.pdb
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\15. Additional Material\15. Courses\Less05LibraryProgramClassLibrary1\obj\Debug\Less05LibraryProgramClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\15. Additional Material\15. Courses\Less05LibraryProgramClassLibrary1\obj\Debug\Less05LibraryProgramClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\15. Additional Material\15. Courses\Less05LibraryProgramClassLibrary1\obj\Debug\Less05LibraryProgramClassLibrary1.dll
+C:\Users\leosa\Downloads\PushHub\Github\Profession-CSharp-Developer\15. Additional Material\15. Courses\Less05LibraryProgramClassLibrary1\obj\Debug\Less05LibraryProgramClassLibrary1.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Less05LibraryProgram/1.0.0": {
+        "dependencies": {
+          "Less05LibraryProgramClassLibrary1": "1.0.0"
+        },
+        "runtime": {
+          "Less05LibraryProgram.dll": {}
+        }
+      },
+      "Less05LibraryProgramClassLibrary1/1.0.0": {
+        "runtime": {
+          "Less05LibraryProgramClassLibrary1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Less05LibraryProgram/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Less05LibraryProgramClassLibrary1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

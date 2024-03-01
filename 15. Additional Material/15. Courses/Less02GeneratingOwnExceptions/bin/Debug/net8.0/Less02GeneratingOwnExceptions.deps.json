@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Less02GeneratingOwnExceptions/1.0.0": {
+        "runtime": {
+          "Less02GeneratingOwnExceptions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Less02GeneratingOwnExceptions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

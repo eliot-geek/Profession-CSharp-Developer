@@ -1,0 +1,342 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\15. Additional Material\\15. Courses\\AdditionalMaterial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42717132-4FFE-4B9E-A974-2E22EA3BE6D0}|..\\Less08ExtensionMethodsPrintPow\\Less08ExtensionMethodsPrintPow.csproj|c:\\users\\leosa\\downloads\\pushhub\\github\\profession-csharp-developer\\15. additional material\\15. courses\\less08extensionmethodsprintpow\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42717132-4FFE-4B9E-A974-2E22EA3BE6D0}|..\\Less08ExtensionMethodsPrintPow\\Less08ExtensionMethodsPrintPow.csproj|c:\\users\\leosa\\downloads\\pushhub\\github\\profession-csharp-developer\\15. additional material\\15. courses\\less08extensionmethodsprintpow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC8FB3A-699F-486B-B2B2-76A4B7B057A3}|..\\Less07ExtensionMethods\\Less07ExtensionMethods.csproj|c:\\users\\leosa\\downloads\\pushhub\\github\\profession-csharp-developer\\15. additional material\\15. courses\\less07extensionmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A14B6395-9FE9-4FF5-933A-F3D2971845A9}|..\\Less06DiagramLibraryWPF\\Less06DiagramLibraryWPF.csproj|c:\\users\\leosa\\downloads\\pushhub\\github\\profession-csharp-developer\\15. additional material\\15. courses\\less06diagramlibrarywpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A14B6395-9FE9-4FF5-933A-F3D2971845A9}|..\\Less06DiagramLibraryWPF\\Less06DiagramLibraryWPF.csproj|c:\\users\\leosa\\downloads\\pushhub\\github\\profession-csharp-developer\\15. additional material\\15. courses\\less06diagramlibrarywpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CD06CB-BD60-4E5A-882F-553CC3DC027A}|..\\Less06DiagramLibraryWPFWpfControlLibrary\\Less06DiagramLibraryWPFWpfControlLibrary.csproj|c:\\users\\leosa\\downloads\\pushhub\\github\\profession-csharp-developer\\15. additional material\\15. courses\\less06diagramlibrarywpfwpfcontrollibrary\\usercontrol1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CD06CB-BD60-4E5A-882F-553CC3DC027A}|..\\Less06DiagramLibraryWPFWpfControlLibrary\\Less06DiagramLibraryWPFWpfControlLibrary.csproj|c:\\users\\leosa\\downloads\\pushhub\\github\\profession-csharp-developer\\15. additional material\\15. courses\\less06diagramlibrarywpfwpfcontrollibrary\\usercontrol1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9148EC58-7E58-4AA6-B524-035A002ACE92}|..\\Less05LibraryWPF\\Less05LibraryWPF.csproj|c:\\users\\leosa\\downloads\\pushhub\\github\\profession-csharp-developer\\15. additional material\\15. courses\\less05librarywpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9148EC58-7E58-4AA6-B524-035A002ACE92}|..\\Less05LibraryWPF\\Less05LibraryWPF.csproj|c:\\users\\leosa\\downloads\\pushhub\\github\\profession-csharp-developer\\15. additional material\\15. courses\\less05librarywpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794C5872-48D9-445F-A414-38F1F74C9060}|..\\Less05LibraryProgramClassLibrary1\\Less05LibraryProgramClassLibrary1.csproj|c:\\users\\leosa\\downloads\\pushhub\\github\\profession-csharp-developer\\15. additional material\\15. courses\\less05libraryprogramclasslibrary1\\mymath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C68D5D-6F14-491A-9659-546299BBF08A}|..\\Less05LibraryProgram\\Less05LibraryProgram.csproj|c:\\users\\leosa\\downloads\\pushhub\\github\\profession-csharp-developer\\15. additional material\\15. courses\\less05libraryprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C90D0F-C113-40A5-A239-F6FF15662BC2}|..\\Less04OverloadingOperations\\Less04OverloadingOperations.csproj|c:\\users\\leosa\\downloads\\pushhub\\github\\profession-csharp-developer\\15. additional material\\15. courses\\less04overloadingoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C90D0F-C113-40A5-A239-F6FF15662BC2}|..\\Less04OverloadingOperations\\Less04OverloadingOperations.csproj|c:\\users\\leosa\\downloads\\pushhub\\github\\profession-csharp-developer\\15. additional material\\15. courses\\less04overloadingoperations\\complex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7932029A-A089-4880-A59F-1A4368D00193}|..\\Less03SomethingException\\Less03SomethingException.csproj|c:\\users\\leosa\\downloads\\pushhub\\github\\profession-csharp-developer\\15. additional material\\15. courses\\less03somethingexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7932029A-A089-4880-A59F-1A4368D00193}|..\\Less03SomethingException\\Less03SomethingException.csproj|c:\\users\\leosa\\downloads\\pushhub\\github\\profession-csharp-developer\\15. additional material\\15. courses\\less03somethingexception\\somethingexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7932029A-A089-4880-A59F-1A4368D00193}|..\\Less03SomethingException\\Less03SomethingException.csproj|c:\\users\\leosa\\downloads\\pushhub\\github\\profession-csharp-developer\\15. additional material\\15. courses\\less03somethingexception\\somethingexception1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB87BB9-33D8-41FD-876A-1D17408F1D50}|..\\Less02GeneratingOwnExceptions\\Less02GeneratingOwnExceptions.csproj|c:\\users\\leosa\\downloads\\pushhub\\github\\profession-csharp-developer\\15. additional material\\15. courses\\less02generatingownexceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB87BB9-33D8-41FD-876A-1D17408F1D50}|..\\Less02GeneratingOwnExceptions\\Less02GeneratingOwnExceptions.csproj|c:\\users\\leosa\\downloads\\pushhub\\github\\profession-csharp-developer\\15. additional material\\15. courses\\less02generatingownexceptions\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF34A75-A57A-45A4-BB16-B53A7E237701}|..\\Less01ExceptionHandling\\Less01ExceptionHandling.csproj|c:\\users\\leosa\\downloads\\pushhub\\github\\profession-csharp-developer\\15. additional material\\15. courses\\less01exceptionhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE4436DA-6199-447D-BA13-737032426663}|AdditionalMaterial.csproj|c:\\users\\leosa\\downloads\\pushhub\\github\\profession-csharp-developer\\15. additional material\\15. courses\\additionalmaterial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE4436DA-6199-447D-BA13-737032426663}|AdditionalMaterial.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Extension.cs",
+              "DocumentMoniker": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\15. Additional Material\\15. Courses\\Less08ExtensionMethodsPrintPow\\Extension.cs",
+              "RelativeDocumentMoniker": "..\\Less08ExtensionMethodsPrintPow\\Extension.cs",
+              "ToolTip": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\15. Additional Material\\15. Courses\\Less08ExtensionMethodsPrintPow\\Extension.cs",
+              "RelativeToolTip": "..\\Less08ExtensionMethodsPrintPow\\Extension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwDYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T12:37:52.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\15. Additional Material\\15. Courses\\Less08ExtensionMethodsPrintPow\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Less08ExtensionMethodsPrintPow\\Program.cs",
+              "ToolTip": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\15. Additional Material\\15. Courses\\Less08ExtensionMethodsPrintPow\\Program.cs",
+              "RelativeToolTip": "..\\Less08ExtensionMethodsPrintPow\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T12:37:40.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\15. Additional Material\\15. Courses\\Less07ExtensionMethods\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Less07ExtensionMethods\\Program.cs",
+              "ToolTip": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\15. Additional Material\\15. Courses\\Less07ExtensionMethods\\Program.cs",
+              "RelativeToolTip": "..\\Less07ExtensionMethods\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T11:59:58.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserControl1.xaml",
+              "DocumentMoniker": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\15. Additional Material\\15. Courses\\Less06DiagramLibraryWPFWpfControlLibrary\\UserControl1.xaml",
+              "RelativeDocumentMoniker": "..\\Less06DiagramLibraryWPFWpfControlLibrary\\UserControl1.xaml",
+              "ToolTip": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\15. Additional Material\\15. Courses\\Less06DiagramLibraryWPFWpfControlLibrary\\UserControl1.xaml",
+              "RelativeToolTip": "..\\Less06DiagramLibraryWPFWpfControlLibrary\\UserControl1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-01T11:31:11.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserControl1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\15. Additional Material\\15. Courses\\Less06DiagramLibraryWPFWpfControlLibrary\\UserControl1.xaml.cs",
+              "RelativeDocumentMoniker": "..\\Less06DiagramLibraryWPFWpfControlLibrary\\UserControl1.xaml.cs",
+              "ToolTip": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\15. Additional Material\\15. Courses\\Less06DiagramLibraryWPFWpfControlLibrary\\UserControl1.xaml.cs",
+              "RelativeToolTip": "..\\Less06DiagramLibraryWPFWpfControlLibrary\\UserControl1.xaml.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T11:31:11.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\15. Additional Material\\15. Courses\\Less06DiagramLibraryWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\Less06DiagramLibraryWPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\15. Additional Material\\15. Courses\\Less06DiagramLibraryWPF\\MainWindow.xaml",
+              "RelativeToolTip": "..\\Less06DiagramLibraryWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-01T11:21:00.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\15. Additional Material\\15. Courses\\Less06DiagramLibraryWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\Less06DiagramLibraryWPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\15. Additional Material\\15. Courses\\Less06DiagramLibraryWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\Less06DiagramLibraryWPF\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T11:21:00.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\15. Additional Material\\15. Courses\\Less05LibraryWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\Less05LibraryWPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\15. Additional Material\\15. Courses\\Less05LibraryWPF\\MainWindow.xaml",
+              "RelativeToolTip": "..\\Less05LibraryWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-01T11:14:08.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\15. Additional Material\\15. Courses\\Less05LibraryWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\Less05LibraryWPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\15. Additional Material\\15. Courses\\Less05LibraryWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\Less05LibraryWPF\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T11:14:08.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MyMath.cs",
+              "DocumentMoniker": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\15. Additional Material\\15. Courses\\Less05LibraryProgramClassLibrary1\\MyMath.cs",
+              "RelativeDocumentMoniker": "..\\Less05LibraryProgramClassLibrary1\\MyMath.cs",
+              "ToolTip": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\15. Additional Material\\15. Courses\\Less05LibraryProgramClassLibrary1\\MyMath.cs",
+              "RelativeToolTip": "..\\Less05LibraryProgramClassLibrary1\\MyMath.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T11:02:01.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\15. Additional Material\\15. Courses\\Less05LibraryProgram\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Less05LibraryProgram\\Program.cs",
+              "ToolTip": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\15. Additional Material\\15. Courses\\Less05LibraryProgram\\Program.cs",
+              "RelativeToolTip": "..\\Less05LibraryProgram\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T10:59:12.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Complex.cs",
+              "DocumentMoniker": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\15. Additional Material\\15. Courses\\Less04OverloadingOperations\\Complex.cs",
+              "RelativeDocumentMoniker": "..\\Less04OverloadingOperations\\Complex.cs",
+              "ToolTip": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\15. Additional Material\\15. Courses\\Less04OverloadingOperations\\Complex.cs",
+              "RelativeToolTip": "..\\Less04OverloadingOperations\\Complex.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T10:15:33.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\15. Additional Material\\15. Courses\\Less04OverloadingOperations\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Less04OverloadingOperations\\Program.cs",
+              "ToolTip": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\15. Additional Material\\15. Courses\\Less04OverloadingOperations\\Program.cs",
+              "RelativeToolTip": "..\\Less04OverloadingOperations\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T10:15:18.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SomethingException1.cs",
+              "DocumentMoniker": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\15. Additional Material\\15. Courses\\Less03SomethingException\\SomethingException1.cs",
+              "RelativeDocumentMoniker": "..\\Less03SomethingException\\SomethingException1.cs",
+              "ToolTip": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\15. Additional Material\\15. Courses\\Less03SomethingException\\SomethingException1.cs",
+              "RelativeToolTip": "..\\Less03SomethingException\\SomethingException1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T09:55:40.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SomethingException.cs",
+              "DocumentMoniker": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\15. Additional Material\\15. Courses\\Less03SomethingException\\SomethingException.cs",
+              "RelativeDocumentMoniker": "..\\Less03SomethingException\\SomethingException.cs",
+              "ToolTip": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\15. Additional Material\\15. Courses\\Less03SomethingException\\SomethingException.cs",
+              "RelativeToolTip": "..\\Less03SomethingException\\SomethingException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T09:45:25.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\15. Additional Material\\15. Courses\\Less03SomethingException\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Less03SomethingException\\Program.cs",
+              "ToolTip": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\15. Additional Material\\15. Courses\\Less03SomethingException\\Program.cs",
+              "RelativeToolTip": "..\\Less03SomethingException\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T09:44:23.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\15. Additional Material\\15. Courses\\Less02GeneratingOwnExceptions\\Class.cs",
+              "RelativeDocumentMoniker": "..\\Less02GeneratingOwnExceptions\\Class.cs",
+              "ToolTip": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\15. Additional Material\\15. Courses\\Less02GeneratingOwnExceptions\\Class.cs",
+              "RelativeToolTip": "..\\Less02GeneratingOwnExceptions\\Class.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T09:30:23.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\15. Additional Material\\15. Courses\\Less02GeneratingOwnExceptions\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Less02GeneratingOwnExceptions\\Program.cs",
+              "ToolTip": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\15. Additional Material\\15. Courses\\Less02GeneratingOwnExceptions\\Program.cs",
+              "RelativeToolTip": "..\\Less02GeneratingOwnExceptions\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T09:28:48.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\15. Additional Material\\15. Courses\\Less01ExceptionHandling\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Less01ExceptionHandling\\Program.cs",
+              "ToolTip": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\15. Additional Material\\15. Courses\\Less01ExceptionHandling\\Program.cs",
+              "RelativeToolTip": "..\\Less01ExceptionHandling\\Program.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAQwKoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T08:43:49.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\15. Additional Material\\15. Courses\\AdditionalMaterial\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\leosa\\Downloads\\PushHub\\Github\\Profession-CSharp-Developer\\15. Additional Material\\15. Courses\\AdditionalMaterial\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T08:42:28.094Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
