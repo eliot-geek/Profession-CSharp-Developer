@@ -73,6 +73,12 @@ Bank
  - Add notification mechanisms using delegates and events.
  - Implement an action log that will store records of all transactions on accounts/deposits/loans.
 
+## Exception Handling - Extension Methods
+
+ - Create custom exceptions and add their handling to the previous project.
+ - Consider using extension methods and operator overloads.
+ - Extract the main logic into a separate library or libraries.
+
 ## Additionally
 
 The system considers offering clients with a good credit history a lower loan interest rate and a higher deposit interest rate.
