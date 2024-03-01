@@ -1,0 +1,12 @@
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15 - Copy\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15 - Copy\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15 - Copy\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15 - Copy\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15 - Copy\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15 - Copy\ClassLibrary\obj\Debug\ClassLibrary.pdb

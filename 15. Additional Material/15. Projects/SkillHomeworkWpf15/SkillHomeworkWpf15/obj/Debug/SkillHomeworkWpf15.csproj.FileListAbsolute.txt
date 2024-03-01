@@ -1,0 +1,36 @@
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15\SkillHomeworkWpf15\bin\Debug\SkillHomeworkWpf15.exe.config
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15\SkillHomeworkWpf15\bin\Debug\SkillHomeworkWpf15.exe
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15\SkillHomeworkWpf15\bin\Debug\SkillHomeworkWpf15.pdb
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15\SkillHomeworkWpf15\bin\Debug\ClassLibrary.dll
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15\SkillHomeworkWpf15\bin\Debug\ClassLibrary.pdb
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15\SkillHomeworkWpf15\obj\Debug\SkillHomeworkWpf15.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15\SkillHomeworkWpf15\obj\Debug\MainWindow.g.cs
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15\SkillHomeworkWpf15\obj\Debug\App.g.cs
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15\SkillHomeworkWpf15\obj\Debug\SkillHomeworkWpf15_MarkupCompile.cache
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15\SkillHomeworkWpf15\obj\Debug\SkillHomeworkWpf15_MarkupCompile.lref
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15\SkillHomeworkWpf15\obj\Debug\MainWindow.baml
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15\SkillHomeworkWpf15\obj\Debug\SkillHomeworkWpf15.g.resources
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15\SkillHomeworkWpf15\obj\Debug\SkillHomeworkWpf15.Properties.Resources.resources
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15\SkillHomeworkWpf15\obj\Debug\SkillHomeworkWpf15.csproj.GenerateResource.cache
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15\SkillHomeworkWpf15\obj\Debug\SkillHomeworkWpf15.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15\SkillHomeworkWpf15\obj\Debug\SkillHomeworkWpf15.exe
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15\SkillHomeworkWpf15\obj\Debug\SkillHomeworkWpf15.pdb
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15 - Copy\SkillHomeworkWpf15\bin\Debug\SkillHomeworkWpf15.exe.config
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15 - Copy\SkillHomeworkWpf15\bin\Debug\SkillHomeworkWpf15.exe
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15 - Copy\SkillHomeworkWpf15\bin\Debug\SkillHomeworkWpf15.pdb
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15 - Copy\SkillHomeworkWpf15\bin\Debug\ClassLibrary.dll
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15 - Copy\SkillHomeworkWpf15\bin\Debug\ClassLibrary.pdb
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15 - Copy\SkillHomeworkWpf15\obj\Debug\SkillHomeworkWpf15.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15 - Copy\SkillHomeworkWpf15\obj\Debug\MainWindow.g.cs
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15 - Copy\SkillHomeworkWpf15\obj\Debug\App.g.cs
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15 - Copy\SkillHomeworkWpf15\obj\Debug\SkillHomeworkWpf15_MarkupCompile.cache
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15 - Copy\SkillHomeworkWpf15\obj\Debug\SkillHomeworkWpf15_MarkupCompile.lref
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15 - Copy\SkillHomeworkWpf15\obj\Debug\MainWindow.baml
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15 - Copy\SkillHomeworkWpf15\obj\Debug\SkillHomeworkWpf15.g.resources
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15 - Copy\SkillHomeworkWpf15\obj\Debug\SkillHomeworkWpf15.Properties.Resources.resources
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15 - Copy\SkillHomeworkWpf15\obj\Debug\SkillHomeworkWpf15.csproj.GenerateResource.cache
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15 - Copy\SkillHomeworkWpf15\obj\Debug\SkillHomeworkWpf15.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15 - Copy\SkillHomeworkWpf15\obj\Debug\SkillHomeworkWpf15.csproj.CopyComplete
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15 - Copy\SkillHomeworkWpf15\obj\Debug\SkillHomeworkWpf15.exe
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15 - Copy\SkillHomeworkWpf15\obj\Debug\SkillHomeworkWpf15.pdb
+C:\Users\leosa\Downloads\Skillbox\1. Profession C# developer\15. Дополнительный материал\My_Self_15\SkillHomeworkWpf15\SkillHomeworkWpf15\obj\Debug\SkillHom.F28BEBAF.Up2Date
